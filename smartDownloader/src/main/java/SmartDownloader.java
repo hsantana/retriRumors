@@ -4,6 +4,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -23,8 +24,7 @@ import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
-
-import org.scribe.builder.*;
+import org.scribe.builder.*; //Imports to handle oath.
 import org.scribe.builder.api.*;
 import org.scribe.model.*;
 import org.scribe.oauth.*;
@@ -38,21 +38,31 @@ public class SmartDownloader extends Thread {
     public String tokenSecret;
     public String filePath;
     public String outputFileName;
+    public String topics;
     public File outputFile;
     
-    public SmartDownloader(){
-        this.outputFileName="tweetsV1-Hugo.txt";
-        this.apiKey="X5QaYPl89YnwR9qjB2ro5mN4H";
-        this.apiSecret="xy0zCGHjhzyG9Tl96lD9CT1GtZuhKi9RSItIOZp8420KkDusZ7";
-        this.tokenValue="34494124-wZpEvlhYgFrISqCvq5ZiX8VLbPAQk386fX88uT2Ln";
-        this.tokenSecret="UUeshZc0CRsr0jDD1OSFqDJ2piVaiREaiQkueDJR7lIvQ";
-        this.filePath="/Users/Hugo/NetBeansProjects/smartDownloader/TwitterData";
+    public SmartDownloader(String outputFileName, String apiKey, String apiSecret, String tokenValue, String tokenSecret, String filePath, String topics) throws IOException{
+        this.outputFileName=outputFileName;
+        this.apiKey=apiKey;
+        this.apiSecret=apiSecret;
+        this.tokenValue=tokenValue;
+        this.tokenSecret=tokenSecret;
+        this.filePath=filePath;
+        this.topics=topics;
     }
     
     public void run(){
+            PrintWriter out = null;
+            int requestCount=0;
         try {
-            this.createOutputFile();
-            while(true){
+            try {
+                this.createOutputFile();
+            } catch (IOException ex) {
+                Logger.getLogger(SmartDownloader.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            out = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileName, true)));
+            while(requestCount<1){
+                
                 try{
                     // Enter your consumer key and secret below
                     OAuthService service = new ServiceBuilder()
@@ -71,8 +81,9 @@ public class SmartDownloader extends Thread {
                     request.addHeader("host", "stream.twitter.com");
                     request.setConnectionKeepAlive(true);
                     request.addHeader("user-agent", "Twitter Stream Reader");
-                    request.addBodyParameter("track", "bombs"); // Set keywords you'd like to track here CHANGE THIS.
+                    request.addBodyParameter("track", topics); //Using topics
                     service.signRequest(accessToken, request);
+                    
                     Response response = request.send();
                     
                     // Create a reader to read Twitter's stream
@@ -82,20 +93,25 @@ public class SmartDownloader extends Thread {
                     while ((line = reader.readLine()) != null) {
                         System.out.println("Printing received information:");
                         System.out.println(line);
-                        PrintWriter out = new PrintWriter(this.outputFile);
-                        out.append(line);
+                        out.println(line);
                         System.out.println("Writing new tweet.");
-                        Thread.sleep(20000);
                     }
+                    Thread.sleep(20);
+                    out.close(); //Closing writer
+                    requestCount++;
+                    
                 }
                 catch (IOException ioe){//
                     ioe.printStackTrace();
                 } catch (InterruptedException ex) {
-                    Logger.getLogger(SmartDownloader.class.getName()).log(Level.SEVERE, null, ex);
+                    Logger.getLogger(SmartDownloader.class.getName()).log(Level.SEVERE, null, ex);  
                 }
             }
+            out.close(); //Closing writer
         } catch (IOException ex) {
             Logger.getLogger(SmartDownloader.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            out.close();
         }
     }
     
@@ -104,6 +120,7 @@ public class SmartDownloader extends Thread {
         
         if(! this.outputFile.exists()){
             this.outputFile.createNewFile();
+            System.out.println("Creating new file for output");
         }
     }
     
