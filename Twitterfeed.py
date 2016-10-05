@@ -29,10 +29,10 @@ class listener(StreamListener):
         f.write(str(feedsbody))
         # Push rumors and details information to elasticsearch
         # es.index(index="rumors",doc_type="details",body=feedsbody)
-        if os.path.getsize('/Users/vishalnayanshi/rumorvenv/feeds.txt') != 10000:
-            return True
-        else:
-            return False
+        # if os.path.getsize('/Users/vishalnayanshi/rumorvenv/feeds.txt') != 10000:
+        # return True
+        # else:
+        # return False
 
     def on_error(self, status):
         print status
