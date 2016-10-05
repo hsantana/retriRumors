@@ -28,7 +28,7 @@ class listener(StreamListener):
     	f = open('feeds.txt', 'a')
         f.write(str(feedsbody))
         # Push rumors and details information to elasticsearch
-        es.index(index="rumors",doc_type="details",body=feedsbody)
+        # es.index(index="rumors",doc_type="details",body=feedsbody)
         if os.path.getsize('/Users/vishalnayanshi/rumorvenv/feeds.txt') != 10000:
             return True
         else:
