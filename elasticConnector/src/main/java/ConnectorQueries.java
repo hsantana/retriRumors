@@ -1,6 +1,12 @@
 
+import java.util.Map;
 import org.elasticsearch.action.search.SearchResponse;
+import org.elasticsearch.action.search.SearchType;
 import org.elasticsearch.client.transport.TransportClient;
+import org.elasticsearch.index.query.MatchQueryBuilder;
+import org.elasticsearch.index.query.QueryBuilders;
+import org.elasticsearch.search.SearchHit;
+import org.elasticsearch.search.SearchHitField;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -21,21 +27,24 @@ public class ConnectorQueries {
         this.client=client;
     }
     
-    public void getAll(){
+    public void getAllIds(){
+        //This method gets all Ids stored under the index movies on ES.
+        MatchQueryBuilder query = QueryBuilders.matchQuery("_index", "movies");
+        SearchResponse response1 = client.prepareSearch().setQuery(query).execute().actionGet();
         
-        SearchResponse response = client.prepareSearch().execute().actionGet();
-        // on shutdown
         System.out.println("Complete Response");
-        System.out.println(response.toString());
+        System.out.println(response1.toString());
         
-        /*
-        for(int i = 0; i<response.getHits().hits().length; i++){
-            
-            System.out.println("Result # " + i);
-            System.out.println("ID: "+response.getHits().getAt(i).getId());
-            System.out.println("Index: "+response.getHits().getAt(i).getIndex());
-            System.out.println("Fields: "+response.getHits().getAt(i).getFields().toString());
-        }*/
+        for (SearchHit hit : response1.getHits()){
+                Map<String, Object> fields = hit.getSource();
+                System.out.println(fields.get("id"));
+                System.out.println(fields.size());
+        }
+    }
+    public void getAll(){
+            SearchResponse response = client.prepareSearch().execute().actionGet();
+            System.out.println("Complete Response:");
+            System.out.println(response.toString());
     }
     
     public void getTweetTextByKeywords(String keywords){
