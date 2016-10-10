@@ -13,7 +13,7 @@ import java.io.IOException;
  */
 public class SmartDownloaderStarter {
     public static void main(String[] args) throws IOException{
-        String outputFileName="tweetsV1-Hugo.txt";
+        String outputFileName="tweetsV2-Hugo.txt";
         String apiKey="X5QaYPl89YnwR9qjB2ro5mN4H";
         String apiSecret="xy0zCGHjhzyG9Tl96lD9CT1GtZuhKi9RSItIOZp8420KkDusZ7";
         String tokenValue="34494124-wZpEvlhYgFrISqCvq5ZiX8VLbPAQk386fX88uT2Ln";

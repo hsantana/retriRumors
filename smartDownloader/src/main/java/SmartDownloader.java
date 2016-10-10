@@ -40,6 +40,7 @@ public class SmartDownloader extends Thread {
     public String outputFileName;
     public String topics;
     public File outputFile;
+    public PrintWriter out;
     
     public SmartDownloader(String outputFileName, String apiKey, String apiSecret, String tokenValue, String tokenSecret, String filePath, String topics) throws IOException{
         this.outputFileName=outputFileName;
@@ -49,20 +50,18 @@ public class SmartDownloader extends Thread {
         this.tokenSecret=tokenSecret;
         this.filePath=filePath;
         this.topics=topics;
+        this.out = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileName, true)));
     }
     
     public void run(){
-            PrintWriter out = null;
+           
             int requestCount=0;
-        try {
             try {
                 this.createOutputFile();
             } catch (IOException ex) {
                 Logger.getLogger(SmartDownloader.class.getName()).log(Level.SEVERE, null, ex);
             }
-            out = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileName, true)));
             while(requestCount<1){
-                
                 try{
                     // Enter your consumer key and secret below
                     OAuthService service = new ServiceBuilder()
@@ -93,8 +92,7 @@ public class SmartDownloader extends Thread {
                     while ((line = reader.readLine()) != null) {
                         System.out.println("Printing received information:");
                         System.out.println(line);
-                        out.println(line);
-                        System.out.println("Writing new tweet.");
+                        writeOutputFile(line);
                     }
                     Thread.sleep(20);
                     out.close(); //Closing writer
@@ -107,14 +105,21 @@ public class SmartDownloader extends Thread {
                     Logger.getLogger(SmartDownloader.class.getName()).log(Level.SEVERE, null, ex);  
                 }
             }
-            out.close(); //Closing writer
-        } catch (IOException ex) {
-            Logger.getLogger(SmartDownloader.class.getName()).log(Level.SEVERE, null, ex);
-        } finally {
             out.close();
-        }
     }
     
+    public void writeOutputFile(String line){
+        String id = getId(line);
+        out.println(line);
+        System.out.println("Writing new tweet.");
+        out.println("{'index':{'_id':"+id+"}}");
+    }
+    
+    public String getId(String line){
+        String[] splittedLine= line.split(":");
+        String[] splittedLine2 = splittedLine[4].split(",");
+        return splittedLine2[0];
+    }
     public void createOutputFile() throws IOException{
         this.outputFile = new File(outputFileName);
         
