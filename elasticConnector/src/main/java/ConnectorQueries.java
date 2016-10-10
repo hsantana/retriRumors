@@ -48,6 +48,17 @@ public class ConnectorQueries {
     }
     
     public void getTweetTextByKeywords(String keywords){
+        //This method gets all tweet text that contains one or more of the keywords.
+        MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);
         
+        SearchResponse response1 = client.prepareSearch().setQuery(query).execute().actionGet();
+        
+        System.out.println("Complete Response");
+        System.out.println(response1.toString());
+        
+        for (SearchHit hit : response1.getHits()){
+                Map<String, Object> fields = hit.getSource();
+                System.out.println(fields.get("text"));
+        }
     }
 }

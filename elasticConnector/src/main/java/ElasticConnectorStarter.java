@@ -23,14 +23,17 @@ public class ElasticConnectorStarter {
     
     public static void main(String[] args) throws UnknownHostException {
         
-        String keywords = "Bomb, Ny";
+        String keywords = "bombs";
  
         TransportClient client = TransportClient.builder().build()
         .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("localhost"), 9300));
         ConnectorQueries connectorQ= new ConnectorQueries(client);
         
-        //Executing method that gets all info on ElasticSearch
-        connectorQ.getAll();
+        /******Executing ConnectorQueries Methods:*****/
+        connectorQ.getTweetTextByKeywords(keywords);
+        //connectorQ.getAllIds();
+        //connectorQ.getAll();
+        
         
         //.addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("host2"), 9300));
         System.out.println("Closing Connection with Elastic Search");
