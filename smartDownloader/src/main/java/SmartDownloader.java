@@ -110,9 +110,10 @@ public class SmartDownloader extends Thread {
     
     public void writeOutputFile(String line){
         String id = getId(line);
-        out.println(line);
-        System.out.print("Writing new tweet.");
         out.println("{\"index\":{\"_id\":"+id+"}}");
+        out.print(line);
+        System.out.println("Writing new tweet.");
+        
     }
     
     public String getId(String line){
