@@ -9,6 +9,7 @@
  * @author Hugo
  * This class establishes a connection with elasticSearch and executes the desired query
  */
+import java.io.IOException;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import org.elasticsearch.client.transport.TransportClient;
@@ -21,12 +22,14 @@ import static org.elasticsearch.index.query.QueryBuilders.matchAllQuery;
 public class ElasticConnectorStarter {
     
     
-    public static void main(String[] args) throws UnknownHostException {
+    public static void main(String[] args) throws UnknownHostException, IOException {
         
-        String keywords = "bombs";
+        String keywords = "ny new york usa he she all they I";
  
         TransportClient client = TransportClient.builder().build()
         .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("localhost"), 9300));
+        
+        //Creating instance of Helper Class with queries.
         ConnectorQueries connectorQ= new ConnectorQueries(client);
         
         /******Executing ConnectorQueries Methods:*****/

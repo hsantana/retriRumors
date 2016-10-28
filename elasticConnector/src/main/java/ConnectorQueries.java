@@ -1,10 +1,16 @@
 
+import java.io.IOException;
 import java.util.Map;
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.action.search.SearchType;
 import org.elasticsearch.client.transport.TransportClient;
+import org.elasticsearch.index.query.BoolQueryBuilder;
 import org.elasticsearch.index.query.MatchQueryBuilder;
+import org.elasticsearch.index.query.QueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
+import static org.elasticsearch.index.query.QueryBuilders.boolQuery;
+import static org.elasticsearch.index.query.QueryBuilders.matchQuery;
+import static org.elasticsearch.index.query.QueryBuilders.termQuery;
 import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHitField;
 
@@ -29,29 +35,36 @@ public class ConnectorQueries {
     
     public void getAllIds(){
         //This method gets all Ids stored under the index movies on ES.
-        MatchQueryBuilder query = QueryBuilders.matchQuery("_index", "movies");
-        SearchResponse response1 = client.prepareSearch().setQuery(query).execute().actionGet();
+        MatchQueryBuilder query = QueryBuilders.matchQuery("_index", "retrirumors");
+        SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(2000).execute().actionGet();
         
         System.out.println("Complete Response");
         System.out.println(response1.toString());
-        
-        for (SearchHit hit : response1.getHits()){
-                Map<String, Object> fields = hit.getSource();
+        System.out.println("Total Hits = " +response1.getHits().getTotalHits());
+        for(int i = 0; i<response1.getHits().getTotalHits(); i++){
+                Map<String, Object> fields = response1.getHits().getAt(i).getSource();
                 System.out.println(fields.get("id"));
                 System.out.println(fields.size());
         }
+        
     }
+
     public void getAll(){
             SearchResponse response = client.prepareSearch().execute().actionGet();
             System.out.println("Complete Response:");
             System.out.println(response.toString());
     }
     
-    public void getTweetTextByKeywords(String keywords){
+    public void getTweetTextByKeywords(String keywords) throws IOException{
         //This method gets all tweet text that contains one or more of the keywords.
-        MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);
+       
+        //Creating outputHandler instance
+        OutputHandler outputH= new OutputHandler();
         
-        SearchResponse response1 = client.prepareSearch().setQuery(query).execute().actionGet();
+        //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
+         QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
+       
+        SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(2000).execute().actionGet();
         
         System.out.println("Complete Response");
         System.out.println(response1.toString());
@@ -59,6 +72,13 @@ public class ConnectorQueries {
         for (SearchHit hit : response1.getHits()){
                 Map<String, Object> fields = hit.getSource();
                 System.out.println(fields.get("text"));
+                System.out.println(((String)fields.get("text")).trim());
+                outputH.writeOutputFile(((String) fields.get("text")).trim());
+                outputH.writeOutputFile("-----------------------------------------------------------");
         }
+        
+        outputH.closeOutputHanlder();
+        
+        
     }
 }
