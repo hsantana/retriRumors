@@ -71,8 +71,8 @@ public class ConnectorQueries {
         
         for (SearchHit hit : response1.getHits()){
                 Map<String, Object> fields = hit.getSource();
-                System.out.println(fields.get("text"));
-                System.out.println(((String)fields.get("text")).trim());
+                //System.out.println(fields.get("text"));
+                //System.out.println(((String)fields.get("text")).trim());
                 outputH.writeOutputFile(((String) fields.get("text")).trim());
                 outputH.writeOutputFile("-----------------------------------------------------------");
         }
