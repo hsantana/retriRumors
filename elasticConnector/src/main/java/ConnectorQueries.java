@@ -98,22 +98,25 @@ public class ConnectorQueries {
         
         for (SearchHit hit : response1.getHits()){
                 Map<String, Object> fields = hit.getSource();
+                Map<String, Object> user = (Map<String, Object>) fields.get("user");
+                Map<String, Object> entities = (Map<String, Object>) fields.get("entities");
                 //Map≤String, Object> userFields=hit.getSource();
                 String line=fields.get("id") + "," +
                     fields.get("text") + "," +
-                    fields.get("user") + "," +
-                    fields.get("verified") + "," +
-                    fields.get("followers_count") + "," +
-                    fields.get("following") + "," +
-                    fields.get("statuses_count") + "," +
-                    fields.get("default_profile") + "," +
-                    fields.get("default_profile_image") + "," +
+                    user.get("screen_name") + "," +
+                    user.get("protected") + "," +
+                    user.get("verified") + "," +
+                    user.get("followers_count") + "," +
+                    user.get("following") + "," +
+                    user.get("statuses_count") + "," +
+                    user.get("default_profile") + "," +
+                    user.get("default_profile_image") + "," +
                     fields.get("retweet_count") + "," +
                     fields.get("favorite_count") + "," +
                     fields.get("favorited") + "," +
                     fields.get("retweeted") + "," +
-                    "hashtag_tbd" + "," +
-                    "urls_tbd" + ",";
+                    entities.get("hashtags") + "," +
+                    entities.get("urls") + ",";
                 outputH.writeOutputFileBasic(line);
         }
         
