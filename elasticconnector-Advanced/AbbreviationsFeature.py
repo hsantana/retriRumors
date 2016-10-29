@@ -12,7 +12,7 @@ def Abbreviations(para):
     word_features = []
 
     for i,j in nltk.pos_tag(sentense):
-        if j in ['JJ', 'JJR', 'JJS', 'RB', 'RBR', 'RBS']: 
+        if j in []: # already Checked Out this program making changes
             word_features.append(i)
 
     Rating = 0
