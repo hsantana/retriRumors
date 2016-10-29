@@ -1,9 +1,12 @@
-#Importing libaray and Api
+#Importing libaray, Api
 import sys
 from Cleaner import strip_links, strip_all_entities
+from elasticsearch import Elasticsearch
+
+#Here we will import class, methods and modules of feature
 from NegativePositiveWords import Opinions
 from Vulgarwordsfeature import VulgarFilter
-from elasticsearch import Elasticsearch
+
 
 # create instance of elasticsearch
 es = Elasticsearch()
