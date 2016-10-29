@@ -14,7 +14,8 @@ def features():
 	counter = 0
 	Negativetweets = 0
 	Positivetweets = 0
-
+	
+	# Already checked out to make changes to read hugo's file, but below logic still works file for testing purposes
 	res = es.search(index="tweets", doc_type='rumors',body={"query": {"match_all": {}}, "size": 5})
 	for hit in res['hits']['hits']:
 		counter = counter + 1
