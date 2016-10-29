@@ -64,17 +64,57 @@ public class ConnectorQueries {
         //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
          QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
        
-        SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(2000).execute().actionGet();
+        SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
+        
+        //System.out.println("Complete Response");
+        //System.out.println(response1.toString());
+        
+        for (SearchHit hit : response1.getHits()){
+                Map<String, Object> fields = hit.getSource();
+                //System.out.println(fields.get("text"));
+                //System.out.println(((String)fields.get("text")).trim());
+                outputH.writeOutputFileText(((String) fields.get("text")).trim());
+                outputH.writeOutputFileText("-----------------------------------------------------------");
+        }
+        
+        outputH.closeOutputHanlder();
+        
+        
+    }
+    
+    public void getBasicInfoByKeywords(String keywords) throws IOException{
+        //This method gets basic information and retrieves an output file (csv)
+       
+        //Creating outputHandler instance
+        OutputHandler outputH= new OutputHandler();
+        
+        //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
+         QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
+       
+        SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
         
         System.out.println("Complete Response");
         System.out.println(response1.toString());
         
         for (SearchHit hit : response1.getHits()){
                 Map<String, Object> fields = hit.getSource();
-                //System.out.println(fields.get("text"));
-                //System.out.println(((String)fields.get("text")).trim());
-                outputH.writeOutputFile(((String) fields.get("text")).trim());
-                outputH.writeOutputFile("-----------------------------------------------------------");
+                //Map≤String, Object> userFields=hit.getSource();
+                String line=fields.get("id") + "," +
+                    fields.get("text") + "," +
+                    fields.get("user") + "," +
+                    fields.get("verified") + "," +
+                    fields.get("followers_count") + "," +
+                    fields.get("following") + "," +
+                    fields.get("statuses_count") + "," +
+                    fields.get("default_profile") + "," +
+                    fields.get("default_profile_image") + "," +
+                    fields.get("retweet_count") + "," +
+                    fields.get("favorite_count") + "," +
+                    fields.get("favorited") + "," +
+                    fields.get("retweeted") + "," +
+                    "hashtag_tbd" + "," +
+                    "urls_tbd" + ",";
+                outputH.writeOutputFileBasic(line);
         }
         
         outputH.closeOutputHanlder();

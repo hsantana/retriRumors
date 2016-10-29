@@ -33,7 +33,8 @@ public class ElasticConnectorStarter {
         ConnectorQueries connectorQ= new ConnectorQueries(client);
         
         /******Executing ConnectorQueries Methods:*****/
-        connectorQ.getTweetTextByKeywords(keywords);
+        //connectorQ.getTweetTextByKeywords(keywords);
+        connectorQ.getBasicInfoByKeywords(keywords);
         //connectorQ.getAllIds();
         //connectorQ.getAll();
         

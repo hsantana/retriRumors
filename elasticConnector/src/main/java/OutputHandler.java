@@ -17,31 +17,51 @@ import java.io.PrintWriter;
  */
 public class OutputHandler {
     
-    public File outputFile;
-    public PrintWriter out;
-    public String outputFileName;
+    public File outputFileText;
+    public File outputFileBasic;
+    public PrintWriter outText;
+    public PrintWriter outBasic;
+    public String outputFileNameText;
+    public String outputFileNameBasic;
     
     public OutputHandler() throws IOException{
-            this.outputFileName="tweetsTextV1.txt";
-            this.out = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileName, true)));
+            this.outputFileNameText="tweetsTextV1.txt";
+            this.outputFileNameBasic="tweetsBasicV1.txt";
+            this.outText = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileNameText, true)));
+            this.outBasic = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileNameBasic, true)));
             
-            createOutputFile();
+            createOutputFileText();
+            createOutputFileBasic();
     }
         
-    public void createOutputFile() throws IOException{
-        this.outputFile = new File(outputFileName);
+    public void createOutputFileText() throws IOException{
+        this.outputFileText = new File(outputFileNameText);
         
-        if(! this.outputFile.exists()){
-            this.outputFile.createNewFile();
+        if(! this.outputFileText.exists()){
+            this.outputFileText.createNewFile();
             System.out.println("Creating new file for output");
         }
     }
     
-    public void writeOutputFile(String line){
-        out.println(line);
+    public void createOutputFileBasic() throws IOException{
+        this.outputFileBasic = new File(outputFileNameBasic);
+        
+        if(! this.outputFileBasic.exists()){
+            this.outputFileBasic.createNewFile();
+            System.out.println("Creating new file for output");
+        }
+    }
+    
+    public void writeOutputFileText(String line){
+        outText.println(line);
+    }
+    
+    public void writeOutputFileBasic(String line){
+        outBasic.println(line);
     }
     
     public void closeOutputHanlder(){
-        out.close();
+        outText.close();
+        outBasic.close();
     }
 }
