@@ -1,3 +1,4 @@
+id, tweet_text, screen_name, protected, verified, followers_count,following, statuses_count, default_profile, default_profile_image, retweet_count, favorite_count,favorited, retweeted, hashtags, urls
 785620100057489409,Lmfao I love winston from new girl,groovyyas,false,false,290,null,2804,true,false,0,0,false,false,[],[],
 785620071683153920,When i shake a girl and she tries to do he hand-shake-snap thing https://t.co/2yOpG06Osg,Daltimore,false,false,1671,null,81206,false,false,0,0,false,false,[],[],
 785620070634360832,She actually did all of the looks, she posted videos of them after she went private https://t.co/auB8wVUl4U,thotfulstyles,false,false,371,null,49179,false,false,0,0,false,false,[],[{display_url=twitter.com/pannapitta/sta…, indices=[84, 107], expanded_url=https://twitter.com/pannapitta/status/783413386692419584, url=https://t.co/auB8wVUl4U}],

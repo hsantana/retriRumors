@@ -87,9 +87,11 @@ public class ConnectorQueries {
        
         //Creating outputHandler instance
         OutputHandler outputH= new OutputHandler();
-        
+        outputH.writeOutputFileBasic("id, tweet_text, screen_name, protected, verified, followers_count,"
+                    + "following, statuses_count, default_profile, default_profile_image, retweet_count, favorite_count,"
+                    + "favorited, retweeted, hashtags, urls");
         //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
-         QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
+        QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
        
         SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
         

@@ -48,6 +48,7 @@ public class OutputHandler {
         
         if(! this.outputFileBasic.exists()){
             this.outputFileBasic.createNewFile();
+
             System.out.println("Creating new file for output");
         }
     }
