@@ -56,6 +56,7 @@ public class SmartDownloader extends Thread {
     public void run(){
            
             int requestCount=0;
+            int numberOfTweets=0;
             try {
                 this.createOutputFile();
             } catch (IOException ex) {
@@ -92,11 +93,20 @@ public class SmartDownloader extends Thread {
                     while ((line = reader.readLine()) != null) {
                         System.out.println("Printing received information:");
                         System.out.println(line);
-                        writeOutputFile(line);
+                        if(isValidResponse(line)==false){
+                            System.out.println("TWITTER TIMEOUT, SLEEPING FOR 16 minutes");
+                            Thread.sleep(1000000);
+                        }else{
+                            writeOutputFile(line);
+                            numberOfTweets++;
+                        }
+                        if(numberOfTweets>5000){//Max number of tweets reached, ending program/connection
+                            System.out.println("DONE");
+                            out.close(); //Closing writer
+                            requestCount++;
+                        }
+                        
                     }
-                    Thread.sleep(20);
-                    out.close(); //Closing writer
-                    requestCount++;
                     
                 }
                 catch (IOException ioe){//
@@ -109,6 +119,7 @@ public class SmartDownloader extends Thread {
     }
     
     public void writeOutputFile(String line){
+        
         String id = getId(line);
         out.print("{\"index\":{\"_id\":"+id+"}}");
         out.println(line);
@@ -120,6 +131,14 @@ public class SmartDownloader extends Thread {
         String[] splittedLine= line.split(":");
         String[] splittedLine2 = splittedLine[4].split(",");
         return splittedLine2[0];
+    }
+    
+    public boolean isValidResponse(String line){
+        if(line.length()<200){
+            return false;
+        }
+        
+        return true;
     }
     public void createOutputFile() throws IOException{
         this.outputFile = new File(outputFileName);
