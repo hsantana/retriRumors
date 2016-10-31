@@ -94,8 +94,8 @@ public class SmartDownloader extends Thread {
                         System.out.println("Printing received information:");
                         System.out.println(line);
                         if(isValidResponse(line)==false){
-                            System.out.println("TWITTER TIMEOUT, SLEEPING FOR 16 minutes");
-                            Thread.sleep(1000000);
+                            System.out.println("TWITTER TIMEOUT, SLEEPING FOR 33 minutes");
+                            Thread.sleep(2000000);
                         }else{
                             writeOutputFile(line);
                             numberOfTweets++;
