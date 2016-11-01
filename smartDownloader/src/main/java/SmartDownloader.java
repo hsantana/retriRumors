@@ -94,16 +94,18 @@ public class SmartDownloader extends Thread {
                         System.out.println("Printing received information:");
                         System.out.println(line);
                         if(isValidResponse(line)==false){
-                            System.out.println("TWITTER TIMEOUT, SLEEPING FOR 33 minutes");
-                            Thread.sleep(2000000);
+                            System.out.println("Invalid Response obtained");
+                        }else if(timeoutReached(line)==true){
+                            System.out.println("Twitter Timeout, sleeping for 20 seconds");
+                            Thread.sleep(20000);
                         }else{
                             writeOutputFile(line);
                             numberOfTweets++;
                         }
-                        if(numberOfTweets>5000){//Max number of tweets reached, ending program/connection
-                            System.out.println("DONE");
+                        if(numberOfTweets>100){//Max number of tweets reached, ending program/connection
+                            System.out.println("100 tweets obtained, closing program");
                             out.close(); //Closing writer
-                            requestCount++;
+                            System.exit(0);
                         }
                         
                     }
@@ -133,13 +135,22 @@ public class SmartDownloader extends Thread {
         return splittedLine2[0];
     }
     
-    public boolean isValidResponse(String line){
+    public boolean timeoutReached(String line){
         if(line.length()<200){
+            return true;
+        }
+        
+        return false;
+    }
+    
+    public boolean isValidResponse(String line){
+        if(line.isEmpty()){
             return false;
         }
         
         return true;
     }
+    
     public void createOutputFile() throws IOException{
         this.outputFile = new File(outputFileName);
         
