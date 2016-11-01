@@ -1,5 +1,6 @@
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Map;
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.action.search.SearchType;
@@ -105,13 +106,27 @@ public class ConnectorQueries {
         SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
         
         System.out.println("Complete Response");
-        System.out.println(response1.toString());
+        //System.out.println(response1.toString());
         
         for (SearchHit hit : response1.getHits()){
                 Map<String, Object> fields = hit.getSource();
                 Map<String, Object> user = (Map<String, Object>) fields.get("user");
                 Map<String, Object> entities = (Map<String, Object>) fields.get("entities");
                 //Map≤String, Object> userFields=hit.getSource();
+                ArrayList urls = (ArrayList) entities.get("urls");
+                ArrayList hash = (ArrayList) entities.get("hash");
+                String urlString = "";
+                String hashString = "";
+                if(urls!=null){
+                    urlString = this.ArrayListToString(urls);
+                }
+                
+                if(hash!=null){
+                    hashString = this.ArrayListToString(hash);
+                }
+                                
+                String urls_noCommas = replaceCommas(urlString);
+                String hash_noCommas = replaceCommas(hashString);
                 String line=fields.get("id") + "," +
                     user.get("verified") + "," +
                     user.get("followers_count") + "," +
@@ -119,8 +134,8 @@ public class ConnectorQueries {
                     fields.get("retweet_count") + "," +
                     fields.get("favorite_count") + "," +
                     fields.get("retweeted") + "," +
-                    entities.get("hashtags") + "," +
-                    entities.get("urls") + ",";
+                    urls_noCommas + "," +
+                    hash_noCommas;
                 outputH.writeOutputFileBasic(line);
         }
         
@@ -130,9 +145,23 @@ public class ConnectorQueries {
     }
     
     public String replaceCommas(String line){
+        System.out.println("Received Line = " + line);
         String newLine = line.replace(",", " ");
         return newLine;
     }
+    
+    public String ArrayListToString(ArrayList al){
+        String sb = "";
+        if(al==null){
+            return "[]";
+        }
+        System.out.println("size="+al.size());
+        for(int i = 0; i<al.size(); i++){
+                sb=sb + "["+al.get(i)+"]";
+        }
+        return sb;
+    }
+    
     
     public String replaceLineBreaks(String line){
         String newLine = line.replace("\n", " ");
