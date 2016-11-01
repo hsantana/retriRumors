@@ -96,9 +96,9 @@ public class ConnectorQueries {
         //Creating outputHandler instance
         OutputHandler outputH= new OutputHandler();
         outputH.writeOutputFileBasic(keywordsOriginal);
-        outputH.writeOutputFileBasic("id, tweet_text, screen_name, protected, verified, followers_count,"
-                    + "following, statuses_count, default_profile, default_profile_image, retweet_count, favorite_count,"
-                    + "favorited, retweeted, hashtags, urls");
+        outputH.writeOutputFileBasic("id, verified, followers_count,"
+                    + "default_profile_image, retweet_count, favorites_count,"
+                    + "retweeted, hashtags, urls");
         //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
         QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
        
@@ -112,21 +112,12 @@ public class ConnectorQueries {
                 Map<String, Object> user = (Map<String, Object>) fields.get("user");
                 Map<String, Object> entities = (Map<String, Object>) fields.get("entities");
                 //Map≤String, Object> userFields=hit.getSource();
-                String text = replaceCommas((String) fields.get("text"));
-                String finalText=replaceLineBreaks(text);
                 String line=fields.get("id") + "," +
-                    finalText + "," +
-                    user.get("screen_name") + "," +
-                    user.get("protected") + "," +
                     user.get("verified") + "," +
                     user.get("followers_count") + "," +
-                    user.get("following") + "," +
-                    user.get("statuses_count") + "," +
-                    user.get("default_profile") + "," +
                     user.get("default_profile_image") + "," +
                     fields.get("retweet_count") + "," +
                     fields.get("favorite_count") + "," +
-                    fields.get("favorited") + "," +
                     fields.get("retweeted") + "," +
                     entities.get("hashtags") + "," +
                     entities.get("urls") + ",";

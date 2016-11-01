@@ -1,599 +1,294 @@
-id, tweet_text, screen_name, protected, verified, followers_count,following, statuses_count, default_profile, default_profile_image, retweet_count, favorite_count,favorited, retweeted, hashtags, urls
-785620100057489409,Lmfao I love winston from new girl,groovyyas,false,false,290,null,2804,true,false,0,0,false,false,[],[],
-785620071683153920,When i shake a girl and she tries to do he hand-shake-snap thing https://t.co/2yOpG06Osg,Daltimore,false,false,1671,null,81206,false,false,0,0,false,false,[],[],
-785620070634360832,She actually did all of the looks, she posted videos of them after she went private https://t.co/auB8wVUl4U,thotfulstyles,false,false,371,null,49179,false,false,0,0,false,false,[],[{display_url=twitter.com/pannapitta/sta…, indices=[84, 107], expanded_url=https://twitter.com/pannapitta/status/783413386692419584, url=https://t.co/auB8wVUl4U}],
-785620142818406400,RT @MikeAdamOnAir: #DonaldTrump saw a boy who was lost in New York and didn't tell anyone. Is this a man we can trust as president!? https:…,High_Mayyy,false,false,279,null,6559,true,false,0,0,false,false,[{indices=[19, 31], text=DonaldTrump}],[],
-785620886040653824,RT @MikeAdamOnAir: #DonaldTrump saw a boy who was lost in New York and didn't tell anyone. Is this a man we can trust as president!? https:…,TaraBroadway,false,false,922,null,31016,false,false,0,0,false,false,[{indices=[19, 31], text=DonaldTrump}],[],
-785620144114446336,RT @kezdoe: How do niggas get friendzoned by a girl they like? She going to be telling you her dick appointments and you have to be okay wi…,Unspokenvibes_,false,false,4399,null,60551,false,false,0,0,false,false,[],[],
-785620172853747712,@tonygoldwyn60 @avaduvernayfans he was furious if he could have he would have choked that girl to death no doubt he is a monster she best go,lcommon8736,false,false,1093,null,21896,false,false,0,0,false,false,[],[],
-785620096328699905,Girl I had your back when all you used to do was front, that's for sure though,I_kickIT,false,false,151,null,3140,true,false,0,0,false,false,[],[],
-785619950518038528,RT @babisrn: -Promiscuous girl wherever u are
-Im all alone and it's u that I want
-
--Promiscuous boy u already know
-That Im all y… ,guilhermecguima,false,false,388,null,39997,false,false,0,0,false,false,[],[{indices=[130, 130], expanded_url=null, url=}],
-785619921963196416,RT @betioserrano: Bill 'Rape' protesters target a HILLARY rally - and she says they need 'an intervention'
-https://t.co/bfIE4RNGbb,deronda_sears,false,false,497,null,21995,true,true,0,0,false,false,[],[{display_url=dailym.ai/2dGLezd, indices=[107, 130], expanded_url=http://dailym.ai/2dGLezd, url=https://t.co/bfIE4RNGbb}],
-785620930017923072,John Cleese has called #DonaldTrump a 'narcissist, with no attention span, who makes it all up as he goes along'… https://t.co/Vgh986DOqv,globalsnewsroom,false,true,2425,null,33988,true,false,0,0,false,false,[{indices=[23, 35], text=DonaldTrump}],[{display_url=twitter.com/i/web/status/7…, indices=[114, 137], expanded_url=https://twitter.com/i/web/status/785620930017923072, url=https://t.co/Vgh986DOqv}],
-785620493852344320,all I have to say is the real men in my life know the difference between "locker room talk" and sexually assaulting… https://t.co/t7Dp6US3wS,sydneypoth,false,false,403,null,4901,true,false,0,0,false,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620493852344320, url=https://t.co/t7Dp6US3wS}],
-785621556634365952,Gee... I wonder what #DonaldTrump would grab if he preferred men over women... #GrabHimByTheBallot https://t.co/isTVMVUL00,justanotherbobu,false,false,48,null,3974,false,false,0,0,false,false,[{indices=[21, 33], text=DonaldTrump}, {indices=[79, 98], text=GrabHimByTheBallot}],[],
-785620922170347520,RT @Babbsgirl2: Your so full of 💩 I can smell you all the way from Texas 
-
-#HillaryLost2ndDebate #debate #TrumpForPresident… ,tedlogan159,false,false,360,null,23711,false,true,0,0,false,false,[{indices=[75, 96], text=HillaryLost2ndDebate}, {indices=[97, 104], text=debate}, {indices=[105, 123], text=TrumpForPresident}],[{indices=[125, 125], expanded_url=null, url=}],
-785620081560526848,i don't want that girl because she know the cash on me,rubenbsito_,false,false,44,null,458,true,false,0,0,false,false,[],[],
-785620149931941892,She...... roll up on me then I get lit, girl your my swisher cigar.,jacob23montoya,false,false,239,null,5859,true,false,0,0,false,false,[],[],
-785619921136939008,@NotSoSilentMajo @FrankLuntz yes they do! Rap music - THAT IS VULGAR - he is being a male- hrc want ur girl 2 go 2 RR w/men- &amp; that Ok?wtf,stopgovcorrupt,false,false,6,null,79,true,true,0,0,false,false,[],[],
-785619940866920448,@kaylagross2210 girl they got me allll the way f'd up! lol I'm tripping right now. I gotchu though! Lol,kShamier__,false,false,1352,null,55811,false,false,0,0,false,false,[],[],
-785621396718104576,RT @esd2000: Hi. I'm #MikePence. I'm a Christian. I deny pizza &amp; cake etc to gays. This is my good friend #DonaldTrump. He assaults women &amp;…,sherrilee7,false,false,10168,null,265957,false,false,0,0,false,false,[{indices=[21, 31], text=MikePence}, {indices=[110, 122], text=DonaldTrump}],[],
-785620164767195137,RT @winnieardiana: Sexy-Naked-Girl-Nina---i-need-sex-all-the-time via https://t.co/lVBmjIA8r5 #sexy #naked #nude #pussy #amateur #por… http…,EpiksteveSteve,false,false,25,null,24,true,false,0,0,false,false,[{indices=[94, 99], text=sexy}, {indices=[100, 106], text=naked}, {indices=[107, 112], text=nude}, {indices=[113, 119], text=pussy}, {indices=[120, 128], text=amateur}, {indices=[129, 133], text=por}],[{display_url=feminax.net/gal/6323096/Se…, indices=[70, 93], expanded_url=http://www.feminax.net/gal/6323096/Sexy-Naked-Girl-Nina---i-need-sex-all-the-time, url=https://t.co/lVBmjIA8r5}],
-785619952288030720,RT @ty_bando: I'm not finna beg this girl to fwm anymore on hood cas I got the juice if she ain't tryna fwm shit someone ah get lucky 💯,Cir3Ly,false,false,498,null,8858,true,false,0,0,false,false,[],[],
-785620133708439552,Lmao I remember how she used to be back inna day I can only imagine now 😂 https://t.co/9YVB0lJFvV,Patriyaaa,false,false,5824,null,232040,false,false,0,0,false,false,[],[{display_url=twitter.com/chaconiaa/stat…, indices=[74, 97], expanded_url=https://twitter.com/chaconiaa/status/785619676713844736, url=https://t.co/9YVB0lJFvV}],
-785619938463584256,Treat my girl like I am Jay Z, treat my girl like she Beyoncé Knowles 💕,_keithh_,false,false,16816,null,8749,true,false,0,0,false,false,[],[],
-785620113965875200,RT @HornyFacts: When you ask a girl How's she doing and she says " I got a Boyfriend " but you didn't ask her that 🤔
-
- https://t.co/F72vtMz…,jesss_bwith3,false,false,108,null,26,true,false,0,0,false,false,[],[],
-785620185306664960,doesnt me even text me if she home or not wtf girl how i am supposed to sleep,picklesdad_,false,false,47,null,5835,false,false,0,0,false,false,[],[],
-785620843954966528,RT @anvvnan: Ted Cruz Sticks With Religion, Reagan in New Hampshire Appeal... https://t.co/in47OMInjv #DonaldTrump,nin8me,false,false,6448,null,343320,true,false,0,0,false,false,[{indices=[102, 114], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[78, 101], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
-785621341349085185,#Congressman #Long Statement On #DonaldTrump’s #Debate Victory https://t.co/sVJgy5lZSh #Jobs #Economy STRONGER SAFER USA! #TrumpPence16,Wutevuh,false,false,4582,null,36045,false,false,0,0,false,false,[{indices=[0, 12], text=Congressman}, {indices=[13, 18], text=Long}, {indices=[32, 44], text=DonaldTrump}, {indices=[47, 54], text=Debate}, {indices=[87, 92], text=Jobs}, {indices=[93, 101], text=Economy}, {indices=[122, 135], text=TrumpPence16}],[{display_url=donaldjtrump.com/press-releases…, indices=[63, 86], expanded_url=https://www.donaldjtrump.com/press-releases/congressman-long-statement-on-donald-j.-trumps-debate-victory, url=https://t.co/sVJgy5lZSh}],
-785620157712375808,I SENT QUETZ A PIC OF MARI AND WAS LIKE "i dont know why but this girl creeps me out" and she sent me a pic of muzet and was like "this is,aozora,false,false,176,null,13615,false,false,0,0,false,false,[],[],
-785619932717264896,RT @ASwoyer: They Go Low: @HillaryClinton Supporters Shove Bill Clinton Rape Protester - @BreitbartNews https://t.co/gmUNJLQVuV,Boots27boots,false,false,1488,null,25679,false,false,0,0,false,false,[],[{display_url=bit.ly/2dg7lJL, indices=[104, 127], expanded_url=http://bit.ly/2dg7lJL, url=https://t.co/gmUNJLQVuV}],
-785620080755351552,RT @ImChasingDreamz: my girl blocked me on her phone and every social media app so i downloaded a texting app and called her.. oh she think…,olegirlxo,false,false,1469,null,22682,true,false,0,0,false,false,[],[],
-785620100451753984,RT @AdoptMeRSPCAQLD: Adoptable #dog #ChiChi_RSPCAQLD_06 Adorable sweet girl, loves learning new tricks andcuddles https://t.co/O1IgpB4Tvl h…,Koala_Bee,false,false,14720,null,99592,false,false,0,0,false,false,[{indices=[31, 35], text=dog}, {indices=[36, 55], text=ChiChi_RSPCAQLD_06}],[{display_url=getpet.info/ChiChi_RSPCAQL…, indices=[114, 137], expanded_url=http://getpet.info/ChiChi_RSPCAQLD_06, url=https://t.co/O1IgpB4Tvl}],
-785620854952427520,RT @anvvnan: Ted Cruz Sticks With Religion, Reagan in New Hampshire Appeal... https://t.co/in47OMInjv #DonaldTrump,lik5n,false,false,6358,null,349428,true,false,0,0,false,false,[{indices=[102, 114], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[78, 101], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
-785619925348089856,Really gotta thank my ancestors for my genes cause they blessed ya girl with the built lol,BellaRican_Kira,false,false,1212,null,31044,false,false,0,0,false,false,[],[],
-785620152247136256,"Promises, all words are just temporary. Why can't you see that?"
-
-"Everything you try for, little girl, will all b… https://t.co/ZGPon9LRHg,GalacticDesires,false,false,1286,null,5516,true,false,0,0,false,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620152247136256, url=https://t.co/ZGPon9LRHg}],
-785620155615154176,Hillary doubt herself. She think she lucky if she win. #CrookedHillary @HillaryClinton @realDonaldTrump #DonaldTrump #HillaryClinton,macstrength,false,false,16536,null,15959,false,false,0,0,false,false,[{indices=[55, 70], text=CrookedHillary}, {indices=[104, 116], text=DonaldTrump}, {indices=[117, 132], text=HillaryClinton}],[],
-785620732604624896,Ted Cruz Sticks With Religion, Reagan in New Hampshire Appeal... https://t.co/in47OMInjv #DonaldTrump,anvvnan,false,false,14060,null,679029,true,false,0,0,false,false,[{indices=[89, 101], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[65, 88], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
-785620831904739328,RT @anvvnan: Ted Cruz Sticks With Religion, Reagan in New Hampshire Appeal... https://t.co/in47OMInjv #DonaldTrump,bamayye,false,false,6189,null,338948,true,false,0,0,false,false,[{indices=[102, 114], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[78, 101], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
-785620098375483392,All Girl Arse Licking Threesome https://t.co/L2TI13MqPt,BryanRachael2,false,false,0,null,3722,true,false,0,0,false,false,[],[{display_url=bit.ly/2bjY4w8, indices=[32, 55], expanded_url=http://bit.ly/2bjY4w8, url=https://t.co/L2TI13MqPt}],
-785620108290977792,RT @jerem32600: new @DDFNetwork solo trailer with the gorgeous uk girl @AMANDARANDELL 
-please RT and follow https://t.co/Ym9CybTu2q,ULT_Babestation,false,false,626,null,9702,true,false,0,0,false,false,[],[],
-785620648043294721,Yeah!!  FDP for the win!!  Thank you all for your hard work!!! https://t.co/PmMjxfObON,parkdelaney7131,false,false,158,null,918,true,false,0,0,false,false,[],[{display_url=twitter.com/fladems/status…, indices=[63, 86], expanded_url=https://twitter.com/fladems/status/785594617345347584, url=https://t.co/PmMjxfObON}],
-785620874204282881,Why this new media narrative could actually, for once, hurt... https://t.co/4pmqJE15RE #DonaldTrump,thell0ve,false,false,20003,null,602873,true,false,0,0,false,false,[{indices=[87, 99], text=DonaldTrump}],[{display_url=dlvr.it/MQxjr1, indices=[63, 86], expanded_url=http://dlvr.it/MQxjr1, url=https://t.co/4pmqJE15RE}],
-785619922659401728,Girl, what he do? https://t.co/NfyqxqeJ16,Abeelove__,false,false,175,null,4851,true,false,0,0,false,false,[],[{display_url=twitter.com/itsjustmannyy/…, indices=[18, 41], expanded_url=https://twitter.com/itsjustmannyy/status/785619321196191744, url=https://t.co/NfyqxqeJ16}],
-785620087160000513,RT @TylinBlessedHer: if she not asking you what color she should get her nails done she ain't your girl,sadeyesviolet,false,false,288,null,10055,true,false,0,0,false,false,[],[],
-785620132097724416,RT @CelebMix: The 10 Highest Grossing Girl Group Concert Tours Of All Time https://t.co/QsZZCuGCoe,taenglovesme,false,false,1436,null,186834,false,false,0,0,false,false,[],[{display_url=ift.tt/2dDPZtf, indices=[75, 98], expanded_url=http://ift.tt/2dDPZtf, url=https://t.co/QsZZCuGCoe}],
-785620134102757376,Cute does her mom know he tried raping a 13 year old? https://t.co/popd6QrAI0,deuxbellee,false,false,59,null,1347,false,false,0,0,false,false,[],[{display_url=twitter.com/usafortrump201…, indices=[54, 77], expanded_url=https://twitter.com/usafortrump2016/status/781954101525360640, url=https://t.co/popd6QrAI0}],
-785620126934720512,@michkeegan 
-Congrats on this series of "Our Girl"
-It was superb , to all involved .
-Roll on No3 👍,GuyHubbard,false,false,36,null,2005,false,false,0,0,false,false,[],[],
-785620642750009344,#DonaldTrump is not sniffling. He is sucking in air. That is a sign of anxiety,to me. Now, he he has to practice on how to relax and breath.,sexygrandma,false,false,51,null,1325,false,false,0,0,false,false,[{indices=[0, 12], text=DonaldTrump}],[],
-785619925561806849,RT @salazarcele99: he ain't my man but that's my man 🙂 https://t.co/EaQGAgIqAd,Queenbri__03,false,false,720,null,30764,true,false,0,0,false,false,[],[{display_url=twitter.com/zaethechemist/…, indices=[55, 78], expanded_url=https://twitter.com/zaethechemist/status/785572230046425088, url=https://t.co/EaQGAgIqAd}],
-785619955249127424,RT @adryzzle: You vs the girl he tells you not worry about https://t.co/dxYUGPogZX,natalieeeortiz,false,false,874,null,35950,true,false,0,0,false,false,[],[],
-785619948890501120,RT @ASwoyer: They Go Low: @HillaryClinton Supporters Shove Bill Clinton Rape Protester - @BreitbartNews https://t.co/gmUNJLQVuV,Jennife51072808,false,false,100,null,4044,true,false,0,0,false,false,[],[{display_url=bit.ly/2dg7lJL, indices=[104, 127], expanded_url=http://bit.ly/2dg7lJL, url=https://t.co/gmUNJLQVuV}],
-785620183142567936,She was smart for going to ecot 😂😂 https://t.co/krbzoGyAyN,thedopest_lani,false,false,998,null,18951,true,false,0,0,false,false,[],[{display_url=twitter.com/imanishaiyann/…, indices=[35, 58], expanded_url=https://twitter.com/imanishaiyann/status/785619447990005760, url=https://t.co/krbzoGyAyN}],
-785619955790192640,RT @GossipGirltbh: all you need to know about Gossip Girl https://t.co/As0rJbsQpj,heatherbrooooke,false,false,372,null,13021,true,false,0,0,false,false,[],[],
-785621071605080064,#DonaldTrump is not sniffling. He is sucking in air.That is a sign of anxiety,to me. Now, he he has to practice on how to relax and breathe.,sexygrandma,false,false,51,null,1325,false,false,0,0,false,false,[{indices=[0, 12], text=DonaldTrump}],[],
-785621538267467776,Lol he almost got me 😂😂😩😩😂😂 #hilaryclinton #donaldtrump #petty #pettyaf #debate #columbus #jail… https://t.co/yd3HicsGp9,YBGMANAGEMENT,false,false,393,null,3565,true,false,0,0,false,false,[{indices=[28, 42], text=hilaryclinton}, {indices=[43, 55], text=donaldtrump}, {indices=[56, 62], text=petty}, {indices=[63, 71], text=pettyaf}, {indices=[72, 79], text=debate}, {indices=[80, 89], text=columbus}, {indices=[90, 95], text=jail}],[{display_url=instagram.com/p/BLZpLN_BWLA/, indices=[97, 120], expanded_url=https://www.instagram.com/p/BLZpLN_BWLA/, url=https://t.co/yd3HicsGp9}],
-785620175437570048,@ronsjet42 girl that's crazy as he double hockey stick😂,chelaanicolee,false,false,180,null,612,true,false,0,0,false,false,[],[],
-785620083284414464,RT @leyah_q: When he "UNFOLLOWED" his Handler coz he felt that "HIS GIRL" was insulted....REAL❤️
-
-NO QUESTIONS NOR EXPLANATIONS… ,manibsy,false,false,11,null,15303,true,true,0,0,false,false,[],[{indices=[129, 129], expanded_url=null, url=}],
-785619917122969600,RT @ASwoyer: They Go Low: @HillaryClinton Supporters Shove Bill Clinton Rape Protester - @BreitbartNews https://t.co/gmUNJLQVuV,BLUIZK81,false,false,3550,null,103090,false,false,0,0,false,false,[],[{display_url=bit.ly/2dg7lJL, indices=[104, 127], expanded_url=http://bit.ly/2dg7lJL, url=https://t.co/gmUNJLQVuV}],
-785619930599133184,RT @kimmie99: But they hate locker room talk? https://t.co/Xvgd00e9vO https://t.co/zaWXtpFrJ7,sonyacsa,false,false,456,null,15193,true,false,0,0,false,false,[],[{display_url=twitter.com/PrisonPlanet/s…, indices=[46, 69], expanded_url=https://twitter.com/PrisonPlanet/status/785575960397611008, url=https://t.co/Xvgd00e9vO}, {display_url=fb.me/5WF6GLNkw, indices=[70, 93], expanded_url=http://fb.me/5WF6GLNkw, url=https://t.co/zaWXtpFrJ7}],
-785619928439062532,RT @kimmie99: But they hate locker room talk? https://t.co/Xvgd00e9vO https://t.co/zaWXtpFrJ7,akawhit1,false,false,7120,null,274417,false,false,0,0,false,false,[],[{display_url=twitter.com/PrisonPlanet/s…, indices=[46, 69], expanded_url=https://twitter.com/PrisonPlanet/status/785575960397611008, url=https://t.co/Xvgd00e9vO}, {display_url=fb.me/5WF6GLNkw, indices=[70, 93], expanded_url=http://fb.me/5WF6GLNkw, url=https://t.co/zaWXtpFrJ7}],
-785619944704729088,RT @Crandon4G: ALL WOMEN WHO LIE ABOUT RAPE SHOULD GO TO JAIL DONT @ ME https://t.co/vntnvJTfr1,corttneyy_,false,false,200,null,1741,true,false,0,0,false,false,[],[{display_url=twitter.com/osoversace/sta…, indices=[72, 95], expanded_url=https://twitter.com/osoversace/status/784545894293209089, url=https://t.co/vntnvJTfr1}],
-785620182697775104,RT @lockedkingster: https://t.co/z59Tkq2MHT SEE THIS U DUMB ASS DEMS?!? F U ALL NO MORE #NewRevolution #NeverHillary MAGA,lightning_grl,false,false,435,null,22725,true,false,0,0,false,false,[{indices=[88, 102], text=NewRevolution}, {indices=[103, 116], text=NeverHillary}],[{display_url=breitbart.com/texas/2016/10/…, indices=[20, 43], expanded_url=http://www.breitbart.com/texas/2016/10/10/illegal-immigrant-charged-kidnapping-raping-6-year-old-texas-girl/, url=https://t.co/z59Tkq2MHT}],
-785620072488374272,@itslacieyo I HEAR YA GIRL❤️,kayk1903,false,false,256,null,6042,true,false,0,0,false,false,[],[],
-785619941600944128,DO NOT 
-talk 
-look
-text 
-dm 
-think about
-or touch
-my girl bc that's ALL ME‼️😊💖,_shhiii,false,false,343,null,3956,true,false,0,0,false,false,[],[],
-785620158047850496,RT @gxbrielanicole: All that plus 
-"Mamas"
-"Princess" 
-"Love"
-"My little girl" https://t.co/1ZaXpuNnwu,yo_its_daisyy,false,false,254,null,760,false,false,0,0,false,false,[],[{display_url=twitter.com/shewantsmetho/…, indices=[79, 102], expanded_url=https://twitter.com/shewantsmetho/status/782720659939962880, url=https://t.co/1ZaXpuNnwu}],
-785620116184535040,@_TheKGod_ u do u girl. All I'm saying is your bf is probably getting fingered by a truck driver right now.,PitchBirkley,false,false,437,null,2154,true,false,0,0,false,false,[],[],
-785620164700016640,RT @AthIetesInHS: -Injured all 4 years
--Always sweaty
--Only wears athletic clothes
--Teacher's pet
--Gets denied by every girl in school http…,mrtonycampbell,false,false,116,null,553,true,false,0,0,false,false,[],[],
-785619938866106368,RT @PrisonPlanet: Liberal calling female rape victims “tramps” = funny
-
-Trump talking women he wants to have sex with = “horrific”. 
-
-https…,fitzsimmons_pam,false,false,236,null,5827,true,false,0,0,false,false,[],[],
-785619917957627905,RT @PrisonPlanet: The View's Joy Behar calls Bill Clinton's rape victims "tramps," liberal audience laughs. 
-
-But they really care ab… ,AlexpiersonAMP,false,false,3643,null,8449,true,false,0,0,false,false,[],[{indices=[135, 135], expanded_url=null, url=}],
-785620084794417152,I love my girl #blessed,hellatrill,false,false,167,null,2090,true,false,0,0,false,false,[{indices=[15, 23], text=blessed}],[],
-785620169397772288,@MarinaCountMeIn Nahh girl, you can't stereotype an entire race bc of that one idiot. We ain't all like that. 😝,Kateeubanks1013,false,false,406,null,1755,false,false,0,0,false,false,[],[],
-785620147612647424,RT @senclairemag: Watch as @GenesisIver steals the girl of your dreams with his new visual for "Come Over" !!! https://t.co/R5UGRi0P1h,BLACKLFMAG,false,false,1619,null,13692,true,false,0,0,false,false,[],[{display_url=senclaire.com/gen-come-over/, indices=[111, 134], expanded_url=http://senclaire.com/gen-come-over/, url=https://t.co/R5UGRi0P1h}],
-785620553050775552,@WSMV #WSMV Let me get this right you dedicated 10 minutes to #DonaldTrump's comments and zero to #HillaryClinton's new email dump #Corrupt,tboatdude,false,false,428,null,8036,true,false,0,0,false,false,[{indices=[6, 11], text=WSMV}, {indices=[62, 74], text=DonaldTrump}, {indices=[98, 113], text=HillaryClinton}, {indices=[131, 139], text=Corrupt}],[],
-785620184950124545,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,bodybuiIder_,false,false,7050,null,122,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185113690113,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,babetexts,false,false,1724946,null,84113,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185369628672,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,muscuIar,false,false,18650,null,64,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185377976320,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,youtoofunny,false,false,1091524,null,87650,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620087030112256,RT @maddiewillis_: nothing's cuter than when a guy likes a girl and he makes it known to everyone,Jadagardner13,false,false,132,null,440,true,false,0,0,false,false,[],[],
-785620185352769536,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,bikinidiets,false,false,3652,null,101,true,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185369632769,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,sayingsforgirls,false,false,1951735,null,79067,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185361162241,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,sexydiets,false,false,30578,null,57,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620130197671936,RT @FFSKATYA: @.1800XiMENA: Every time I read Katya's name I think of Katy Perry and start wishing that I when I do kiss a girl,… ,COLDGAMEMARS,false,false,112,null,3498,true,false,0,0,false,false,[],[{indices=[130, 130], expanded_url=null, url=}],
-785620149244088320,RT @FFSKATYA: @.1800XiMENA: Every time I read Katya's name I think of Katy Perry and start wishing that I when I do kiss a girl,… ,HAZEL2LIT,false,false,101,null,3654,true,false,0,0,false,false,[],[{indices=[130, 130], expanded_url=null, url=}],
-785619953542017024,RT @PrisonPlanet: The View's Joy Behar calls Bill Clinton's rape victims "tramps," liberal audience laughs. 
-
-But they really care ab… ,S_cerankosky,false,false,162,null,2623,true,false,0,0,false,false,[],[{indices=[135, 135], expanded_url=null, url=}],
-785620184979546113,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,healthcheats,false,false,20228,null,308,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184849457152,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,girlideas,false,false,2068147,null,109272,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184992067584,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,extrasexual,false,false,203220,null,13699,true,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185357037568,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,secretfIix,false,false,9859,null,72,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185369542656,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,MakeupCheats,false,false,14864,null,975,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184975351810,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,freecamster,false,false,19193,null,14,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185411493888,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,teenagertexts,false,false,908281,null,63809,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184971083776,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,FactsAboutBoys,false,false,997151,null,67354,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785619942578106368,RT @Crandon4G: ALL WOMEN WHO LIE ABOUT RAPE SHOULD GO TO JAIL DONT @ ME https://t.co/vntnvJTfr1,KalaJourdain,false,false,2147,null,73763,false,false,0,0,false,false,[],[{display_url=twitter.com/osoversace/sta…, indices=[72, 95], expanded_url=https://twitter.com/osoversace/status/784545894293209089, url=https://t.co/vntnvJTfr1}],
-785620360729358336,RT @WayneDupreeShow: Sheriff Clarke says #DonaldTrump cares about all people; Watch liberal media heads explode https://t.co/DFjRN5iL41,KEVDSP10,false,false,226,null,12097,true,false,0,0,false,false,[{indices=[41, 53], text=DonaldTrump}],[{display_url=buff.ly/2dLBkIr, indices=[112, 135], expanded_url=http://buff.ly/2dLBkIr, url=https://t.co/DFjRN5iL41}],
-785620176528113664,My professor just asked where this girl was from and she said ISIS nigga wtf lol,CRTHEMC,false,false,983,null,20389,false,false,0,0,false,false,[],[],
-785619955479941121,RT @GAY4_RIHANNA: friends: so y'all really over?
-me: yup, fuck him. 
-friends: who that girl he walking with?
-me: https://t.co/K6PimeAiWI,x_TrinD,false,false,1907,null,83788,true,false,0,0,false,false,[],[],
-785620172207820800,RT @lilkliche: No girl you're not sick, it's all in your stomach... Yeah, yeah, we fuckin'. let me get deeper now.. Deeper than de… ,lilkliche,false,false,2098,null,91786,false,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785620383118401536,My investing idol Warren_buffet snaps back at DonaldTrump: Buffet has paid federal taxes every year since he was... https://t.co/nwYfmhn33f,MarinaTimesSF,false,false,12,null,656,true,false,0,0,false,false,[],[{display_url=fb.me/2pBPNPogt, indices=[116, 139], expanded_url=http://fb.me/2pBPNPogt, url=https://t.co/nwYfmhn33f}],
-785620926222086144,RT @JacloPac: #Trump, fought lawsuit 4 18yrs 2 avoid paying undocumented workers their $4hr. He has decades of taking advantage o… ,StayHomeAmerica,false,false,1032,null,8097,false,false,0,0,false,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
-785619945958707200,RT @GAY4_RIHANNA: friends: so y'all really over?
-me: yup, fuck him. 
-friends: who that girl he walking with?
-me: https://t.co/K6PimeAiWI,imyiriya,false,false,1539,null,35168,true,false,0,0,false,false,[],[],
-785620127844663296,RT @IHaveRedHairKMS: Is he the only man you've ever seen in your entire life because he's a shit show girl get the fuck out of there https:…,_holy_schmidt__,false,false,481,null,4516,true,false,0,0,false,false,[],[],
-785620959600357377,RT @JacloPac: #Trump, fought lawsuit 4 18yrs 2 avoid paying undocumented workers their $4hr. He has decades of taking advantage o… ,dowd_lauren,false,false,2844,null,46709,true,false,0,0,false,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
-785619916800032768,RT @TheeBombLady: I do 🤗 https://t.co/qU6QnqEL1U,1RealMir,false,false,14612,null,38581,false,false,0,0,false,false,[],[{display_url=twitter.com/1realmir/statu…, indices=[25, 48], expanded_url=https://twitter.com/1realmir/status/755196806951088128, url=https://t.co/qU6QnqEL1U}],
-785620127140212736,RT @YoungPapi730: I put that girl on....😉,TheyloveJoshua,false,false,382,null,3706,true,false,0,0,false,false,[],[],
-785620076582100992,RT @FluffyByun: if zhera posts another pic w/ B she gets an award! girl isn't fazed,ILoveBaekhyun56,false,false,622,null,88556,false,false,0,0,false,false,[],[],
-785620183494733824,That awkward moment when u run into an old "friend" and they do everything to try and get ur Attention 🙄🙄. Girl, sit down😒,ShellzRx,false,false,76,null,12613,false,false,0,0,false,false,[],[],
-785620743094620160,He won nothing ! Only pumped up his Deplorables ! https://t.co/RGu1QDki8N,camwitten,false,false,17,null,482,true,false,0,0,false,false,[],[{display_url=twitter.com/allen_clifton/…, indices=[50, 73], expanded_url=https://twitter.com/allen_clifton/status/785560327173701632, url=https://t.co/RGu1QDki8N}],
-785621131973636096,Another @realDonaldTrump #lie.  #WarrenBuffett doesn’t pay #taxes.  Actually he does. https://t.co/NnTUY4uJQz #DonaldTrump,walterbiscardi,false,false,9334,null,60584,false,false,0,0,false,false,[{indices=[25, 29], text=lie}, {indices=[32, 46], text=WarrenBuffett}, {indices=[59, 65], text=taxes}, {indices=[110, 122], text=DonaldTrump}],[{display_url=vox.com/policy-and-pol…, indices=[86, 109], expanded_url=http://www.vox.com/policy-and-politics/2016/10/10/13228628/warren-buffett-donald-trump-taxes, url=https://t.co/NnTUY4uJQz}],
-785620144953450496,RT @1lilcory_: I want a baby girl 👑,mixedd_gurra,false,false,544,null,3869,false,false,0,0,false,false,[],[],
-785619938186702848,RT @winnieardiana: Sexy-Naked-Girl-Nina---You-can-fuck-me-all-the-time via https://t.co/dFZgJZtjbQ #sexy #naked #nude #pussy #amateur… http…,EpiksteveSteve,false,false,25,null,21,true,false,0,0,false,false,[{indices=[99, 104], text=sexy}, {indices=[105, 111], text=naked}, {indices=[112, 117], text=nude}, {indices=[118, 124], text=pussy}, {indices=[125, 133], text=amateur}],[{display_url=feminax.net/gal/6323178/Se…, indices=[75, 98], expanded_url=http://www.feminax.net/gal/6323178/Sexy-Naked-Girl-Nina---You-can-fuck-me-all-the-time, url=https://t.co/dFZgJZtjbQ}],
-785619962312454144,RT @PrisonPlanet: I'm posting this again for all the media hacks who are busy today smearing a rape victim in defense of Hillary Clin… ,gonutsman,false,false,93,null,569,true,false,0,0,false,false,[],[{indices=[135, 135], expanded_url=null, url=}],
-785620112795721729,RT @Trippyvxbez: 57. Hey Arnold 
-
-This show was dumb lit. Like he went through it but still managed to have a good day. Plus peep ol… ,ayeedatsdaee,false,false,142,null,1360,true,false,0,0,false,false,[],[{indices=[134, 134], expanded_url=null, url=}],
-785621216954425344,RT @sacca: Donald's strategy is bold for a guy who has an upcoming court date to respond to charges he raped a 13-yr-old girl. https://t.co…,wise_diva,false,false,4985,null,166626,false,false,0,0,false,false,[],[],
-785621269060415492,RT @JacloPac: #Trump, fought lawsuit 4 18yrs 2 avoid paying undocumented workers their $4hr. He has decades of taking advantage o… ,raybeecc,false,false,151,null,4737,true,false,0,0,false,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
-785620183448629248,@debradlane You are a gorgeous Country girl,Debra Believe in yourself I love your songs I believe in you You are so talented I love you ♥♥♥,ScottyAnderso13,false,false,2832,null,126827,true,false,0,0,false,false,[],[],
-785620173466300416,@malanjaye girl I KNOW.,alyssaraz,false,false,576,null,16145,false,false,0,0,false,false,[],[],
-785620140280930305,RT @Lwsboss9: If her pussy hairy when u go to beat it's calm to bareback cuz she didn't plan to fuck u.....she a good girl she just got los…,__bexkx,false,false,1785,null,98739,false,false,0,0,false,false,[],[],
-785620096463101952,RT @SoSedusive: When a girl is acting like she doesn’t care about you anymore, that’s when she needs you the most.,Yahtheg,false,false,316,null,6596,false,false,0,0,false,false,[],[],
-785620144714244096,• Baby Girl Growing Up So Fast She Only Got A Couple Of Months Till She Will Be 1 Yrs Old 👧🏾 #2Huff®,iiKiDdDEWW,false,false,31868,null,39516,false,false,0,0,false,false,[{indices=[93, 99], text=2Huff}],[],
-785620184979550208,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,easydiets,false,false,12492,null,138,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184941801472,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,bootypopcreams,false,false,30528,null,111,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184992092161,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,CoupleFact,false,false,260004,null,54460,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185357033477,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,slimposts,false,false,6349,null,72,true,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185361231872,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,MuscleIdeas,false,false,7526,null,120,true,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185382203393,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,weightposts,false,false,77162,null,125,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785621204296093696,RT @stonedsports420: @autozone I was just electrocuted. Where can I send my medical bills/lawsuit?,idk510,false,false,542,null,35526,false,false,0,0,false,false,[],[],
-785620090163040256,RT @saiahz: Me and my homies threw a wild party last night... but I've never thought this would happen lmaooo. SOMEONE GET THEY… ,sidehomie,false,false,245,null,21885,false,false,0,0,false,false,[],[{indices=[129, 129], expanded_url=null, url=}],
-785620128905830401,@gabbythaillest bro youve overdosed 3 times on girl please stop😂 ive never sold my body, haters will make up whatever they want,devonsamanthax3,false,false,1233,null,44057,false,false,0,0,false,false,[],[],
-785619934223142912,RT @BLVCKMATTERS: When I order a pizza https://t.co/UT1Oqv971A,AriaGraham1,false,false,523,null,2615,true,false,0,0,false,false,[],[{display_url=twitter.com/forgaves/statu…, indices=[39, 62], expanded_url=https://twitter.com/forgaves/status/784554908414570496, url=https://t.co/UT1Oqv971A}],
-785620102066483200,"Is it me. Am I the cute girl.",surgelare,false,false,87,null,1556,false,false,0,0,false,false,[],[],
-785620148124254208,What Happens If You Lose an I https://t.co/aDFLqNcq8T,thebzolik,false,false,1,null,4359,true,false,0,0,false,false,[],[{display_url=feeds.findlaw.com/~r/Injured/~3/…, indices=[30, 53], expanded_url=http://feeds.findlaw.com/~r/Injured/~3/sMc5B0rw3R4/what-happens-if-you-lose-an-injury-lawsuit-by-default.html, url=https://t.co/aDFLqNcq8T}],
-785620790746058752,RT @FoxNews: .@AriFleischer: I find #DonaldTrump to be personally offensive…I find #HillaryClinton to be professionally offensiv… ,rcHump,false,false,17,null,1224,true,false,0,0,false,false,[{indices=[36, 48], text=DonaldTrump}, {indices=[83, 98], text=HillaryClinton}],[{indices=[130, 130], expanded_url=null, url=}],
-785620128956227584,RT @kezdoe: Your girl only with you because the dude she wanted didn't reply to her texts,Unspokenvibes_,false,false,4399,null,60550,false,false,0,0,false,false,[],[],
-785620150854754304,@KathyShelton_ @DonaldJTrumpJr Why don't you ask @realDonaldTrump what he did to the 13 yr old girl he's accused of raping?,cjlonsdale65,false,false,132,null,9584,false,false,0,0,false,false,[],[],
-785619963629277185,RT @PrisonPlanet: Liberal calling female rape victims “tramps” = funny
-
-Trump talking women he wants to have sex with = “horrific”. 
-
-https…,Earth_Patriot1,false,false,1096,null,10606,false,false,0,0,false,false,[],[],
-785620127064662016,Girl: I love face painting 
-Friend: yea I can tell, you do it every morning 
-Me: https://t.co/smSkFrjdy6,noah3g,false,false,110,null,1680,false,false,0,0,false,false,[],[],
-785620130461945856,I swear I just told somebody one of them names was a girl name lmaooo https://t.co/3RBPPC4uAe,Kyta__,false,false,1625,null,94397,false,false,0,0,false,false,[],[{display_url=twitter.com/saintpablo__/s…, indices=[70, 93], expanded_url=https://twitter.com/saintpablo__/status/785619774390738944, url=https://t.co/3RBPPC4uAe}],
-785620070214934528,You: "Hi"
-Girl: "I have a boyfriend." https://t.co/ob9OvhaJmN,edenisinfamous,false,false,755,null,30636,false,false,0,0,false,false,[],[],
-785620090830069760,I am that girl nigga https://t.co/TSwzg4vHt7,ColorMe__Moe,false,false,1773,null,32022,false,false,0,0,false,false,[],[{display_url=twitter.com/ilickyomama/st…, indices=[21, 44], expanded_url=https://twitter.com/ilickyomama/status/785619776374706176, url=https://t.co/TSwzg4vHt7}],
-785620112199909376,Thanks girl!!! I can't wait!!😊 https://t.co/qalpiL8eYR,CatKatcat31,false,false,521,null,3906,true,false,0,0,false,false,[],[{display_url=twitter.com/kelley4000/sta…, indices=[31, 54], expanded_url=https://twitter.com/kelley4000/status/785600107089539073, url=https://t.co/qalpiL8eYR}],
-785620071708258304,I feel for that lil girl. I slick type did some shit like this😭 https://t.co/pJB1tCrbdM,DesireeNahFret,false,false,1392,null,310946,false,false,0,0,false,false,[],[{display_url=twitter.com/trayoncee/stat…, indices=[64, 87], expanded_url=https://twitter.com/trayoncee/status/770108383332532225, url=https://t.co/pJB1tCrbdM}],
-785621255932129281,RT @FoxNews: .@AriFleischer: I find #DonaldTrump to be personally offensive…I find #HillaryClinton to be professionally offensiv… ,sandra79707,false,false,359,null,11363,true,false,0,0,false,false,[{indices=[36, 48], text=DonaldTrump}, {indices=[83, 98], text=HillaryClinton}],[{indices=[130, 130], expanded_url=null, url=}],
-785620092805586945,RT @rarekeith: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,_brooke_burnett,false,false,628,null,15624,true,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785620132844318721,RT @rarekeith: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,kayle3igh,false,false,535,null,15518,false,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785620153425797124,RT @girlposts: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,J_Milla_,false,false,179,null,22115,false,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785619931400404992,#basketballwivesLA Donald Duck aka Duffy The girl loves to run her mouth but when she sit one person away her mouth is shut.,Eldoa,false,false,44,null,1118,false,false,0,0,false,false,[{indices=[0, 18], text=basketballwivesLA}],[],
-785620145800552449,RT @donnapirate: Photos: The Igbo Woman And Her Husband Who Kidnapped A 7year Old Girl Because She Was Too… https://t.co/sgs73ADyYQ https:/…,its_beri,false,false,464,null,4708,true,false,0,0,false,false,[],[{display_url=naijaoversabi.com/2016/10/10/pho…, indices=[108, 131], expanded_url=http://www.naijaoversabi.com/2016/10/10/photos-the-igbo-woman-and-her-husband-who-kidnapped-a-7year-old-girl-because-she-was-too-beautiful-arrested-in-kaduna/, url=https://t.co/sgs73ADyYQ}],
-785619933321310208,RT @Thomas1774Paine: Black Dude in Bill #Clinton Rape shirt gets kicked down stairs, tossed from #Hillary rally before she tells crowd t… ,brumley7666,false,false,897,null,31948,true,false,0,0,false,false,[{indices=[40, 48], text=Clinton}, {indices=[97, 105], text=Hillary}],[{indices=[138, 138], expanded_url=null, url=}],
-785619947481358336,RT @CockyShark: @cockyjc8 @USCGamecockBoy The only thing she would do in 4 terms is take more $ from the highest bidders. Bill would rape m…,cockyjc8,false,false,246,null,1470,true,false,0,0,false,false,[],[],
-785620186334367744,RT @caleb2woods: A girl that's really feeling you is going to sound like your mom after a while cause she only wants the best for you...,angelfrom251,false,false,1138,null,13304,true,false,0,0,false,false,[],[],
-785620173751480320,Who was that girl that u would always talk about on... — She was irrelevant 😂😂 https://t.co/4qEtb3Jcdf,xMvrs,false,false,449,null,25982,false,false,0,0,false,false,[],[{display_url=curiouscat.me/xMvrs/post/305…, indices=[79, 102], expanded_url=http://curiouscat.me/xMvrs/post/30552959, url=https://t.co/4qEtb3Jcdf}],
-785619951860187136,RT @Exerclude: If you ain't complimenting your girl &amp; let her know how much she meants to u on a daily then wyd????????,Kevin_622_,false,false,168,null,7368,true,false,0,0,false,false,[],[],
-785620906563538944,RT @GoddessKerriLyn: Correct. Now Jane Doe has two lawyers attached to her lawsuit against Trump for raping her when she was 13. https://t.…,vaheygirl,false,false,815,null,14770,true,false,0,0,false,false,[],[],
-785619964736798785,GIRL I FEEL YOU https://t.co/zo865mASeY,Kaaay_Dott,false,false,491,null,21967,false,false,0,0,false,false,[],[{display_url=twitter.com/shesamericag/s…, indices=[16, 39], expanded_url=https://twitter.com/shesamericag/status/785619840312614912, url=https://t.co/zo865mASeY}],
-785620072219967488,Baby girl 😍 God I love you so much, you're so stunning Molly 💖 @jollygreenmolly https://t.co/O7bTnfCTrU,Unpened,false,false,3379,null,5192,true,false,0,0,false,false,[],[],
-785620097280847872,@uplifting omg im just a fake gamer girl i play fe on easy,FRANZlSKA,false,false,91,null,4050,false,false,0,0,false,false,[],[],
-785620083796090881,RT @ThePandoraBoxx: Just so @realDonaldTrump is aware. HE is the one currently being investigated for rape. Of a 13yr old girl. https://t.c…,kttweeted,false,false,21,null,223,false,false,0,0,false,false,[],[],
-785620132315869185,@CloydRivers @DrAnsonPHD He actually is on trial for raping a 13 year old girl in '94, which very much could make him a rapist 😬,pnwnd,false,false,1359,null,27572,false,false,0,0,false,false,[],[],
-785619926274936832,RT @WalshFreedom: An illegal kidnaps &amp; rapes a 6yr old girl in Texas.
-
-Should never happen. He should never have been here. https://t.co/JM…,mislatvw,false,false,79,null,3337,true,false,0,0,false,false,[],[],
-785619965164617730,RT @noskatingsigns: Y'all expect a man to give up a girl that was with him for 16 years when he was broke because black women are fake… ,HoopingsFuture,false,false,1155,null,13275,false,false,0,0,false,false,[],[{indices=[136, 136], expanded_url=null, url=}],
-785620146425565185,a girl was beaten up by her boyfriend and he STILL has fans THIS IS WHY GIRLS DON'T REPORT DOMESTIC ABUSE https://t.co/qPRSv2D1Hk,tiaisanoob,false,false,1936,null,189,false,false,0,0,false,false,[],[],
-785620616229498882,#Trump, fought lawsuit 4 18yrs 2 avoid paying undocumented workers their $4hr. He has decades of taking advantage o… https://t.co/Loo5ksIW4u,JacloPac,false,false,17366,null,5560,true,false,0,0,false,false,[{indices=[0, 6], text=Trump}],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620616229498882, url=https://t.co/Loo5ksIW4u}],
-785620680888897536,RT @JacloPac: #Trump, fought lawsuit 4 18yrs 2 avoid paying undocumented workers their $4hr. He has decades of taking advantage o… ,Bogi573,false,false,9265,null,8118,false,false,0,0,false,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
-785620987119185920,RT @sacca: Donald's strategy is bold for a guy who has an upcoming court date to respond to charges he raped a 13-yr-old girl. https://t.co…,MichCorsilles,false,false,5484,null,124105,false,false,0,0,false,false,[],[],
-785621430801145856,RT @sacca: Donald's strategy is bold for a guy who has an upcoming court date to respond to charges he raped a 13-yr-old girl. https://t.co…,fuadmb,false,false,748,null,21718,true,false,0,0,false,false,[],[],
-785621443719618560,RT @JacloPac: #Trump, fought lawsuit 4 18yrs 2 avoid paying undocumented workers their $4hr. He has decades of taking advantage o… ,SocialIssueNews,false,false,3784,null,106982,false,false,0,0,false,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
-785619955899174912,RT @rarekeith: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,Lumos7,false,false,2948,null,89656,false,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785620155569152000,RT @girlposts: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,haillleeeyyy,false,false,853,null,73379,false,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785619921468268544,@mckennadirienzo I LOVE U SO MUCH GIRL!! 💗,klaudiaabbott3,false,false,174,null,302,true,false,0,0,false,false,[],[],
-785620151479726080,I have no idea what that 8-to-12 year-old girl was complaining about but I have to admit “because I can’t see my ears!” is a valid argument.,XioNYC,false,false,317,null,35195,false,false,0,0,false,false,[],[],
-785620184983674880,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,dietposts,false,false,21069,null,398,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184992145409,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,BrainHeaIth,false,false,18187,null,98,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184950124544,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,bootypoplotion,false,false,25201,null,78,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184996335616,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,jaychris89,false,false,14064,null,14,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184971120641,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,BeautyCheats,false,false,24765,null,786,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620184992055296,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,BrainElites,false,false,2079,null,37,true,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185042399233,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,bootypopcream,false,false,9441,null,892,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185356963841,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,miraclebust_,false,false,5929,null,505,true,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185130541057,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,eyeIashed,false,false,9963,null,30,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185591877632,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,thinkslikethat,false,false,381477,null,72078,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620185356963840,RT @milesjay75: bro: my girls butt feels a lot bigger...
-
-me: she read that bio like my girl
-
-bro: WHAT@?
-
-me: she said… ,miakhaIifa_,false,false,12003,null,8,false,false,0,0,false,false,[],[{indices=[121, 121], expanded_url=null, url=}],
-785620146857607168,I am #outraged by knowing this fact! 🚫 @realDonaldTrump https://t.co/0CWOhoDXcj,LaurenAshDefeo,false,false,228,null,3413,false,false,0,0,false,false,[{indices=[5, 14], text=outraged}],[{display_url=twitter.com/MikeAdamOnAir/…, indices=[56, 79], expanded_url=https://twitter.com/MikeAdamOnAir/status/785619781080772608, url=https://t.co/0CWOhoDXcj}],
-785620156797943808,I used https://t.co/TWGvaPGPkA to create this #strangerthings inspired logo. From the dungeon delvers @nelsoncash,sofiadotorg,false,false,186,null,1583,false,false,0,0,false,false,[{indices=[46, 61], text=strangerthings}],[{display_url=makeitstranger.com/girl-almighty, indices=[7, 30], expanded_url=http://makeitstranger.com/girl-almighty, url=https://t.co/TWGvaPGPkA}],
-785620182303592448,RT @HornyGlF: GIRL I really can't breathe like 😂😂😂😂😂😂😂 https://t.co/PBJ5ZTnXIT,__shortfvck,false,false,697,null,28770,true,false,0,0,false,false,[],[],
-785620661246885888,RT @h1llary4prez: Can I get an S? #Debate #DonaldTrump The Donald https://t.co/HODZcd37tK,CarlosATejedaG,false,false,1149,null,83938,true,false,0,0,false,false,[{indices=[34, 41], text=Debate}, {indices=[42, 54], text=DonaldTrump}],[],
-785619962756861952,RT @Arzaylea: i've been thinking for years this one girl was a true red head and today i find out she's not. i honestly feel betrayed and m…,sierra_voeltz_,false,false,1314,null,62359,false,false,0,0,false,false,[],[],
-785620093946384384,RT @softiego: DAMN SHE'S SO PRETTY!!! SHE'S THE PRETTIEST GIRL I EVER SEEN IN MY WHOLE LIFE I SWEAR TO GOD. 😍😍😍❤️❤️❤️,tenten883,false,false,52,null,3657,true,true,0,0,false,false,[],[],
-785619945371627520,RT @She___Writes: She's fucking trash. Both Sisters are.  But she keeps Resting Bitch Face Shelby as her confidante. #BBOTT https://t.co/WH…,IntoTheSkyStorm,false,false,453,null,41927,false,false,0,0,false,false,[{indices=[117, 123], text=BBOTT}],[],
-785619947409899520,Is @TheView's #JoyBehar calling victims of rape &amp; other sexual violence &amp; abuse "tramps?" If so, she is 1 sicko, God help her. @PrisonPlanet,Vinsla,false,false,1230,null,15036,true,false,0,0,false,false,[{indices=[14, 23], text=JoyBehar}],[],
-785620091056615425,RT @Exerclude: If you ain't complimenting your girl &amp; let her know how much she meants to u on a daily then wyd????????,shi__shaa,false,false,259,null,855,true,false,0,0,false,false,[],[],
-785619951411277825,RT @JalynAyana: 118. I Need A Girl Pt. 2 - P. Diddy Feat. Ginuwine, Loon &amp; Mario Winans https://t.co/1NjdWb5RY0,_ENVYshell,false,false,904,null,22115,true,false,0,0,false,false,[],[],
-785620171239063552,I find Republicans that go after each other in public both personally and professionally offensive. https://t.co/rx4dSknRyI,joseph_sugg,false,false,102,null,826,true,false,0,0,false,false,[],[{display_url=twitter.com/foxnews/status…, indices=[100, 123], expanded_url=https://twitter.com/foxnews/status/785599763332726785, url=https://t.co/rx4dSknRyI}],
-785620421953613828,#DonaldTrump: I played in the #NFL. Here’s what we really talk about in the #LockerRoom . https://t.co/3C3GMuIMnG via @voxdotcom,anne_barbano,false,false,3892,null,34521,false,false,0,0,false,false,[{indices=[0, 12], text=DonaldTrump}, {indices=[30, 34], text=NFL}, {indices=[76, 87], text=LockerRoom}],[{display_url=vox.com/first-person/2…, indices=[90, 113], expanded_url=http://www.vox.com/first-person/2016/10/10/13230346/donald-trump-locker-room-talk-chris-kluwe?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter, url=https://t.co/3C3GMuIMnG}],
-785620174653173760,chizuru: i could build my dream harem with that. actually maybe i should help the sick girl i guess https://t.co/zN5F5RE9A1,tsukasasmom,false,false,117,null,51527,false,false,0,0,false,false,[],[],
-785620104931340289,RT @pettyblackboy: I've never heard of this Christopher Columbus girl but she sounds so messy,the23jud,false,false,398,null,4726,false,false,0,0,false,false,[],[],
-785619950002139136,"I swear this #calilife🌴 is so sweet..." #LinkInBio @ Los Angeles, California https://t.co/LQLaFQ6XPy,czar_4500,false,false,310,null,5369,true,false,0,0,false,false,[{indices=[14, 23], text=calilife}, {indices=[41, 51], text=LinkInBio}],[{display_url=instagram.com/p/BLZodFKjo0V/, indices=[78, 101], expanded_url=https://www.instagram.com/p/BLZodFKjo0V/, url=https://t.co/LQLaFQ6XPy}],
-785620078393819136,I hate everything pumpkin flavored, does this mean I'm not a white girl... ?,nah_mas_TAY,false,false,509,null,21008,false,false,0,0,false,false,[],[],
-785620118373933056,RT @hollyonlakemich: I learned this at great pain. https://t.co/ZEH7f0YOdw,ChicagoSnark,false,false,21,null,1231,false,false,0,0,false,false,[],[{display_url=twitter.com/ImaniBoyette/s…, indices=[51, 74], expanded_url=https://twitter.com/ImaniBoyette/status/785513257561980928, url=https://t.co/ZEH7f0YOdw}],
-785621392397971456,@ServoAcademy And also this gif I made of his Zakarian lawsuit deposition: https://t.co/h7RO1bGVMu,gbrockell,false,false,1072,null,6951,false,false,0,0,false,false,[],[],
-785619925624905728,And I just want to get rid of this box of boy clothes in my room that I have cause I know I'm having a girl 😭,liltoosy,false,false,404,null,9866,true,false,0,0,false,false,[],[],
-785619955102298112,@KarianneJean You are a gorgeous Country girl,Karianne Dream big I love your music I believe in you You are so awesome I love you ♥♥♥,ScottyAnderso13,false,false,2832,null,126826,true,false,0,0,false,false,[],[],
-785620181137625088,RT @DeeLish_DG13: I learned how to share my toys as a little girl. When I grew up, I learned that only a few people deserve that enjoyment.,SixFoot185,false,false,207,null,6245,true,false,0,0,false,false,[],[],
-785620099013107712,thinking about how i used to pronounce the t in listen when i started learning english. girl...,jiminmiamor,false,false,24,null,1542,false,false,0,0,false,false,[],[],
-785620165639540738,WAIT i don't like can't blame a girl for trying either it's too idk childish i guess ???,subtlesabrina,false,false,181,null,1283,false,false,0,0,false,false,[],[],
-785619960311808000,@niculmarie LOOOL i luv this. You're slaying still girl 💅🏽🔪,jvelynrxse,false,false,324,null,36092,false,false,0,0,false,false,[],[],
-785620074279342080,RT @Oh_Lookather: i do lmao  https://t.co/ZDnoJ1FFyo,bryannalinae,false,false,660,null,11772,false,false,0,0,false,false,[],[{display_url=twitter.com/1realmir/statu…, indices=[29, 52], expanded_url=https://twitter.com/1realmir/status/755196806951088128, url=https://t.co/ZDnoJ1FFyo}],
-785620090008039424,RT @africangirlllll: I hate niggas 😭😭😭😭 https://t.co/oPYYbcY7KK,Niya_TT,false,false,420,null,16325,true,false,0,0,false,false,[],[{display_url=twitter.com/noconvojusnude…, indices=[40, 63], expanded_url=https://twitter.com/noconvojusnudes/status/785498070645612544, url=https://t.co/oPYYbcY7KK}],
-785620096869920772,RT @_oklahomo_: I swear I'd be lost without my girl,_shhiii,false,false,343,null,3957,true,false,0,0,false,false,[],[],
-785621226903314432,I see a fat lawsuit https://t.co/viVforQhTg,HumbleHussler,false,false,617,null,15300,true,false,0,0,false,false,[],[{display_url=twitter.com/femail/status/…, indices=[20, 43], expanded_url=https://twitter.com/femail/status/785593782674874369, url=https://t.co/viVforQhTg}],
-785620102834163712,RT @KathyShelton_: This is the story about what Hillary did to me, I was that little girl: https://t.co/kxbls3y0AO,caruso1962,false,false,254,null,9862,true,false,0,0,false,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
-785619945912754180,I swear there's this nigga and he's taking a girl on a date at Nandos. Like at least go to Starbucks,lemonlanejane,false,false,221,null,8141,false,false,0,0,false,false,[],[],
-785619955584761856,Screenshotted this and I can say it was worth it because this girl is literally perfection. I'm so in love with you… https://t.co/iGAJ5BnK1i,ChiChiChubbs,false,false,758,null,11466,false,false,0,0,false,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785619955584761856, url=https://t.co/iGAJ5BnK1i}],
-785620115890987008,RT @angelinadaniell: happy one year w my love. thank you for making me feel like im the only girl in the world. i love you😍👬💋… ,JOEYfromtheD,false,false,828,null,4890,true,false,0,0,false,false,[],[{indices=[127, 127], expanded_url=null, url=}],
-785620132357746689,Hey girl do you have daddy issues because I can give you stern talking to when you make a mistake that is easily forgiven,jacksonsrob,false,false,264,null,9711,false,false,0,0,false,false,[],[],
-785620153165877248,RT @lowe_quotes: One day you'll see I'm a different type of unique girl and you'll think damn i missed something great.,littlestefi,false,false,622,null,20669,false,false,0,0,false,false,[],[],
-785620160120033280,I seriously cannot thank @tcrawford19045 enough. This girl legit changed my life and I'll be forever trying to find a way to repay her.,AlwaysTeamLuke,false,false,3775,null,10160,false,false,0,0,false,false,[],[],
-785620179246022656,RT @grey_jarvis: 60. @KimChi_Chic. face beat to the GODS. i was so alive for the tropical bird, skater girl realness hunty https://t.co/Ytp…,grey_jarvis,false,false,7330,null,4144,true,false,0,0,false,false,[],[],
-785619928325894144,RT @Andiluv: LOL..! Why does a girl have to choose? Why can't she love them both💕😘 https://t.co/PR6QA7WyVt,everlasting_5h,false,false,154,null,5163,true,false,0,0,false,false,[],[{display_url=twitter.com/princess_iyann…, indices=[83, 106], expanded_url=https://twitter.com/princess_iyanna/status/785506313660948482, url=https://t.co/PR6QA7WyVt}],
-785620122773762049,With her Elvis Presley haircut, she wears an old man's bathrobe and tee shirt to the debate https://t.co/pU6xoV1WkR,defnii,false,false,299,null,8532,true,false,0,0,false,false,[],[{display_url=twitter.com/GamingCufufy/s…, indices=[92, 115], expanded_url=https://twitter.com/GamingCufufy/status/785618944195489792, url=https://t.co/pU6xoV1WkR}],
-785620087029903365,RT @KathyShelton_: This is the story about what Hillary did to me, I was that little girl: https://t.co/kxbls3y0AO,deploableDrea,false,false,458,null,4894,true,true,0,0,false,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
-785620147516170240,RT @KathyShelton_: This is the story about what Hillary did to me, I was that little girl: https://t.co/kxbls3y0AO,PaulAnn2147,false,false,133,null,2487,true,false,0,0,false,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
-785619932687929344,RT @rarekeith: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,Chayes90_,false,false,500,null,3254,true,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785619957543411712,RT @Arzaylea: i've been thinking for years this one girl was a true red head and today i find out she's not. i honestly feel betrayed and m…,MalDMoo,false,false,609,null,14707,true,false,0,0,false,false,[],[],
-785619962710728704,I ain't them and That's not me I treat women with respect😌 and decency some women say I'm an idris Elba in (daddy's little girl) typa guy😅😂😂,stayinyolane1,false,false,233,null,10963,true,false,0,0,false,false,[],[],
-785620082441330689,RT @ItsReginaG: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,Bernie_B_Good98,false,false,297,null,11765,false,false,0,0,false,false,[],[{indices=[133, 133], expanded_url=null, url=}],
-785620103287099392,RT @joeysmongeau: october 9th, 2016 - the day i met the girl that changed my life, i love you. @tanamongeau #tanastour https://t.co/8rTzp4X…,bubblytana,false,false,2803,null,14898,true,false,0,0,false,false,[{indices=[108, 118], text=tanastour}],[],
-785620106785075200,RT @rarekeith: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,zit_zilla,false,false,574,null,18455,true,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785620110723678208,Happy 2 years to the most beautiful girl on this planet, i don't know what i did to deserve you but you are truely… https://t.co/JHX0aPmi9o,joshcoffman99,false,false,615,null,995,true,false,0,0,false,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[116, 139], expanded_url=https://twitter.com/i/web/status/785620110723678208, url=https://t.co/JHX0aPmi9o}],
-785619930414714880,RT @rarekeith: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,srezz1,false,false,255,null,17224,true,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785619959367933952,RT @girlposts: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,allisonkkimble,false,false,172,null,5265,true,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785620072295493632,RT @girlposts: "PROMISCUOUS GIRL YOU'RE TEASING ME, YOU KNOW WHAT I WANT AND I GOT WHAT YOU NEED"
-
-"PROMISCUOUS BOY LET'S GET TO T… ,absyouneverhad,false,false,234,null,1796,false,false,0,0,false,false,[],[{indices=[132, 132], expanded_url=null, url=}],
-785619925993873408,RT @Fresh_Manny2: I am dying that this girl keeps tweeting Fox News asking for @ClayTravis head. Over BAND lmao https://t.co/5UkOehri3m,FGrimesN7,false,false,954,null,182827,false,false,0,0,false,false,[],[{display_url=twitter.com/theebethshetle…, indices=[112, 135], expanded_url=https://twitter.com/theebethshetler/status/785615846722994176, url=https://t.co/5UkOehri3m}],
-785620080444968964,RT @SoDamnTrue: i will never understand why girls bring down other girls knowing how hard life can be for a girl...like what's the point,Melanie__Craggs,false,false,54,null,97,true,false,0,0,false,false,[],[],
-785620152423415808,RT @poyntersource: Round of applause for the girl who wrote this "I Don't Like One Direction (Because McFly Exists) https://t.co/gWl1x0dRFF…,hataixa,false,false,442,null,65021,false,false,0,0,false,false,[],[{display_url=vergecampus.com/2016/10/dont-l…, indices=[116, 139], expanded_url=http://vergecampus.com/2016/10/dont-like-one-direction-mcfly-exists/, url=https://t.co/gWl1x0dRFF}],
-785620152926740480,Smart girl I'm sure it will be a life experience, shit I see you just staying over their lol https://t.co/ZDZoTG1VS2,CristoBang,false,false,236,null,10742,false,false,0,0,false,false,[],[{display_url=twitter.com/dearmoonshine_…, indices=[93, 116], expanded_url=https://twitter.com/dearmoonshine__/status/785619880125014016, url=https://t.co/ZDZoTG1VS2}],
-785620178449170436,Super proud of my girl @megaabbottt for getting baptized last night! I'm so glad God blessed me with a friend like you! I love you💗,AnnieBlye,false,false,432,null,4102,true,false,0,0,false,false,[],[],
-785619927847677952,RT @SquirtTheFlirt: Why you play those games girl guess I gotta #FadeAway 🎥🎥🎥 https://t.co/614C0p55Rs,SquirtTheFlirt,false,false,1903,null,49873,true,false,0,0,false,false,[{indices=[64, 73], text=FadeAway}],[],
-785619950148853764,why am i me instead of the whimsical jazz age girl of a fitzgerald novel,ttarabennett,false,false,194,null,2622,false,false,0,0,false,false,[],[],
-785619955110678528,I'm gonna buy my girl these oh wait I don't have one https://t.co/MeC3sAX8Yb,obeyy_johnny,false,false,110,null,86,true,false,0,0,false,false,[],[{display_url=twitter.com/baddiessnation…, indices=[53, 76], expanded_url=https://twitter.com/baddiessnation/status/764205288161419264, url=https://t.co/MeC3sAX8Yb}],
-785620122618605568,You believed in everything but me girl I don't get you,socrateezus,false,false,666,null,30004,false,false,0,0,false,false,[],[],
-785620124107694080,You're my biggest fan girl I want you to holler for meee 😜,heaathh_xO,false,false,13160,null,82878,false,false,0,0,false,false,[],[],
-785620134991912960,RT @wastedwings: I finally got a shout out! #madeit https://t.co/811FvueYk2,confusiongrows,false,false,291,null,29282,false,false,0,0,false,false,[{indices=[44, 51], text=madeit}],[{display_url=twitter.com/comicosity/sta…, indices=[52, 75], expanded_url=https://twitter.com/comicosity/status/785618929678942208, url=https://t.co/811FvueYk2}],
-785620169745838080,I ain't even gotta front for the media....my girl know wassup! We good ova hea💯,TasiDocktor,false,false,212,null,437,true,false,0,0,false,false,[],[],
-785620172291702785,this is horrible and I love so much https://t.co/xEYdEAqikm,parkjugnhwa,false,false,4549,null,1100,true,false,0,0,false,false,[],[{display_url=twitter.com/shakinupmyhear…, indices=[36, 59], expanded_url=https://twitter.com/shakinupmyheart/status/772209164156297216, url=https://t.co/xEYdEAqikm}],
-785619956050395136,@4BitsComic 
-Well actually you would be wrong because I would say girl not guy 
-****,ItsMiccoTheBear,false,false,588,null,55150,false,false,0,0,false,false,[],[],
-785620082936381440,RT @KaylaSmith926: No thanks I need functioning ankles https://t.co/GQjCaw8FjW,mixed_gal_erica,false,false,1858,null,68305,false,false,0,0,false,false,[],[{display_url=twitter.com/braxattacks/st…, indices=[55, 78], expanded_url=https://twitter.com/braxattacks/status/746093459220553728, url=https://t.co/GQjCaw8FjW}],
-785620109976940548,I just wanna understand why this nigga still talking about me like I'm still his girl  😂😂😂,yvonnexxlove,false,false,348,null,3338,false,false,0,0,false,false,[],[],
-785620125089136640,@Fuzzy_Slippersz girl yes and I would have been there for it for a lot more,Zareal,false,false,538,null,56830,false,false,0,0,false,false,[],[],
-785620134446497792,Y'all I LOVE @shailenewoodley . Way to fight for what you believe in, girl,thebomdotcomm,false,false,1270,null,45043,false,false,0,0,false,false,[],[],
-785620178918932480,RT @OrtonLegacy1980: @baby_orton @AlannaVIPERGIRL I'm so glad I showed you this app Girl!💕 #AwesomePic of #MrsRKimO 💙,AlannaVIPERGIRL,false,false,226,null,279,false,false,0,0,false,false,[{indices=[91, 102], text=AwesomePic}, {indices=[106, 115], text=MrsRKimO}],[],
-785619926912413696,RT @MARVOREE_JORDAN: Bcoz she's the oldest! She never felt to be treated as bby girl.They became her Big Sisters ♥♥♥ #PBBFriends4ever https…,bravoangelica21,false,false,122,null,4928,true,false,0,0,false,false,[{indices=[117, 133], text=PBBFriends4ever}],[],
-785619941902970881,RT @Cernovich: Rotten Hillary threatens to arrest black man for wearing "Bill Clinton is a rapist" t-shirt.  She is super predator! https:/…,mshellbeth,false,false,908,null,4648,true,false,0,0,false,false,[],[],
-785619965261078528,@DRUDGE_REPORT @FoxNews Hillary, the LOWEST form of life, defended the rapist of a 12 year old girl. Laughed how she knew of his guilt.,TheRealBoTz718,false,false,1478,null,5228,true,false,0,0,false,false,[],[],
-785620076275896320,RT @RealDoctorWhite: Illegal alien kidnaps &amp; rapes a 6 year old Dallas girl 
-
-"SHE WAS SCREAMING FOR HELP" 
-
-https://t.co/gRi5lCRB87 https:…,america_rise_up,false,false,4668,null,32845,false,false,0,0,false,false,[],[{display_url=fox4news.com/news/210647015…, indices=[113, 136], expanded_url=http://www.fox4news.com/news/210647015-story, url=https://t.co/gRi5lCRB87}],
-785620168718192640,RT @Exerclude: If you ain't complimenting your girl &amp; let her know how much she meants to u on a daily then wyd????????,daniiibabyyy_,false,false,362,null,21928,false,false,0,0,false,false,[],[],
-785620174678392836,Girl has been trying to find a guy on a dating site. She decided to change her  picture from a current pic to a pic… https://t.co/0WlQR35Ood,koltfm,false,false,236,null,2563,true,false,0,0,false,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620174678392836, url=https://t.co/0WlQR35Ood}],
-785620178310606848,@DrTeckKhong She could be scary on initial acquaintance (see tonight's sign-off track!) but was a nice middle class girl beneath the mask. &gt;,StephenLees4,false,false,1428,null,42825,false,false,0,0,false,false,[],[],
-785620078771343360,I honestly don't think it's possible for a guy to talk to just one girl at a time and that's FUCKING sad,IsabelleCampeau,false,false,413,null,2040,true,false,0,0,false,false,[],[],
-785620126506766337,RT @slutydite: Hey girl, can you hear me? Are you holding out your heart?
-Hey girl, do you feel me? Sometimes I go too far https://t.co/low…,Daniella23031,false,false,1738,null,98124,false,false,0,0,false,false,[],[],
-785621067972743168,RT @anne_barbano: #DonaldTrump: I played in the #NFL. Here’s what we really talk about in the #LockerRoom . https://t.co/3C3GMuIMnG via @vo…,BayAreaHorndog,false,false,137,null,23326,false,false,0,0,false,false,[{indices=[18, 30], text=DonaldTrump}, {indices=[48, 52], text=NFL}, {indices=[94, 105], text=LockerRoom}],[{display_url=vox.com/first-person/2…, indices=[108, 131], expanded_url=http://www.vox.com/first-person/2016/10/10/13230346/donald-trump-locker-room-talk-chris-kluwe?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter, url=https://t.co/3C3GMuIMnG}],
-785620124170457088,@_JoeyBGCBlogger it's no fun if she's not bad, type of girl you wish you had take what I want &amp; never ask I'm a bitch &amp; I got class🎶 womppp😟,WhyYouCreeping,false,false,29,null,459,true,false,0,0,false,false,[],[],
-785619918867660800,RT @StephensWSJ: I think the GOP just had its Todd Akin "legitimate rape" moment of 2016.... https://t.co/QcQ7NSmZf5,Sqwizzey,false,false,375,null,20814,false,false,0,0,false,false,[],[{display_url=twitter.com/allegrakirklan…, indices=[93, 116], expanded_url=https://twitter.com/allegrakirkland/status/785503749427105792, url=https://t.co/QcQ7NSmZf5}],
-785619943526010880,#gaysex #verified-amateurs #girl #long #public #mature #nice
-💢 I am waiting for U for sex now)
-🍭… https://t.co/U8957dJM6L,OLyubavtseva3,false,false,6,null,291,true,false,0,0,false,false,[{indices=[0, 7], text=gaysex}, {indices=[8, 17], text=verified}, {indices=[27, 32], text=girl}, {indices=[33, 38], text=long}, {indices=[39, 46], text=public}, {indices=[47, 54], text=mature}, {indices=[55, 60], text=nice}],[{display_url=twitter.com/i/web/status/7…, indices=[98, 121], expanded_url=https://twitter.com/i/web/status/785619943526010880, url=https://t.co/U8957dJM6L}],
-785620120110526464,Ever since I laid eyes on her, she's been the girl of my #Flashback #2007 https://t.co/gfy7l093ks,earsel13,false,false,580,null,15672,false,false,0,0,false,false,[{indices=[57, 67], text=Flashback}],[],
-785620171201269760,I'm a cool girl, I'm a I'm a cool girl, ice cold, I roll my eyes at you boy,FioravantiAline,false,false,44,null,63,true,false,0,0,false,false,[],[],
-785620185629679616,This may be a tad weird..
-I like Magical Girl Aesthetic...
-Same with Gothic fashion..it's appealing,JDxImpetus,false,false,180,null,10734,false,false,0,0,false,false,[],[],
-785620089638977536,RT @LOVE_Lucillee: I will spoil tf out of my dude because that's just the kind of girl I am. If you deserve it and you're doing right by me…,hersheybreyanae,false,false,1077,null,22726,false,false,0,0,false,false,[],[],
-785620071360045057,@EmilyVanCamp  Saw, " Girl In The Book " couple days ago. You had me in tears. I adore you and your work 💕💕💕,SunnflowerSnow,false,false,747,null,11029,true,false,0,0,false,false,[],[],
-785620122056560641,RT @KathyShelton_: This is the story about what Hillary did to me, I was that little girl: https://t.co/kxbls3y0AO,jewelsoch,false,false,1237,null,17846,true,false,0,0,false,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
-785620156697419776,RT @bigbootyprobs: Every time a girl follows me on social media I think to myself "who sent you to lurk" 😂,ARwalrus,false,false,145,null,2420,true,false,0,0,false,false,[],[],
-785620158253367296,girl in drive thru hit me with the sprite and water combo. bitch i asked for powerade,Wontonzoup,false,false,378,null,4333,false,false,0,0,false,false,[],[],
-785620160698732548,@TreyLard ask your bitch how long my dicc is &amp; see if I'm sad😂😂 had dat bitch beggin me 2 fucc but I tossed her off😂 AMD my girl look better,cuddycay_707,false,false,873,null,20552,true,false,0,0,false,false,[],[],
-785619916686630912,@BellaTwins Girl you give me hope and get ahead if you can.
-Thank you, I love you very much. 
-PD: nikki always goin… https://t.co/2P2NIWZrow,noeliadieguez1,false,false,251,null,6318,false,false,0,0,false,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785619916686630912, url=https://t.co/2P2NIWZrow}],
-785620096022618112,RT @KushalT2803: Well this girl is surely very strong .... I felt the punch .....🤘who Wil not want to get beaten up by her .Maya or… ,JenamFanClub,false,false,565,null,5421,false,false,0,0,false,false,[],[{indices=[133, 133], expanded_url=null, url=}],
-785620096584744960,you cute girl and i like you. you remind me of my e... — awwwww, this was really wonderful to read after a l... https://t.co/4yfq9AHKWi,SlLAKBO,false,false,517,null,3794,false,false,0,0,false,false,[],[{display_url=curiouscat.me/holycannoli/po…, indices=[112, 135], expanded_url=http://curiouscat.me/holycannoli/post/29563316, url=https://t.co/4yfq9AHKWi}],
-785620112002932736,It's very rare for me to approach a girl so if I do approach you just know you opened my eyes,HyHoward2,false,false,1426,null,9032,false,false,0,0,false,false,[],[],
-785620117900124160,RT @absolutejeon: BTS WILL PERFORMING 3 TRACKS ON MUSIC SHOWS 
-
-- Blood, Sweat &amp; Tears
-- 21st Century Girl 
-- Am i wrong 
-
-#WINGSBR https:/…,otaekookp,false,false,1207,null,37196,false,false,0,0,false,false,[{indices=[127, 135], text=WINGSBR}],[],
-785620120588718080,I can't stand no hatin ahh bitch ...damn I'm not yo nigga so if another girl wanna fuck wit me , take a pic, flirt ..den I'm wit it,jedwardsgoat,false,false,151,null,1040,true,false,0,0,false,false,[],[],
-785620144940802048,RT @dickvendor: if my girl 👰🏼
-
-&amp; my white privilege drownin ⛷🚔
-
-and i can only save 1 🏊🏼😱
-
-catch me at my girls funeral ⚰
-
-financially stab…,hipproblems,false,false,749,null,52762,true,false,0,0,false,false,[],[],
-785620165740355584,RT @Sparky_dude: Excessive cologne 
-Low self esteem 
-Why am i talking to you, if you cant cook
-Makeup 
-Dress sense https://t.co/F1dFy1y7vJ,mr_adarkwa,false,false,1100,null,39451,false,false,0,0,false,false,[],[{display_url=twitter.com/Trvp_Prince213…, indices=[115, 138], expanded_url=https://twitter.com/Trvp_Prince2131/status/785569490360819712, url=https://t.co/F1dFy1y7vJ}],
-785620073570455552,life is so good.🌴❤️ I am in love w this pic, THT GLOW IS THE GLOW OF A HAPPY GIRL! and the beach..luv u @aranxap15 ✨ https://t.co/Fx98DWe8y2,simplyysacred,false,false,192,null,11130,true,false,0,0,false,false,[],[],
-785619924274155520,RT @JoshLeCash: Can someone explain to me how it's okay to call alleged rape victims "Tramps"? I guess the clear answer is everyone… ,markdaventry,false,false,1369,null,37703,true,false,0,0,false,false,[],[{indices=[133, 133], expanded_url=null, url=}],
-785619949545021440,RT @Fresh_Manny2: I am dying that this girl keeps tweeting Fox News asking for @ClayTravis head. Over BAND lmao https://t.co/5UkOehri3m,SamCWebb,false,false,624,null,21479,false,false,0,0,false,false,[],[{display_url=twitter.com/theebethshetle…, indices=[112, 135], expanded_url=https://twitter.com/theebethshetler/status/785615846722994176, url=https://t.co/5UkOehri3m}],
-785619952745209856,RT @alyssaclaireex: OMG I MISSED YOUR BIRTHDAY YESTERDAY, love &amp; miss you tons girl 💕🎈 @MaryAlebian you better be going to orlando! 👯,MIMIROLAND_22,false,false,556,null,15449,true,false,0,0,false,false,[],[],
-785619961997889536,RT @AJDelgado13: I am really confused bc the media assured us for a year that this isn't true/impossible/doesn't happen.
-
-https://t.co/cZ3O…,watson1_z,false,false,608,null,10696,true,false,0,0,false,false,[],[],
-785619962274557952,If i cant have the girl god placed in my life for me to have then ima be a playa, its that simple💯,_Jorge12_,false,false,102,null,4700,true,false,0,0,false,false,[],[],
-785620080147267588,RT @Marcmywords2: Apparently, my friend told a cam girl
-that I live close to her, so I've got that
-going for me.,Knob_ish,false,false,5928,null,66964,true,false,0,0,false,false,[],[],
-785620081627791369,RT @AnnaBellPeaksXX: Time for my bad girl side to come out! @chaturbate @MyFreeCams I have some BIG bad ideas... https://t.co/i6xUSISfrW… ,odr2501,false,false,214,null,11252,true,false,0,0,false,false,[],[{display_url=chaturbate.com/affiliates/in/…, indices=[113, 136], expanded_url=http://chaturbate.com/affiliates/in/7Bge/n5KgV/?room=annabellpeaksxx, url=https://t.co/i6xUSISfrW}, {indices=[138, 138], expanded_url=null, url=}],
-785620119665926144,So super girl season 2 tonight I'm going to dance and start drinking Pepsi and Mountain Dew Coke zero let's see if I can handle it folks😉👍,Michael24546933,false,false,24,null,290,true,false,0,0,false,false,[],[],
-785620132097773569,I really want to get in the mustang grab my guitar and go to west Texas and watch the sunset with a girl and make memories with her 😕,The_King_1026,false,false,347,null,7233,true,false,0,0,false,false,[],[],
-785620159658598400,RT @poemsandthongs: me to my reflection: girl. don't start ya shit. how many times i gotta tell u we gon be alright. you pretty. smart &amp; fa…,angelicaksoto,false,false,120,null,2871,true,false,0,0,false,false,[],[],
-785620173134802944,Seriously one of my favorite things to do at Christmas, I love what this organization does so much. 💖 https://t.co/tGviWTBsYc,TexasRaisedGirl,false,false,1621,null,4231,true,false,0,0,false,false,[],[{display_url=twitter.com/dirtroadqueen_…, indices=[102, 125], expanded_url=https://twitter.com/dirtroadqueen__/status/785619036402884609, url=https://t.co/tGviWTBsYc}],
-785620176880345088,sugababes did the fuckin ting tho, best girl group ever are you fuckin nuts? i mean OG SBabes with my girl mutya,JoXoArtist,false,false,1633,null,63652,false,false,0,0,false,false,[],[],
+ny, new york, usa, he, she, all, they, I
+id, verified, followers_count,default_profile_image, retweet_count, favorites_count,retweeted, hashtags, urls
+785620100057489409,false,290,false,0,0,false,[],[],
+785620071683153920,false,1671,false,0,0,false,[],[],
+785620070634360832,false,371,false,0,0,false,[],[{display_url=twitter.com/pannapitta/sta…, indices=[84, 107], expanded_url=https://twitter.com/pannapitta/status/783413386692419584, url=https://t.co/auB8wVUl4U}],
+785620142818406400,false,279,false,0,0,false,[{indices=[19, 31], text=DonaldTrump}],[],
+785620886040653824,false,922,false,0,0,false,[{indices=[19, 31], text=DonaldTrump}],[],
+785620144114446336,false,4399,false,0,0,false,[],[],
+785620172853747712,false,1093,false,0,0,false,[],[],
+785620096328699905,false,151,false,0,0,false,[],[],
+785619950518038528,false,388,false,0,0,false,[],[{indices=[130, 130], expanded_url=null, url=}],
+785619921963196416,false,497,true,0,0,false,[],[{display_url=dailym.ai/2dGLezd, indices=[107, 130], expanded_url=http://dailym.ai/2dGLezd, url=https://t.co/bfIE4RNGbb}],
+785620930017923072,true,2425,false,0,0,false,[{indices=[23, 35], text=DonaldTrump}],[{display_url=twitter.com/i/web/status/7…, indices=[114, 137], expanded_url=https://twitter.com/i/web/status/785620930017923072, url=https://t.co/Vgh986DOqv}],
+785620493852344320,false,403,false,0,0,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620493852344320, url=https://t.co/t7Dp6US3wS}],
+785621556634365952,false,48,false,0,0,false,[{indices=[21, 33], text=DonaldTrump}, {indices=[79, 98], text=GrabHimByTheBallot}],[],
+785620922170347520,false,360,true,0,0,false,[{indices=[75, 96], text=HillaryLost2ndDebate}, {indices=[97, 104], text=debate}, {indices=[105, 123], text=TrumpForPresident}],[{indices=[125, 125], expanded_url=null, url=}],
+785620081560526848,false,44,false,0,0,false,[],[],
+785620149931941892,false,239,false,0,0,false,[],[],
+785619921136939008,false,6,true,0,0,false,[],[],
+785619940866920448,false,1352,false,0,0,false,[],[],
+785621396718104576,false,10168,false,0,0,false,[{indices=[21, 31], text=MikePence}, {indices=[110, 122], text=DonaldTrump}],[],
+785620164767195137,false,25,false,0,0,false,[{indices=[94, 99], text=sexy}, {indices=[100, 106], text=naked}, {indices=[107, 112], text=nude}, {indices=[113, 119], text=pussy}, {indices=[120, 128], text=amateur}, {indices=[129, 133], text=por}],[{display_url=feminax.net/gal/6323096/Se…, indices=[70, 93], expanded_url=http://www.feminax.net/gal/6323096/Sexy-Naked-Girl-Nina---i-need-sex-all-the-time, url=https://t.co/lVBmjIA8r5}],
+785619952288030720,false,498,false,0,0,false,[],[],
+785620133708439552,false,5824,false,0,0,false,[],[{display_url=twitter.com/chaconiaa/stat…, indices=[74, 97], expanded_url=https://twitter.com/chaconiaa/status/785619676713844736, url=https://t.co/9YVB0lJFvV}],
+785619938463584256,false,16816,false,0,0,false,[],[],
+785620113965875200,false,108,false,0,0,false,[],[],
+785620185306664960,false,47,false,0,0,false,[],[],
+785620843954966528,false,6448,false,0,0,false,[{indices=[102, 114], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[78, 101], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
+785621341349085185,false,4582,false,0,0,false,[{indices=[0, 12], text=Congressman}, {indices=[13, 18], text=Long}, {indices=[32, 44], text=DonaldTrump}, {indices=[47, 54], text=Debate}, {indices=[87, 92], text=Jobs}, {indices=[93, 101], text=Economy}, {indices=[122, 135], text=TrumpPence16}],[{display_url=donaldjtrump.com/press-releases…, indices=[63, 86], expanded_url=https://www.donaldjtrump.com/press-releases/congressman-long-statement-on-donald-j.-trumps-debate-victory, url=https://t.co/sVJgy5lZSh}],
+785620157712375808,false,176,false,0,0,false,[],[],
+785619932717264896,false,1488,false,0,0,false,[],[{display_url=bit.ly/2dg7lJL, indices=[104, 127], expanded_url=http://bit.ly/2dg7lJL, url=https://t.co/gmUNJLQVuV}],
+785620080755351552,false,1469,false,0,0,false,[],[],
+785620100451753984,false,14720,false,0,0,false,[{indices=[31, 35], text=dog}, {indices=[36, 55], text=ChiChi_RSPCAQLD_06}],[{display_url=getpet.info/ChiChi_RSPCAQL…, indices=[114, 137], expanded_url=http://getpet.info/ChiChi_RSPCAQLD_06, url=https://t.co/O1IgpB4Tvl}],
+785620854952427520,false,6358,false,0,0,false,[{indices=[102, 114], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[78, 101], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
+785619925348089856,false,1212,false,0,0,false,[],[],
+785620152247136256,false,1286,false,0,0,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620152247136256, url=https://t.co/ZGPon9LRHg}],
+785620155615154176,false,16536,false,0,0,false,[{indices=[55, 70], text=CrookedHillary}, {indices=[104, 116], text=DonaldTrump}, {indices=[117, 132], text=HillaryClinton}],[],
+785620732604624896,false,14060,false,0,0,false,[{indices=[89, 101], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[65, 88], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
+785620831904739328,false,6189,false,0,0,false,[{indices=[102, 114], text=DonaldTrump}],[{display_url=dlvr.it/MQxjCp, indices=[78, 101], expanded_url=http://dlvr.it/MQxjCp, url=https://t.co/in47OMInjv}],
+785620098375483392,false,0,false,0,0,false,[],[{display_url=bit.ly/2bjY4w8, indices=[32, 55], expanded_url=http://bit.ly/2bjY4w8, url=https://t.co/L2TI13MqPt}],
+785620108290977792,false,626,false,0,0,false,[],[],
+785620648043294721,false,158,false,0,0,false,[],[{display_url=twitter.com/fladems/status…, indices=[63, 86], expanded_url=https://twitter.com/fladems/status/785594617345347584, url=https://t.co/PmMjxfObON}],
+785620874204282881,false,20003,false,0,0,false,[{indices=[87, 99], text=DonaldTrump}],[{display_url=dlvr.it/MQxjr1, indices=[63, 86], expanded_url=http://dlvr.it/MQxjr1, url=https://t.co/4pmqJE15RE}],
+785619922659401728,false,175,false,0,0,false,[],[{display_url=twitter.com/itsjustmannyy/…, indices=[18, 41], expanded_url=https://twitter.com/itsjustmannyy/status/785619321196191744, url=https://t.co/NfyqxqeJ16}],
+785620087160000513,false,288,false,0,0,false,[],[],
+785620132097724416,false,1436,false,0,0,false,[],[{display_url=ift.tt/2dDPZtf, indices=[75, 98], expanded_url=http://ift.tt/2dDPZtf, url=https://t.co/QsZZCuGCoe}],
+785620134102757376,false,59,false,0,0,false,[],[{display_url=twitter.com/usafortrump201…, indices=[54, 77], expanded_url=https://twitter.com/usafortrump2016/status/781954101525360640, url=https://t.co/popd6QrAI0}],
+785620126934720512,false,36,false,0,0,false,[],[],
+785620642750009344,false,51,false,0,0,false,[{indices=[0, 12], text=DonaldTrump}],[],
+785619925561806849,false,720,false,0,0,false,[],[{display_url=twitter.com/zaethechemist/…, indices=[55, 78], expanded_url=https://twitter.com/zaethechemist/status/785572230046425088, url=https://t.co/EaQGAgIqAd}],
+785619955249127424,false,874,false,0,0,false,[],[],
+785619948890501120,false,100,false,0,0,false,[],[{display_url=bit.ly/2dg7lJL, indices=[104, 127], expanded_url=http://bit.ly/2dg7lJL, url=https://t.co/gmUNJLQVuV}],
+785620183142567936,false,998,false,0,0,false,[],[{display_url=twitter.com/imanishaiyann/…, indices=[35, 58], expanded_url=https://twitter.com/imanishaiyann/status/785619447990005760, url=https://t.co/krbzoGyAyN}],
+785619955790192640,false,372,false,0,0,false,[],[],
+785621071605080064,false,51,false,0,0,false,[{indices=[0, 12], text=DonaldTrump}],[],
+785621538267467776,false,393,false,0,0,false,[{indices=[28, 42], text=hilaryclinton}, {indices=[43, 55], text=donaldtrump}, {indices=[56, 62], text=petty}, {indices=[63, 71], text=pettyaf}, {indices=[72, 79], text=debate}, {indices=[80, 89], text=columbus}, {indices=[90, 95], text=jail}],[{display_url=instagram.com/p/BLZpLN_BWLA/, indices=[97, 120], expanded_url=https://www.instagram.com/p/BLZpLN_BWLA/, url=https://t.co/yd3HicsGp9}],
+785620175437570048,false,180,false,0,0,false,[],[],
+785620083284414464,false,11,true,0,0,false,[],[{indices=[129, 129], expanded_url=null, url=}],
+785619917122969600,false,3550,false,0,0,false,[],[{display_url=bit.ly/2dg7lJL, indices=[104, 127], expanded_url=http://bit.ly/2dg7lJL, url=https://t.co/gmUNJLQVuV}],
+785619930599133184,false,456,false,0,0,false,[],[{display_url=twitter.com/PrisonPlanet/s…, indices=[46, 69], expanded_url=https://twitter.com/PrisonPlanet/status/785575960397611008, url=https://t.co/Xvgd00e9vO}, {display_url=fb.me/5WF6GLNkw, indices=[70, 93], expanded_url=http://fb.me/5WF6GLNkw, url=https://t.co/zaWXtpFrJ7}],
+785619928439062532,false,7120,false,0,0,false,[],[{display_url=twitter.com/PrisonPlanet/s…, indices=[46, 69], expanded_url=https://twitter.com/PrisonPlanet/status/785575960397611008, url=https://t.co/Xvgd00e9vO}, {display_url=fb.me/5WF6GLNkw, indices=[70, 93], expanded_url=http://fb.me/5WF6GLNkw, url=https://t.co/zaWXtpFrJ7}],
+785619944704729088,false,200,false,0,0,false,[],[{display_url=twitter.com/osoversace/sta…, indices=[72, 95], expanded_url=https://twitter.com/osoversace/status/784545894293209089, url=https://t.co/vntnvJTfr1}],
+785620182697775104,false,435,false,0,0,false,[{indices=[88, 102], text=NewRevolution}, {indices=[103, 116], text=NeverHillary}],[{display_url=breitbart.com/texas/2016/10/…, indices=[20, 43], expanded_url=http://www.breitbart.com/texas/2016/10/10/illegal-immigrant-charged-kidnapping-raping-6-year-old-texas-girl/, url=https://t.co/z59Tkq2MHT}],
+785620072488374272,false,256,false,0,0,false,[],[],
+785619941600944128,false,343,false,0,0,false,[],[],
+785620158047850496,false,254,false,0,0,false,[],[{display_url=twitter.com/shewantsmetho/…, indices=[79, 102], expanded_url=https://twitter.com/shewantsmetho/status/782720659939962880, url=https://t.co/1ZaXpuNnwu}],
+785620116184535040,false,437,false,0,0,false,[],[],
+785620164700016640,false,116,false,0,0,false,[],[],
+785619938866106368,false,236,false,0,0,false,[],[],
+785619917957627905,false,3643,false,0,0,false,[],[{indices=[135, 135], expanded_url=null, url=}],
+785620084794417152,false,167,false,0,0,false,[{indices=[15, 23], text=blessed}],[],
+785620169397772288,false,406,false,0,0,false,[],[],
+785620147612647424,false,1619,false,0,0,false,[],[{display_url=senclaire.com/gen-come-over/, indices=[111, 134], expanded_url=http://senclaire.com/gen-come-over/, url=https://t.co/R5UGRi0P1h}],
+785620553050775552,false,428,false,0,0,false,[{indices=[6, 11], text=WSMV}, {indices=[62, 74], text=DonaldTrump}, {indices=[98, 113], text=HillaryClinton}, {indices=[131, 139], text=Corrupt}],[],
+785620184950124545,false,7050,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185113690113,false,1724946,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185369628672,false,18650,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185377976320,false,1091524,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620087030112256,false,132,false,0,0,false,[],[],
+785620185352769536,false,3652,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185369632769,false,1951735,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185361162241,false,30578,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620130197671936,false,112,false,0,0,false,[],[{indices=[130, 130], expanded_url=null, url=}],
+785620149244088320,false,101,false,0,0,false,[],[{indices=[130, 130], expanded_url=null, url=}],
+785619953542017024,false,162,false,0,0,false,[],[{indices=[135, 135], expanded_url=null, url=}],
+785620184979546113,false,20228,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184849457152,false,2068147,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184992067584,false,203220,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185357037568,false,9859,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185369542656,false,14864,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184975351810,false,19193,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185411493888,false,908281,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184971083776,false,997151,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785619942578106368,false,2147,false,0,0,false,[],[{display_url=twitter.com/osoversace/sta…, indices=[72, 95], expanded_url=https://twitter.com/osoversace/status/784545894293209089, url=https://t.co/vntnvJTfr1}],
+785620360729358336,false,226,false,0,0,false,[{indices=[41, 53], text=DonaldTrump}],[{display_url=buff.ly/2dLBkIr, indices=[112, 135], expanded_url=http://buff.ly/2dLBkIr, url=https://t.co/DFjRN5iL41}],
+785620176528113664,false,983,false,0,0,false,[],[],
+785619955479941121,false,1907,false,0,0,false,[],[],
+785620172207820800,false,2098,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785620383118401536,false,12,false,0,0,false,[],[{display_url=fb.me/2pBPNPogt, indices=[116, 139], expanded_url=http://fb.me/2pBPNPogt, url=https://t.co/nwYfmhn33f}],
+785620926222086144,false,1032,false,0,0,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
+785619945958707200,false,1539,false,0,0,false,[],[],
+785620127844663296,false,481,false,0,0,false,[],[],
+785620959600357377,false,2844,false,0,0,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
+785619916800032768,false,14612,false,0,0,false,[],[{display_url=twitter.com/1realmir/statu…, indices=[25, 48], expanded_url=https://twitter.com/1realmir/status/755196806951088128, url=https://t.co/qU6QnqEL1U}],
+785620127140212736,false,382,false,0,0,false,[],[],
+785620076582100992,false,622,false,0,0,false,[],[],
+785620183494733824,false,76,false,0,0,false,[],[],
+785620743094620160,false,17,false,0,0,false,[],[{display_url=twitter.com/allen_clifton/…, indices=[50, 73], expanded_url=https://twitter.com/allen_clifton/status/785560327173701632, url=https://t.co/RGu1QDki8N}],
+785621131973636096,false,9334,false,0,0,false,[{indices=[25, 29], text=lie}, {indices=[32, 46], text=WarrenBuffett}, {indices=[59, 65], text=taxes}, {indices=[110, 122], text=DonaldTrump}],[{display_url=vox.com/policy-and-pol…, indices=[86, 109], expanded_url=http://www.vox.com/policy-and-politics/2016/10/10/13228628/warren-buffett-donald-trump-taxes, url=https://t.co/NnTUY4uJQz}],
+785620144953450496,false,544,false,0,0,false,[],[],
+785619938186702848,false,25,false,0,0,false,[{indices=[99, 104], text=sexy}, {indices=[105, 111], text=naked}, {indices=[112, 117], text=nude}, {indices=[118, 124], text=pussy}, {indices=[125, 133], text=amateur}],[{display_url=feminax.net/gal/6323178/Se…, indices=[75, 98], expanded_url=http://www.feminax.net/gal/6323178/Sexy-Naked-Girl-Nina---You-can-fuck-me-all-the-time, url=https://t.co/dFZgJZtjbQ}],
+785619962312454144,false,93,false,0,0,false,[],[{indices=[135, 135], expanded_url=null, url=}],
+785620112795721729,false,142,false,0,0,false,[],[{indices=[134, 134], expanded_url=null, url=}],
+785621216954425344,false,4985,false,0,0,false,[],[],
+785621269060415492,false,151,false,0,0,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
+785620183448629248,false,2832,false,0,0,false,[],[],
+785620173466300416,false,576,false,0,0,false,[],[],
+785620140280930305,false,1785,false,0,0,false,[],[],
+785620096463101952,false,316,false,0,0,false,[],[],
+785620144714244096,false,31868,false,0,0,false,[{indices=[93, 99], text=2Huff}],[],
+785620184979550208,false,12492,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184941801472,false,30528,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184992092161,false,260004,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185357033477,false,6349,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185361231872,false,7526,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185382203393,false,77162,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785621204296093696,false,542,false,0,0,false,[],[],
+785620090163040256,false,245,false,0,0,false,[],[{indices=[129, 129], expanded_url=null, url=}],
+785620128905830401,false,1233,false,0,0,false,[],[],
+785619934223142912,false,523,false,0,0,false,[],[{display_url=twitter.com/forgaves/statu…, indices=[39, 62], expanded_url=https://twitter.com/forgaves/status/784554908414570496, url=https://t.co/UT1Oqv971A}],
+785620102066483200,false,87,false,0,0,false,[],[],
+785620148124254208,false,1,false,0,0,false,[],[{display_url=feeds.findlaw.com/~r/Injured/~3/…, indices=[30, 53], expanded_url=http://feeds.findlaw.com/~r/Injured/~3/sMc5B0rw3R4/what-happens-if-you-lose-an-injury-lawsuit-by-default.html, url=https://t.co/aDFLqNcq8T}],
+785620790746058752,false,17,false,0,0,false,[{indices=[36, 48], text=DonaldTrump}, {indices=[83, 98], text=HillaryClinton}],[{indices=[130, 130], expanded_url=null, url=}],
+785620128956227584,false,4399,false,0,0,false,[],[],
+785620150854754304,false,132,false,0,0,false,[],[],
+785619963629277185,false,1096,false,0,0,false,[],[],
+785620127064662016,false,110,false,0,0,false,[],[],
+785620130461945856,false,1625,false,0,0,false,[],[{display_url=twitter.com/saintpablo__/s…, indices=[70, 93], expanded_url=https://twitter.com/saintpablo__/status/785619774390738944, url=https://t.co/3RBPPC4uAe}],
+785620070214934528,false,755,false,0,0,false,[],[],
+785620090830069760,false,1773,false,0,0,false,[],[{display_url=twitter.com/ilickyomama/st…, indices=[21, 44], expanded_url=https://twitter.com/ilickyomama/status/785619776374706176, url=https://t.co/TSwzg4vHt7}],
+785620112199909376,false,521,false,0,0,false,[],[{display_url=twitter.com/kelley4000/sta…, indices=[31, 54], expanded_url=https://twitter.com/kelley4000/status/785600107089539073, url=https://t.co/qalpiL8eYR}],
+785620071708258304,false,1392,false,0,0,false,[],[{display_url=twitter.com/trayoncee/stat…, indices=[64, 87], expanded_url=https://twitter.com/trayoncee/status/770108383332532225, url=https://t.co/pJB1tCrbdM}],
+785621255932129281,false,359,false,0,0,false,[{indices=[36, 48], text=DonaldTrump}, {indices=[83, 98], text=HillaryClinton}],[{indices=[130, 130], expanded_url=null, url=}],
+785620092805586945,false,628,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785620132844318721,false,535,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785620153425797124,false,179,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785619931400404992,false,44,false,0,0,false,[{indices=[0, 18], text=basketballwivesLA}],[],
+785620145800552449,false,464,false,0,0,false,[],[{display_url=naijaoversabi.com/2016/10/10/pho…, indices=[108, 131], expanded_url=http://www.naijaoversabi.com/2016/10/10/photos-the-igbo-woman-and-her-husband-who-kidnapped-a-7year-old-girl-because-she-was-too-beautiful-arrested-in-kaduna/, url=https://t.co/sgs73ADyYQ}],
+785619933321310208,false,897,false,0,0,false,[{indices=[40, 48], text=Clinton}, {indices=[97, 105], text=Hillary}],[{indices=[138, 138], expanded_url=null, url=}],
+785619947481358336,false,246,false,0,0,false,[],[],
+785620186334367744,false,1138,false,0,0,false,[],[],
+785620173751480320,false,449,false,0,0,false,[],[{display_url=curiouscat.me/xMvrs/post/305…, indices=[79, 102], expanded_url=http://curiouscat.me/xMvrs/post/30552959, url=https://t.co/4qEtb3Jcdf}],
+785619951860187136,false,168,false,0,0,false,[],[],
+785620906563538944,false,815,false,0,0,false,[],[],
+785619964736798785,false,491,false,0,0,false,[],[{display_url=twitter.com/shesamericag/s…, indices=[16, 39], expanded_url=https://twitter.com/shesamericag/status/785619840312614912, url=https://t.co/zo865mASeY}],
+785620072219967488,false,3379,false,0,0,false,[],[],
+785620097280847872,false,91,false,0,0,false,[],[],
+785620083796090881,false,21,false,0,0,false,[],[],
+785620132315869185,false,1359,false,0,0,false,[],[],
+785619926274936832,false,79,false,0,0,false,[],[],
+785619965164617730,false,1155,false,0,0,false,[],[{indices=[136, 136], expanded_url=null, url=}],
+785620146425565185,false,1936,false,0,0,false,[],[],
+785620616229498882,false,17366,false,0,0,false,[{indices=[0, 6], text=Trump}],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620616229498882, url=https://t.co/Loo5ksIW4u}],
+785620680888897536,false,9265,false,0,0,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
+785620987119185920,false,5484,false,0,0,false,[],[],
+785621430801145856,false,748,false,0,0,false,[],[],
+785621443719618560,false,3784,false,0,0,false,[{indices=[14, 20], text=Trump}],[{indices=[131, 131], expanded_url=null, url=}],
+785619955899174912,false,2948,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785620155569152000,false,853,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785619921468268544,false,174,false,0,0,false,[],[],
+785620151479726080,false,317,false,0,0,false,[],[],
+785620184983674880,false,21069,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184992145409,false,18187,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184950124544,false,25201,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184996335616,false,14064,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184971120641,false,24765,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620184992055296,false,2079,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185042399233,false,9441,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185356963841,false,5929,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185130541057,false,9963,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185591877632,false,381477,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620185356963840,false,12003,false,0,0,false,[],[{indices=[121, 121], expanded_url=null, url=}],
+785620146857607168,false,228,false,0,0,false,[{indices=[5, 14], text=outraged}],[{display_url=twitter.com/MikeAdamOnAir/…, indices=[56, 79], expanded_url=https://twitter.com/MikeAdamOnAir/status/785619781080772608, url=https://t.co/0CWOhoDXcj}],
+785620156797943808,false,186,false,0,0,false,[{indices=[46, 61], text=strangerthings}],[{display_url=makeitstranger.com/girl-almighty, indices=[7, 30], expanded_url=http://makeitstranger.com/girl-almighty, url=https://t.co/TWGvaPGPkA}],
+785620182303592448,false,697,false,0,0,false,[],[],
+785620661246885888,false,1149,false,0,0,false,[{indices=[34, 41], text=Debate}, {indices=[42, 54], text=DonaldTrump}],[],
+785619962756861952,false,1314,false,0,0,false,[],[],
+785620093946384384,false,52,true,0,0,false,[],[],
+785619945371627520,false,453,false,0,0,false,[{indices=[117, 123], text=BBOTT}],[],
+785619947409899520,false,1230,false,0,0,false,[{indices=[14, 23], text=JoyBehar}],[],
+785620091056615425,false,259,false,0,0,false,[],[],
+785619951411277825,false,904,false,0,0,false,[],[],
+785620171239063552,false,102,false,0,0,false,[],[{display_url=twitter.com/foxnews/status…, indices=[100, 123], expanded_url=https://twitter.com/foxnews/status/785599763332726785, url=https://t.co/rx4dSknRyI}],
+785620421953613828,false,3892,false,0,0,false,[{indices=[0, 12], text=DonaldTrump}, {indices=[30, 34], text=NFL}, {indices=[76, 87], text=LockerRoom}],[{display_url=vox.com/first-person/2…, indices=[90, 113], expanded_url=http://www.vox.com/first-person/2016/10/10/13230346/donald-trump-locker-room-talk-chris-kluwe?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter, url=https://t.co/3C3GMuIMnG}],
+785620174653173760,false,117,false,0,0,false,[],[],
+785620104931340289,false,398,false,0,0,false,[],[],
+785619950002139136,false,310,false,0,0,false,[{indices=[14, 23], text=calilife}, {indices=[41, 51], text=LinkInBio}],[{display_url=instagram.com/p/BLZodFKjo0V/, indices=[78, 101], expanded_url=https://www.instagram.com/p/BLZodFKjo0V/, url=https://t.co/LQLaFQ6XPy}],
+785620078393819136,false,509,false,0,0,false,[],[],
+785620118373933056,false,21,false,0,0,false,[],[{display_url=twitter.com/ImaniBoyette/s…, indices=[51, 74], expanded_url=https://twitter.com/ImaniBoyette/status/785513257561980928, url=https://t.co/ZEH7f0YOdw}],
+785621392397971456,false,1072,false,0,0,false,[],[],
+785619925624905728,false,404,false,0,0,false,[],[],
+785619955102298112,false,2832,false,0,0,false,[],[],
+785620181137625088,false,207,false,0,0,false,[],[],
+785620099013107712,false,24,false,0,0,false,[],[],
+785620165639540738,false,181,false,0,0,false,[],[],
+785619960311808000,false,324,false,0,0,false,[],[],
+785620074279342080,false,660,false,0,0,false,[],[{display_url=twitter.com/1realmir/statu…, indices=[29, 52], expanded_url=https://twitter.com/1realmir/status/755196806951088128, url=https://t.co/ZDnoJ1FFyo}],
+785620090008039424,false,420,false,0,0,false,[],[{display_url=twitter.com/noconvojusnude…, indices=[40, 63], expanded_url=https://twitter.com/noconvojusnudes/status/785498070645612544, url=https://t.co/oPYYbcY7KK}],
+785620096869920772,false,343,false,0,0,false,[],[],
+785621226903314432,false,617,false,0,0,false,[],[{display_url=twitter.com/femail/status/…, indices=[20, 43], expanded_url=https://twitter.com/femail/status/785593782674874369, url=https://t.co/viVforQhTg}],
+785620102834163712,false,254,false,0,0,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
+785619945912754180,false,221,false,0,0,false,[],[],
+785619955584761856,false,758,false,0,0,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785619955584761856, url=https://t.co/iGAJ5BnK1i}],
+785620115890987008,false,828,false,0,0,false,[],[{indices=[127, 127], expanded_url=null, url=}],
+785620132357746689,false,264,false,0,0,false,[],[],
+785620153165877248,false,622,false,0,0,false,[],[],
+785620160120033280,false,3775,false,0,0,false,[],[],
+785620179246022656,false,7330,false,0,0,false,[],[],
+785619928325894144,false,154,false,0,0,false,[],[{display_url=twitter.com/princess_iyann…, indices=[83, 106], expanded_url=https://twitter.com/princess_iyanna/status/785506313660948482, url=https://t.co/PR6QA7WyVt}],
+785620122773762049,false,299,false,0,0,false,[],[{display_url=twitter.com/GamingCufufy/s…, indices=[92, 115], expanded_url=https://twitter.com/GamingCufufy/status/785618944195489792, url=https://t.co/pU6xoV1WkR}],
+785620087029903365,false,458,true,0,0,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
+785620147516170240,false,133,false,0,0,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
+785619932687929344,false,500,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785619957543411712,false,609,false,0,0,false,[],[],
+785619962710728704,false,233,false,0,0,false,[],[],
+785620082441330689,false,297,false,0,0,false,[],[{indices=[133, 133], expanded_url=null, url=}],
+785620103287099392,false,2803,false,0,0,false,[{indices=[108, 118], text=tanastour}],[],
+785620106785075200,false,574,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785620110723678208,false,615,false,0,0,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[116, 139], expanded_url=https://twitter.com/i/web/status/785620110723678208, url=https://t.co/JHX0aPmi9o}],
+785619930414714880,false,255,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785619959367933952,false,172,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785620072295493632,false,234,false,0,0,false,[],[{indices=[132, 132], expanded_url=null, url=}],
+785619925993873408,false,954,false,0,0,false,[],[{display_url=twitter.com/theebethshetle…, indices=[112, 135], expanded_url=https://twitter.com/theebethshetler/status/785615846722994176, url=https://t.co/5UkOehri3m}],
+785620080444968964,false,54,false,0,0,false,[],[],
+785620152423415808,false,442,false,0,0,false,[],[{display_url=vergecampus.com/2016/10/dont-l…, indices=[116, 139], expanded_url=http://vergecampus.com/2016/10/dont-like-one-direction-mcfly-exists/, url=https://t.co/gWl1x0dRFF}],
+785620152926740480,false,236,false,0,0,false,[],[{display_url=twitter.com/dearmoonshine_…, indices=[93, 116], expanded_url=https://twitter.com/dearmoonshine__/status/785619880125014016, url=https://t.co/ZDZoTG1VS2}],
+785620178449170436,false,432,false,0,0,false,[],[],
+785619927847677952,false,1903,false,0,0,false,[{indices=[64, 73], text=FadeAway}],[],
+785619950148853764,false,194,false,0,0,false,[],[],
+785619955110678528,false,110,false,0,0,false,[],[{display_url=twitter.com/baddiessnation…, indices=[53, 76], expanded_url=https://twitter.com/baddiessnation/status/764205288161419264, url=https://t.co/MeC3sAX8Yb}],
+785620122618605568,false,666,false,0,0,false,[],[],
+785620124107694080,false,13160,false,0,0,false,[],[],
+785620134991912960,false,291,false,0,0,false,[{indices=[44, 51], text=madeit}],[{display_url=twitter.com/comicosity/sta…, indices=[52, 75], expanded_url=https://twitter.com/comicosity/status/785618929678942208, url=https://t.co/811FvueYk2}],
+785620169745838080,false,212,false,0,0,false,[],[],
+785620172291702785,false,4549,false,0,0,false,[],[{display_url=twitter.com/shakinupmyhear…, indices=[36, 59], expanded_url=https://twitter.com/shakinupmyheart/status/772209164156297216, url=https://t.co/xEYdEAqikm}],
+785619956050395136,false,588,false,0,0,false,[],[],
+785620082936381440,false,1858,false,0,0,false,[],[{display_url=twitter.com/braxattacks/st…, indices=[55, 78], expanded_url=https://twitter.com/braxattacks/status/746093459220553728, url=https://t.co/GQjCaw8FjW}],
+785620109976940548,false,348,false,0,0,false,[],[],
+785620125089136640,false,538,false,0,0,false,[],[],
+785620134446497792,false,1270,false,0,0,false,[],[],
+785620178918932480,false,226,false,0,0,false,[{indices=[91, 102], text=AwesomePic}, {indices=[106, 115], text=MrsRKimO}],[],
+785619926912413696,false,122,false,0,0,false,[{indices=[117, 133], text=PBBFriends4ever}],[],
+785619941902970881,false,908,false,0,0,false,[],[],
+785619965261078528,false,1478,false,0,0,false,[],[],
+785620076275896320,false,4668,false,0,0,false,[],[{display_url=fox4news.com/news/210647015…, indices=[113, 136], expanded_url=http://www.fox4news.com/news/210647015-story, url=https://t.co/gRi5lCRB87}],
+785620168718192640,false,362,false,0,0,false,[],[],
+785620174678392836,false,236,false,0,0,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785620174678392836, url=https://t.co/0WlQR35Ood}],
+785620178310606848,false,1428,false,0,0,false,[],[],
+785620078771343360,false,413,false,0,0,false,[],[],
+785620126506766337,false,1738,false,0,0,false,[],[],
+785621067972743168,false,137,false,0,0,false,[{indices=[18, 30], text=DonaldTrump}, {indices=[48, 52], text=NFL}, {indices=[94, 105], text=LockerRoom}],[{display_url=vox.com/first-person/2…, indices=[108, 131], expanded_url=http://www.vox.com/first-person/2016/10/10/13230346/donald-trump-locker-room-talk-chris-kluwe?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter, url=https://t.co/3C3GMuIMnG}],
+785620124170457088,false,29,false,0,0,false,[],[],
+785619918867660800,false,375,false,0,0,false,[],[{display_url=twitter.com/allegrakirklan…, indices=[93, 116], expanded_url=https://twitter.com/allegrakirkland/status/785503749427105792, url=https://t.co/QcQ7NSmZf5}],
+785619943526010880,false,6,false,0,0,false,[{indices=[0, 7], text=gaysex}, {indices=[8, 17], text=verified}, {indices=[27, 32], text=girl}, {indices=[33, 38], text=long}, {indices=[39, 46], text=public}, {indices=[47, 54], text=mature}, {indices=[55, 60], text=nice}],[{display_url=twitter.com/i/web/status/7…, indices=[98, 121], expanded_url=https://twitter.com/i/web/status/785619943526010880, url=https://t.co/U8957dJM6L}],
+785620120110526464,false,580,false,0,0,false,[{indices=[57, 67], text=Flashback}],[],
+785620171201269760,false,44,false,0,0,false,[],[],
+785620185629679616,false,180,false,0,0,false,[],[],
+785620089638977536,false,1077,false,0,0,false,[],[],
+785620071360045057,false,747,false,0,0,false,[],[],
+785620122056560641,false,1237,false,0,0,false,[],[{display_url=youtube.com/watch?v=BdNHf1…, indices=[91, 114], expanded_url=https://www.youtube.com/watch?v=BdNHf1g4ivA, url=https://t.co/kxbls3y0AO}],
+785620156697419776,false,145,false,0,0,false,[],[],
+785620158253367296,false,378,false,0,0,false,[],[],
+785620160698732548,false,873,false,0,0,false,[],[],
+785619916686630912,false,251,false,0,0,false,[],[{display_url=twitter.com/i/web/status/7…, indices=[117, 140], expanded_url=https://twitter.com/i/web/status/785619916686630912, url=https://t.co/2P2NIWZrow}],
+785620096022618112,false,565,false,0,0,false,[],[{indices=[133, 133], expanded_url=null, url=}],
+785620096584744960,false,517,false,0,0,false,[],[{display_url=curiouscat.me/holycannoli/po…, indices=[112, 135], expanded_url=http://curiouscat.me/holycannoli/post/29563316, url=https://t.co/4yfq9AHKWi}],
+785620112002932736,false,1426,false,0,0,false,[],[],
+785620117900124160,false,1207,false,0,0,false,[{indices=[127, 135], text=WINGSBR}],[],
+785620120588718080,false,151,false,0,0,false,[],[],
+785620144940802048,false,749,false,0,0,false,[],[],
+785620165740355584,false,1100,false,0,0,false,[],[{display_url=twitter.com/Trvp_Prince213…, indices=[115, 138], expanded_url=https://twitter.com/Trvp_Prince2131/status/785569490360819712, url=https://t.co/F1dFy1y7vJ}],
+785620073570455552,false,192,false,0,0,false,[],[],
+785619924274155520,false,1369,false,0,0,false,[],[{indices=[133, 133], expanded_url=null, url=}],
+785619949545021440,false,624,false,0,0,false,[],[{display_url=twitter.com/theebethshetle…, indices=[112, 135], expanded_url=https://twitter.com/theebethshetler/status/785615846722994176, url=https://t.co/5UkOehri3m}],
+785619952745209856,false,556,false,0,0,false,[],[],
+785619961997889536,false,608,false,0,0,false,[],[],
+785619962274557952,false,102,false,0,0,false,[],[],
+785620080147267588,false,5928,false,0,0,false,[],[],
+785620081627791369,false,214,false,0,0,false,[],[{display_url=chaturbate.com/affiliates/in/…, indices=[113, 136], expanded_url=http://chaturbate.com/affiliates/in/7Bge/n5KgV/?room=annabellpeaksxx, url=https://t.co/i6xUSISfrW}, {indices=[138, 138], expanded_url=null, url=}],
+785620119665926144,false,24,false,0,0,false,[],[],
+785620132097773569,false,347,false,0,0,false,[],[],
+785620159658598400,false,120,false,0,0,false,[],[],
+785620173134802944,false,1621,false,0,0,false,[],[{display_url=twitter.com/dirtroadqueen_…, indices=[102, 125], expanded_url=https://twitter.com/dirtroadqueen__/status/785619036402884609, url=https://t.co/tGviWTBsYc}],
+785620176880345088,false,1633,false,0,0,false,[],[],
