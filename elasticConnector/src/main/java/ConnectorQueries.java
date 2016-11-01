@@ -55,25 +55,32 @@ public class ConnectorQueries {
             System.out.println(response.toString());
     }
     
-    public void getTweetTextByKeywords(String keywords) throws IOException{
+    public void getTweetTextByKeywords(String keywordsOriginal) throws IOException{
         //This method gets all tweet text that contains one or more of the keywords.
        
+        String keywords=keywordsOriginal.replace(",", "");
+        
         //Creating outputHandler instance
         OutputHandler outputH= new OutputHandler();
         
         //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
-         QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
+        QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
        
+        
         SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
         
         //System.out.println("Complete Response");
         //System.out.println(response1.toString());
-        
+        outputH.writeOutputFileText(keywordsOriginal);
         for (SearchHit hit : response1.getHits()){
                 Map<String, Object> fields = hit.getSource();
                 //System.out.println(fields.get("text"));
                 //System.out.println(((String)fields.get("text")).trim());
-                outputH.writeOutputFileText(((String) fields.get("text")).trim());
+                String ids = Long.toString((long) fields.get("id"));
+                String text = replaceCommas((String) fields.get("text"));
+                String finalText = replaceLineBreaks(text);
+                String endLine=ids + ", " + finalText;
+                outputH.writeOutputFileText(endLine);
                 outputH.writeOutputFileText("-----------------------------------------------------------");
         }
         
@@ -82,11 +89,13 @@ public class ConnectorQueries {
         
     }
     
-    public void getBasicInfoByKeywords(String keywords) throws IOException{
+    public void getBasicInfoByKeywords(String keywordsOriginal) throws IOException{
         //This method gets basic information and retrieves an output file (csv)
        
+        String keywords=keywordsOriginal.replace(",", "");
         //Creating outputHandler instance
         OutputHandler outputH= new OutputHandler();
+        outputH.writeOutputFileBasic(keywordsOriginal);
         outputH.writeOutputFileBasic("id, tweet_text, screen_name, protected, verified, followers_count,"
                     + "following, statuses_count, default_profile, default_profile_image, retweet_count, favorite_count,"
                     + "favorited, retweeted, hashtags, urls");
@@ -103,8 +112,10 @@ public class ConnectorQueries {
                 Map<String, Object> user = (Map<String, Object>) fields.get("user");
                 Map<String, Object> entities = (Map<String, Object>) fields.get("entities");
                 //Map≤String, Object> userFields=hit.getSource();
+                String text = replaceCommas((String) fields.get("text"));
+                String finalText=replaceLineBreaks(text);
                 String line=fields.get("id") + "," +
-                    fields.get("text") + "," +
+                    finalText + "," +
                     user.get("screen_name") + "," +
                     user.get("protected") + "," +
                     user.get("verified") + "," +
@@ -125,5 +136,16 @@ public class ConnectorQueries {
         outputH.closeOutputHanlder();
         
         
+    }
+    
+    public String replaceCommas(String line){
+        String newLine = line.replace(",", " ");
+        return newLine;
+    }
+    
+    public String replaceLineBreaks(String line){
+        String newLine = line.replace("\n", " ");
+        String finalLine = newLine.replace("\r", " ");
+        return finalLine;
     }
 }

@@ -24,8 +24,7 @@ public class ElasticConnectorStarter {
     
     public static void main(String[] args) throws UnknownHostException, IOException {
         
-        String keywords = "ny new york usa he she all they I";
- 
+        String keywordsOriginal = "ny, new york, usa, he, she, all, they, I";
         TransportClient client = TransportClient.builder().build()
         .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("localhost"), 9300));
         
@@ -33,8 +32,8 @@ public class ElasticConnectorStarter {
         ConnectorQueries connectorQ= new ConnectorQueries(client);
         
         /******Executing ConnectorQueries Methods:*****/
-        //connectorQ.getTweetTextByKeywords(keywords);
-        connectorQ.getBasicInfoByKeywords(keywords);
+        connectorQ.getTweetTextByKeywords(keywordsOriginal);
+        //connectorQ.getBasicInfoByKeywords(keywordsOriginal);
         //connectorQ.getAllIds();
         //connectorQ.getAll();
         
