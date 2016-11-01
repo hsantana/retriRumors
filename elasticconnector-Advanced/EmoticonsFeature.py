@@ -7,28 +7,27 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 #Making current path in operating system
 os.chdir('/Users/vishalnayanshi/rumorvenv/RumorAnalytics/elasticconnector-Advanced')
 
-def Emoticons(tweets):
+def Emoticonschecker(tweets):
     sentense = word_tokenize(tweets)
     word_features = []
 
     for i,j in nltk.pos_tag(sentense):
-        if j in []:  # already Checked Out this program making changes 
+        if j in ['JJ', 'JJR', 'JJS', 'RB', 'RBR', 'RBS']: 
             word_features.append(i)
 
-    Rating = 0
-
+    Rating = ""        
     for i in word_features:
         with open('Emoticon.txt', 'rU') as f:
             reader = csv.reader(f, delimiter=',')
             for row in reader:
-                print row
+                # print row
                 if i == row[0]:
                     print i, row[1]
                     if row[1] == 'pos':
-                        Rating = Rating + 1
+                        Rating = 'positive'
                     elif row[1] == 'neg':
-                        Rating = Rating - 1                  
-    # return Rating
+                        Rating = 'negative'                  
+    return Rating
 
 # # For Testing Purpose
-# print Emoticons("my girl bc thats ALL ME")
+# print Emoticonschecker("#-( ")

@@ -1,12 +1,9 @@
-#Importing libaray, Api
+#Importing libaray and Api
 import sys
 from Cleaner import strip_links, strip_all_entities
-from elasticsearch import Elasticsearch
-
-#Here we will import class, methods and modules of feature
 from NegativePositiveWords import Opinions
 from Vulgarwordsfeature import VulgarFilter
-
+from elasticsearch import Elasticsearch
 
 # create instance of elasticsearch
 es = Elasticsearch()
@@ -17,8 +14,7 @@ def features():
 	counter = 0
 	Negativetweets = 0
 	Positivetweets = 0
-	
-	# Already checked out to make changes to read hugo's file, but below logic still works fine for testing purposes
+
 	res = es.search(index="tweets", doc_type='rumors',body={"query": {"match_all": {}}, "size": 5})
 	for hit in res['hits']['hits']:
 		counter = counter + 1
