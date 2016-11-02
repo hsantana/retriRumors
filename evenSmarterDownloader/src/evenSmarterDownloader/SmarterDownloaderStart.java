@@ -47,7 +47,7 @@ public class SmarterDownloaderStart {
 
 		String id = null;
 		int size = 100;
-		for(int i=0;i<10 && size != 0;i++) {
+		for(int i=0;i<Integer.parseInt(args[6]) && size != 0;i++) {
 			try {
 				Query query = new Query(args[5]);
 				query.setCount(100);
