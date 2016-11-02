@@ -49,7 +49,7 @@ public class SmarterDownloaderStart {
 		int overall_size = 0;
 		int result_size = MAX_SIZE;
 		System.out.println("--- Searching... ---");
-		for(int i=0; i<10 && result_size != 0; i++) {
+		for(int i=0; i<Integer.parseInt(args[6]) && result_size != 0; i++) {
 			try {
 				Query query = new Query(args[5]);
 				query.setCount(MAX_SIZE);
