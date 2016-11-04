@@ -42,7 +42,7 @@ def processingtweets():
 				Rating = profanitychecker(strip_all_entities(strip_links(line[1])))
 				if Rating == 'vulgar':
 					Profanitycounts = Profanitycounts + 1
-				# EmoticonsFeature(Not Working)
+				# EmoticonsFeature
 				Rating = emoticons(strip_all_entities(strip_links(line[1])))
 				if Rating == 'detected':
 					EmotinonsCounts = EmotinonsCounts + 1 
