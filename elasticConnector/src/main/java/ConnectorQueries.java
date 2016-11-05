@@ -99,18 +99,20 @@ public class ConnectorQueries {
         outputH.writeOutputFileBasic(keywordsOriginal);
         outputH.writeOutputFileBasic("id, verified, followers_count,"
                     + "default_profile_image, retweet_count, favorites_count,"
-                    + "retweeted, hashtags, urls");
+                    + "retweeted, followers_count_original, hashtags, urls");
         //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
         QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
        
         SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
         
         System.out.println("Complete Response");
-        //System.out.println(response1.toString());
+        System.out.println(response1.toString());
         
         for (SearchHit hit : response1.getHits()){
                 Map<String, Object> fields = hit.getSource();
                 Map<String, Object> user = (Map<String, Object>) fields.get("user");
+                Map<String, Object> retweeted_status = (Map<String, Object>) fields.get("retweeted_status");
+                Map<String, Object> userO = (Map<String, Object>) fields.get("user");
                 Map<String, Object> entities = (Map<String, Object>) fields.get("entities");
                 //Map≤String, Object> userFields=hit.getSource();
                 ArrayList urls = (ArrayList) entities.get("urls");
@@ -134,6 +136,7 @@ public class ConnectorQueries {
                     fields.get("retweet_count") + "," +
                     fields.get("favorite_count") + "," +
                     fields.get("retweeted") + "," +
+                    userO.get("followers_count") + "," +
                     urls_noCommas + "," +
                     hash_noCommas;
                 outputH.writeOutputFileBasic(line);
@@ -161,7 +164,6 @@ public class ConnectorQueries {
         }
         return sb;
     }
-    
     
     public String replaceLineBreaks(String line){
         String newLine = line.replace("\n", " ");

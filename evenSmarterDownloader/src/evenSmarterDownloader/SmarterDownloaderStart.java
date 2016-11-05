@@ -34,6 +34,7 @@ public class SmarterDownloaderStart {
 				.setOAuthAccessTokenSecret(args[3]);
 	    cb.setJSONStoreEnabled(true);
 	    TwitterFactory tf = new TwitterFactory(cb.build());
+<<<<<<< HEAD
 	    Twitter twitter = tf.getInstance();	
         
         long startTimeInMillis = Calendar.getInstance().getTimeInMillis();
@@ -159,6 +160,48 @@ public class SmarterDownloaderStart {
         			}
         		}
     			
+=======
+	    Twitter twitter = tf.getInstance();
+
+		String id = null;
+
+		int overall_size = 0;
+		int result_size = MAX_SIZE;
+		System.out.println("--- Searching... ---");
+		for(int i=0; i<Integer.parseInt(args[6]) && result_size != 0; i++) {
+			try {
+				Query query = new Query(args[5]);
+				query.setCount(MAX_SIZE);
+				if(id!=null)
+					query.setMaxId(Long.parseLong(id)-1);
+				
+				QueryResult result;
+				result = twitter.search(query);
+				List<Status> tweets = result.getTweets();
+				result_size = tweets.size();
+				if(tweets.size() == 0){
+					System.out.println("--- End reached --- Total tweets: " + overall_size + " ---");
+					break;
+				} else {
+					overall_size += result_size;
+					System.out.println((i+1) + "^) " + result_size + " tweets / Subtotal: " + overall_size);
+				}
+				
+				for (Status tweet : tweets) {
+					String jsonRaw = TwitterObjectFactory.getRawJSON(tweet);
+					JSONObject json = new JSONObject(jsonRaw);
+					id = json.getString("id_str");
+					out.print("{\"index\":{\"_id\":" + id + "}}");
+					out.println(jsonRaw);
+				}
+				
+			} catch (TwitterException te) {
+				te.printStackTrace();
+				System.out.println("Failed to search tweets: " + te.getMessage());
+				System.exit(-1);
+			} catch (JSONException e) {
+				e.printStackTrace();
+>>>>>>> 29751e9042ded7dabd111dc818c89e301eff5146
 			}
     		
     		out.close();
