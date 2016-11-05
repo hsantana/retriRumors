@@ -191,7 +191,7 @@ public class SmarterDownloaderStart {
 					String jsonRaw = TwitterObjectFactory.getRawJSON(tweet);
 					JSONObject json = new JSONObject(jsonRaw);
 					id = json.getString("id_str");
-					out.print("{\"index\":{\"_id\":" + id + "}}");
+					out.print("{\"index\":{\"_id\":" + id + "}}\n");
 					out.println(jsonRaw);
 				}
 				

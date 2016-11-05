@@ -23,8 +23,5 @@ def profanitychecker(para):
                 if i == row[0]:
                     # print i, row[1]
                     if row[1] == 'Vulgar':
-                        Rating = 'negative'                 
+                        Rating = 'vulgar'                 
     return Rating
-
-# # For Testing Pusposes
-# print profanitychecker('You had best unfuck yourself and start shitting me Tiffany cufflinks or I will definitely fuck you up')
