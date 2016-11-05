@@ -20,7 +20,7 @@ def processingtweets():
 	PositiveCounts = 0
 	NeutralCounts = 0
 	Profanitycounts = 0
-	EmotinonsCounts = 0
+	EmoticonsCounts = 0
 	AbbreviationsCounts = 0
 	#Read the tweets one by one and process it
 	with open('tweetsTextV1.txt', 'rU') as f:
@@ -42,14 +42,16 @@ def processingtweets():
 				Rating = profanitychecker(strip_all_entities(strip_links(line[1])))
 				if Rating == 'vulgar':
 					Profanitycounts = Profanitycounts + 1
-				# EmoticonsFeature
+				# EmoticonsFeature(Not Working)
 				Rating = emoticons(strip_all_entities(strip_links(line[1])))
 				if Rating == 'detected':
-					EmotinonsCounts = EmotinonsCounts + 1 
+					EmoticonsCounts = EmoticonsCounts + 1 
 				# AbbreviationsFeature
 				Rating = Abbreviationschecker(strip_all_entities(strip_links(line[1])))
 				if Rating == 'abbr':
 					AbbreviationsCounts = AbbreviationsCounts + 1
 				# 	
-		return keywords, '{0:.4}'.format(twitterCounter/NegativeCounts),'{0:.4}'.format(twitterCounter/PositiveCounts),'{0:.4}'.format(twitterCounter/NeutralCounts),'{0:.4}'.format(twitterCounter/Profanitycounts), '{0:.4}'.format(twitterCounter/EmotinonsCounts),'{0:.4}'.format(twitterCounter/AbbreviationsCounts), twitterCounter
-print processingtweets()
+		return keywords, '{0:.4}'.format(twitterCounter/NegativeCounts),'{0:.4}'.format(twitterCounter/PositiveCounts),'{0:.4}'.format(twitterCounter/NeutralCounts),'{0:.4}'.format(twitterCounter/Profanitycounts), '{0:.4}'.format(twitterCounter/EmoticonsCounts),'{0:.4}'.format(twitterCounter/AbbreviationsCounts)
+
+with open('AdvancedFeatures_Output_File.txt', 'w') as f:
+    f.write(str(processingtweets()))
