@@ -24,14 +24,22 @@ public class OutputHandler {
     public String outputFileNameText;
     public String outputFileNameBasic;
     
-    public OutputHandler() throws IOException{
-            this.outputFileNameText="tweetsTextV1.txt";
-            this.outputFileNameBasic="tweetsBasicV1.txt";
+    public OutputHandler(String outputFileNameText, String outputFileNameBasic, int selection) throws IOException{
+            this.outputFileNameText=outputFileNameText;
+            this.outputFileNameBasic=outputFileNameBasic;
             this.outText = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileNameText, true)));
             this.outBasic = new PrintWriter(new BufferedWriter(new FileWriter(this.outputFileNameBasic, true)));
             
-            createOutputFileText();
-            createOutputFileBasic();
+            //0=AvancedFeatures
+            if(selection==0){
+                createOutputFileText();
+            }else{
+                createOutputFileBasic();
+            }
+    }
+    
+    public OutputHandler() throws IOException{
+
     }
         
     public void createOutputFileText() throws IOException{
@@ -64,5 +72,29 @@ public class OutputHandler {
     public void closeOutputHanlder(){
         outText.close();
         outBasic.close();
+    }
+    
+    public String getFileNameFromKeywordsBasic(String keywordsOriginal){
+        String[] splitted=keywordsOriginal.split(" ");
+        String nameBasic="";
+        
+        for(int i = 0; i<splitted.length; i++){
+            String s=splitted[i].trim();
+            nameBasic=nameBasic+s+"_";
+        }
+        nameBasic=nameBasic+"Basic.txt";
+        
+        return nameBasic;
+    }
+    public String getFileNameFromKeywordsText(String keywordsOriginal){
+        String[] splitted=keywordsOriginal.split(" ");
+        String nameText="";
+        
+        for(int i = 0; i<splitted.length; i++){
+            String s=splitted[i].trim(); 
+            nameText=nameText+s+"_";
+        }
+        nameText=nameText+"Advance.txt";
+        return nameText;
     }
 }
