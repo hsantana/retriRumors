@@ -1,7 +1,7 @@
 from os import listdir
 from subprocess import check_output
 
-input_dir = "D:/tweets_utf8"
+input_dir = "D:/tweets_utf8_2"
 output_dir = "D:/elastic_output"
 
 for f in listdir(input_dir):
