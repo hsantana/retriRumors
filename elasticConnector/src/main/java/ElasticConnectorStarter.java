@@ -27,11 +27,11 @@ public class ElasticConnectorStarter {
         
         
         ArrayList<String> allKeywords = new ArrayList<String>();
-        //allKeywords.add("ecstasy halloween candy");
-        //allKeywords.add("facebook check in standing rock");
-        //allKeywords.add("british rule united states");
-        //allKeywords.add("obama cancel hillary");
-        //allKeywords.add("amish autism");
+        allKeywords.add("ecstasy halloween candy");
+        allKeywords.add("facebook check in standing rock");
+        allKeywords.add("british rule united states");
+        allKeywords.add("obama cancel hillary");
+        allKeywords.add("amish autism");
         allKeywords.add("standing rock buffalo");
         allKeywords.add("fbi reopen hillary");
         allKeywords.add("I would like to see people hillary");
@@ -42,7 +42,6 @@ public class ElasticConnectorStarter {
         allKeywords.add("baby wipes warning");
         allKeywords.add("chelsea clinton soros");
         allKeywords.add("trump walk of fame damage");
-        allKeywords.add("arby's venison");
         allKeywords.add("white sharks mississippi");
         allKeywords.add("clinton halfway house");
         allKeywords.add("patiant fart japan");
@@ -55,17 +54,6 @@ public class ElasticConnectorStarter {
         allKeywords.add("comey super pac");
         allKeywords.add("clinton topless");
         allKeywords.add("obama golf woods");
-        allKeywords.add("clinton halfway house");
-        allKeywords.add("patiant fart japan");
-        allKeywords.add("broomstick one");
-        allKeywords.add("abedin life insurance");
-        allKeywords.add("blm millbury");
-        allKeywords.add("Fifth Amendment lynch");
-        allKeywords.add("clinton illegal arms guns");
-        allKeywords.add("carolina hillary multiple");
-        allKeywords.add("comey super pac");
-        allKeywords.add("clinton topless");
-        allKeywords.add("obama golf woods");      
         allKeywords.add("pence gay conversion");
         allKeywords.add("trump lawsuit rape");
         allKeywords.add("donna brazile fired clinton");
@@ -88,12 +76,11 @@ public class ElasticConnectorStarter {
         allKeywords.add("Marijuana legalization increase crime");
         allKeywords.add("people absorb energy from others");
         allKeywords.add("hillary cancel lock her up");
-        allKeywords.add("ginger baker cane");
         allKeywords.add("hillary property nypd");
         allKeywords.add("bill clinton underage sex");
         allKeywords.add("obama warren unfollow hillary");
         allKeywords.add("trump kkk newspaper");
-        //allKeywords.add("tequila health healthy");Later
+        allKeywords.add("tequila health healthy");
         allKeywords.add("social media Psychiatry");
         allKeywords.add("project veritas fundraising");
         allKeywords.add("starbucks unity");
@@ -104,7 +91,7 @@ public class ElasticConnectorStarter {
         TransportClient client = TransportClient.builder().build()
         .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("localhost"), 9300));
         
-        for(int i = 0; i<10; i++){
+        for(int i = 0; i<allKeywords.size(); i++){
             String keywordsOriginal = allKeywords.get(i);
             String indexName="retrirumorstest";
             //Creating instance of Helper Class with queries.
@@ -124,5 +111,6 @@ public class ElasticConnectorStarter {
         //.addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("host2"), 9300));
         System.out.println("Closing Connection with Elastic Search");
         client.close();
+        System.exit(0);
     }
 }

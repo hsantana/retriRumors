@@ -44,21 +44,12 @@ public class OutputHandler {
         
     public void createOutputFileText() throws IOException{
         this.outputFileText = new File(outputFileNameText);
-        
-        if(! this.outputFileText.exists()){
-            this.outputFileText.createNewFile();
-            System.out.println("Creating new file for output");
-        }
+        this.outputFileText.createNewFile();
     }
     
     public void createOutputFileBasic() throws IOException{
         this.outputFileBasic = new File(outputFileNameBasic);
-        
-        if(! this.outputFileBasic.exists()){
-            this.outputFileBasic.createNewFile();
-
-            System.out.println("Creating new file for output");
-        }
+        this.outputFileBasic.createNewFile();
     }
     
     public void writeOutputFileText(String line){
