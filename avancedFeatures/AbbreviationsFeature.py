@@ -12,7 +12,7 @@ def Abbreviationschecker(para):
     word_features = []
 
     for i,j in nltk.pos_tag(sentense):
-        if j in ['NN','NNP', 'CC', 'VBG']: 
+        if j in ['JJ', 'JJR', 'JJS', 'RB', 'RBR', 'RBS']: 
             word_features.append(i)
 
     Rating = " "
@@ -21,7 +21,14 @@ def Abbreviationschecker(para):
         with open('Abbreviations.txt', 'rU') as f:
             reader = csv.reader(f, delimiter=',')
             for row in reader:
+                # print row
                 if i == row[0]:
-                    if row[1] == 'abbr':
-                        Rating = 'abbr'                
+                    print i, row[1]
+                    if row[1] == 'pos':
+                        Rating = 'positive'
+                    elif row[1] == 'neg':
+                        Rating = 'negative'                  
     return Rating
+
+# #For Testing Purposes
+# print Abbreviations('Hello WTF this')
