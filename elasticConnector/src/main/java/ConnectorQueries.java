@@ -29,18 +29,18 @@ import org.elasticsearch.search.SearchHitField;
 
 public class ConnectorQueries {
     public TransportClient client;
+    String indexName;
     
-    public ConnectorQueries(TransportClient client){
+    public ConnectorQueries(TransportClient client, String indexName){
         this.client=client;
+        this.indexName=indexName;
     }
     
     public void getAllIds(){
         //This method gets all Ids stored under the index movies on ES.
-        MatchQueryBuilder query = QueryBuilders.matchQuery("_index", "retrirumors");
+        MatchQueryBuilder query = QueryBuilders.matchQuery("_index", indexName);
         SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(2000).execute().actionGet();
         
-        System.out.println("Complete Response");
-        System.out.println(response1.toString());
         System.out.println("Total Hits = " +response1.getHits().getTotalHits());
         for(int i = 0; i<response1.getHits().getTotalHits(); i++){
                 Map<String, Object> fields = response1.getHits().getAt(i).getSource();
@@ -56,16 +56,16 @@ public class ConnectorQueries {
             System.out.println(response.toString());
     }
     
-    public void getTweetTextByKeywords(String keywordsOriginal) throws IOException{
+    public void getTweetTextByKeywords(String keywordsOriginal, String outputFileNameText) throws IOException{
         //This method gets all tweet text that contains one or more of the keywords.
        
         String keywords=keywordsOriginal.replace(",", "");
         
         //Creating outputHandler instance
-        OutputHandler outputH= new OutputHandler();
+        OutputHandler outputH= new OutputHandler(outputFileNameText, "Basic.txt", 0);
         
         //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
-        QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
+        QueryBuilder query = boolQuery().must(matchQuery("_index", indexName)).must(matchQuery("text", keywords)); 
        
         
         SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
@@ -90,33 +90,36 @@ public class ConnectorQueries {
         
     }
     
-    public void getBasicInfoByKeywords(String keywordsOriginal) throws IOException{
+    public void getBasicInfoByKeywords(String keywordsOriginal, String outputFileNameBasic) throws IOException{
         //This method gets basic information and retrieves an output file (csv)
        
         String keywords=keywordsOriginal.replace(",", "");
         //Creating outputHandler instance
-        OutputHandler outputH= new OutputHandler();
+        OutputHandler outputH= new OutputHandler("Advanced.txt", outputFileNameBasic, 1);
         outputH.writeOutputFileBasic(keywordsOriginal);
         outputH.writeOutputFileBasic("id, verified, followers_count,"
                     + "default_profile_image, retweet_count, favorites_count,"
-                    + "retweeted, followers_count_original, hashtags, urls");
+                    + "retweeted, followers_count_original, urls, hashtags");
         //MatchQueryBuilder query = QueryBuilders.matchQuery("text", keywords);.must(termQuery("text", keywords))
-        QueryBuilder query = boolQuery().must(matchQuery("_index", "retrirumors")).must(matchQuery("text", keywords)); 
+        QueryBuilder query = boolQuery().must(matchQuery("_index", indexName)).must(matchQuery("text", keywords)); 
        
         SearchResponse response1 = client.prepareSearch().setQuery(query).setSize(10000).execute().actionGet();
         
-        System.out.println("Complete Response");
-        System.out.println(response1.toString());
-        
         for (SearchHit hit : response1.getHits()){
+                String followers_count_original="null";
                 Map<String, Object> fields = hit.getSource();
                 Map<String, Object> user = (Map<String, Object>) fields.get("user");
-                Map<String, Object> retweeted_status = (Map<String, Object>) fields.get("retweeted_status");
-                Map<String, Object> userO = (Map<String, Object>) fields.get("user");
+                if(fields.containsKey("retweeted_status")){
+                    Map<String, Object> retweeted_status = (Map<String, Object>) fields.get("retweeted_status");
+                    Map<String, Object> userO = (Map<String, Object>) retweeted_status.get("user");
+                    followers_count_original=""+ userO.get("followers_count");
+                }
+                
+                
                 Map<String, Object> entities = (Map<String, Object>) fields.get("entities");
                 //Map≤String, Object> userFields=hit.getSource();
                 ArrayList urls = (ArrayList) entities.get("urls");
-                ArrayList hash = (ArrayList) entities.get("hash");
+                ArrayList hash = (ArrayList) entities.get("hashtags");
                 String urlString = "";
                 String hashString = "";
                 if(urls!=null){
@@ -136,7 +139,7 @@ public class ConnectorQueries {
                     fields.get("retweet_count") + "," +
                     fields.get("favorite_count") + "," +
                     fields.get("retweeted") + "," +
-                    userO.get("followers_count") + "," +
+                    followers_count_original + "," +
                     urls_noCommas + "," +
                     hash_noCommas;
                 outputH.writeOutputFileBasic(line);
@@ -148,7 +151,6 @@ public class ConnectorQueries {
     }
     
     public String replaceCommas(String line){
-        System.out.println("Received Line = " + line);
         String newLine = line.replace(",", " ");
         return newLine;
     }
@@ -158,7 +160,6 @@ public class ConnectorQueries {
         if(al==null){
             return "[]";
         }
-        System.out.println("size="+al.size());
         for(int i = 0; i<al.size(); i++){
                 sb=sb + "["+al.get(i)+"]";
         }
