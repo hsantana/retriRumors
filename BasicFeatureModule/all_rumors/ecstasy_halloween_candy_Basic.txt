@@ -1,0 +1,499 @@
+ecstasy halloween candy
+id, verified, followers_count,default_profile_image, retweet_count, favorites_count,retweeted, followers_count_original, urls, hashtags
+793254052201107456,false,45,false,0,0,false,null,[{display_url=fb.me/5vCI5ENMx  indices=[28  51]  expanded_url=http://fb.me/5vCI5ENMx  url=https://t.co/t6qAA0HwCk}],
+793120274895872000,false,75,false,0,0,false,null,[{display_url=fb.me/5H71jKVA7  indices=[28  51]  expanded_url=http://fb.me/5H71jKVA7  url=https://t.co/KNVcdeNS1v}],
+793110658128588801,false,209,false,0,0,false,null,[{display_url=fb.me/1BRwNcRNs  indices=[28  51]  expanded_url=http://fb.me/1BRwNcRNs  url=https://t.co/H4oHsjGAQq}],
+793289161004425216,false,72,false,0,0,false,null,[{display_url=fb.me/39xn8DoHA  indices=[28  51]  expanded_url=http://fb.me/39xn8DoHA  url=https://t.co/PxIdSa0GmP}],
+792972226958094336,false,3871,false,1,1,false,null,[{display_url=trib.al/oZmNZzN  indices=[28  51]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/FOZNcKrla5}],
+793705939165601792,false,68,false,0,0,false,null,[{display_url=fb.me/48AaobNXS  indices=[28  51]  expanded_url=http://fb.me/48AaobNXS  url=https://t.co/YPBAVDtT9x}],
+792971508889055232,true,154056,false,6,11,false,null,[{display_url=trib.al/oZmNZzN  indices=[28  51]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/qK6Xerzp8c}],
+793253149691772933,false,511,false,0,0,false,null,[{display_url=fb.me/9MnR4o8IU  indices=[28  51]  expanded_url=http://fb.me/9MnR4o8IU  url=https://t.co/VptJSsF7jR}],
+793025304461803520,false,3209,false,0,0,false,null,[{display_url=bit.ly/2edRfAE  indices=[28  51]  expanded_url=http://bit.ly/2edRfAE  url=https://t.co/z1FxUU19Dq}],
+793282269544931328,false,309,false,0,0,false,null,[{display_url=snopes.com/ecstasy-hallow…  indices=[28  51]  expanded_url=http://www.snopes.com/ecstasy-halloween-candy/  url=https://t.co/9VzMqf6inp}],
+793191671299207168,false,129,false,0,0,false,null,[{display_url=snopes.com/ecstasy-hallow…  indices=[28  51]  expanded_url=http://www.snopes.com/ecstasy-halloween-candy/  url=https://t.co/BqGOh2sPg3}],
+792993150516142080,false,91,false,0,0,false,null,[{display_url=bit.ly/2edavhV  indices=[28  51]  expanded_url=http://bit.ly/2edavhV  url=https://t.co/srzpQvL3iy}],
+792977121949790208,false,119,false,6,0,false,154056,[{display_url=trib.al/oZmNZzN  indices=[40  63]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/qK6Xerzp8c}],
+792959340864864256,false,122,false,0,0,false,null,[{display_url=bit.ly/2edavhV  indices=[36  59]  expanded_url=http://bit.ly/2edavhV  url=https://t.co/B9yKY6zq4u}],
+792952279020113920,false,441,false,0,0,false,null,[{display_url=snopes.com/ecstasy-hallow…  indices=[28  51]  expanded_url=http://www.snopes.com/ecstasy-halloween-candy/  url=https://t.co/cd48kafWNW}],
+792973620762988544,true,1036933,false,1,0,false,3871,[{display_url=trib.al/oZmNZzN  indices=[47  70]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/FOZNcKrla5}],
+792968013838479360,false,64434,false,0,0,false,null,[{display_url=snopes.com  indices=[30  53]  expanded_url=http://snopes.com  url=https://t.co/7wtrqOme8f}][{display_url=snopes.com/ecstasy-hallow…  indices=[55  78]  expanded_url=http://www.snopes.com/ecstasy-halloween-candy/  url=https://t.co/EHIVWViBrr}],
+792892224929427456,false,223,false,0,0,false,null,,[{indices=[0  22]  text=ThingsIWouldntWishFor}]
+793572008961249280,false,370,false,0,3,false,null,,
+793118570221887488,false,34011,false,0,0,false,null,[{display_url=goo.gl/OPpC7C  indices=[36  59]  expanded_url=https://goo.gl/OPpC7C  url=https://t.co/4dbYaJEFZC}],[{indices=[0  7]  text=Snopes}]
+793082898047901696,false,1201,false,6,0,false,154056,[{display_url=trib.al/oZmNZzN  indices=[40  63]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/qK6Xerzp8c}],
+792979796120657920,false,55,false,6,0,false,154056,[{display_url=trib.al/oZmNZzN  indices=[40  63]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/qK6Xerzp8c}],
+792952298263547904,false,1092,false,0,0,false,null,[{display_url=snopes.com/ecstasy-hallow…  indices=[28  51]  expanded_url=http://www.snopes.com/ecstasy-halloween-candy/?utm_source=dlvr.it&utm_medium=twitter  url=https://t.co/NwCKSegYfM}],
+792952262783930369,false,4402,false,0,0,false,null,[{display_url=sh.st/48VRH  indices=[28  51]  expanded_url=http://sh.st/48VRH  url=https://t.co/Ij7jdkLyAr}],
+793217609688842244,false,2163,false,0,0,false,null,[{display_url=snopes.com  indices=[30  53]  expanded_url=http://snopes.com  url=https://t.co/VTTGk2f1xM}][{display_url=snopes.com/ecstasy-hallow…  indices=[54  77]  expanded_url=http://www.snopes.com/ecstasy-halloween-candy/  url=https://t.co/I74VVFq7m0}],
+793153987935633408,false,7992,false,6,0,false,154056,[{display_url=trib.al/oZmNZzN  indices=[40  63]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/qK6Xerzp8c}],
+792972679338823680,false,175,false,6,0,false,154056,[{display_url=trib.al/oZmNZzN  indices=[40  63]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/qK6Xerzp8c}],
+792972091884580864,false,209,false,6,0,false,154056,[{display_url=trib.al/oZmNZzN  indices=[40  63]  expanded_url=http://trib.al/oZmNZzN  url=https://t.co/qK6Xerzp8c}],
+791136825465339904,false,53,false,2,0,false,850,,
+791131238597816320,false,850,false,2,2,false,null,,
+791457415904370689,false,673,false,2,0,false,850,,
+793600702908018689,false,385,false,18,0,false,7384,,
+793568153787834368,false,475,false,0,0,false,null,,
+793306324255649792,false,111,false,18,0,false,7384,,
+793288686351691776,false,2958,false,18,0,false,7384,,
+793277921372680193,false,6606,false,18,0,false,7384,,
+793031060154048512,false,1223,false,8,0,false,577,,
+793305326392979456,false,764,false,18,0,false,7384,,
+793275622667591681,false,7384,false,18,86,false,null,,
+793260635886874624,false,288,false,8,0,false,577,,
+793251568455823360,false,69,false,0,0,false,null,,
+793223315003416577,false,378,false,1,2,false,null,,
+792942211046387712,false,577,false,8,56,false,null,,
+793320965409214464,false,1567,false,18,0,false,7384,,
+793298178732879873,false,243,false,18,0,false,7384,,
+793204884887646208,false,297,false,8,0,false,577,,
+792919562094120960,false,128,false,0,0,false,null,[{display_url=bit.ly/2flgW4R  indices=[79  102]  expanded_url=http://bit.ly/2flgW4R  url=https://t.co/yvHKBauSp0}],
+793226849333698565,false,588,false,1,1,false,null,,[{indices=[89  99]  text=halloween}]
+793304079149764608,false,775,false,18,0,false,7384,,
+793301100522774528,false,598,false,18,0,false,7384,,
+793281984055287808,false,220,false,18,0,false,7384,,
+793277644771065856,false,158,false,18,0,false,7384,,
+793260819848978432,false,456,false,8,0,false,577,,
+793243376992653312,false,347,false,0,4,false,null,,
+793137838850138112,false,67,false,8,0,false,577,,
+793087697694912513,false,309,false,8,0,false,577,,
+793031214818955264,false,1178,false,8,0,false,577,,
+792958264162054144,false,2642,false,0,2,false,null,,
+792119132581793792,false,443,false,0,0,false,null,,[{indices=[32  42]  text=halloween}]
+793554017821532164,false,1852,false,18,0,false,7384,,
+793304236058480640,false,292,false,18,0,false,7384,,
+793300395313377281,false,491,false,18,0,false,7384,,
+793296984618704896,false,360,false,18,0,false,7384,,
+793290006349672448,false,433,false,18,0,false,7384,,
+793032107391987712,false,628,false,8,0,false,577,,
+792986739413426176,false,894,false,0,0,false,null,[{display_url=ap236.ca/2eq5HDy  indices=[28  51]  expanded_url=http://ap236.ca/2eq5HDy  url=https://t.co/XSgUSvTyuN}],[{indices=[64  71]  text=snopes}]
+793250284608815105,false,204,false,1,0,false,588,,[{indices=[104  114]  text=halloween}]
+792577882602209281,false,8588,false,0,0,false,null,[{display_url=dld.bz/fbDDQ  indices=[95  118]  expanded_url=http://dld.bz/fbDDQ  url=https://t.co/iJp2kPRhQr}],[{indices=[58  68]  text=Halloween}][{indices=[69  87]  text=Halloweenproblems}][{indices=[88  94]  text=candy}]
+793326124440760321,false,519,false,1,11,false,null,,
+793316916530032640,false,325,false,1,2,false,null,,
+793274636376997888,false,3404,false,1,3,false,null,,
+793175690086612992,false,57,false,0,1,false,null,,
+793137435639214081,false,402,false,12,0,false,402,[{display_url=vine.co/v/ej9eb6Kg662  indices=[83  106]  expanded_url=https://vine.co/v/ej9eb6Kg662  url=https://t.co/9IZBVmWljk}],
+792977342226366464,false,2938,false,0,0,false,null,[{display_url=owl.li/qpyy505YYgS  indices=[115  138]  expanded_url=http://owl.li/qpyy505YYgS  url=https://t.co/dzFaPanGlK}],[{indices=[0  8]  text=lgbtbiz}][{indices=[9  17]  text=lgbtpro}][{indices=[18  28]  text=econpride}]
+792502018090868736,false,282,false,0,6,false,null,,
+793317052261896192,false,6877,false,1,0,false,325,,
+793124038277144576,false,931,false,2,0,false,1476,,
+793295999959650304,false,169,false,1,0,false,3404,,
+793193795974262786,false,987,false,1,0,false,241,[{display_url=cbsnews.com/news/halloween…  indices=[104  127]  expanded_url=http://www.cbsnews.com/news/halloween-warning-is-that-candy-or-ecstasy/  url=https://t.co/tHNHpjhME4}],[{indices=[80  88]  text=Esctasy}][{indices=[89  95]  text=Drugs}][{indices=[96  103]  text=Spooky}]
+792993144904179712,false,894,false,0,0,false,null,[{display_url=bit.ly/2edfvmN  indices=[113  136]  expanded_url=http://bit.ly/2edfvmN  url=https://t.co/X3nV4Bqktu}],
+792993142874091520,false,185,false,0,0,false,null,[{display_url=bit.ly/2epViaM  indices=[113  136]  expanded_url=http://bit.ly/2epViaM  url=https://t.co/wiVMVJTZ2E}],
+792959356744503296,false,4948,false,0,0,false,null,[{display_url=bit.ly/2epViaM  indices=[113  136]  expanded_url=http://bit.ly/2epViaM  url=https://t.co/IFIV9IYaHM}],
+792959336007946240,false,3934,false,0,0,false,null,[{display_url=bit.ly/2edfvmN  indices=[113  136]  expanded_url=http://bit.ly/2edfvmN  url=https://t.co/PBIloN0Pr0}],
+791045316825014272,false,457,false,2,0,false,230,,
+791044933440405504,false,230,false,2,2,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/791044933440405504  url=https://t.co/wLLczE3tro}],
+793697618710765568,false,93899,false,0,0,false,null,,[{indices=[76  89]  text=TrickOrTreat}]
+793615215061528576,false,100,false,0,0,false,null,,
+793227793035304960,false,1075,false,1,0,false,378,,
+793124455409065984,false,630,false,2,0,false,1476,,
+793123971629592576,false,1476,false,2,8,false,null,,
+791052434533650436,false,81,false,2,0,false,230,,
+793840924694605825,false,1185,false,152,0,false,13468,,
+793640601812103168,false,750,false,152,0,false,13468,,
+793619013419098112,false,14295,false,152,0,false,13468,,
+793563516481470464,false,399,false,152,0,false,13468,,
+793563058110992384,false,271,false,152,0,false,13468,,
+793561061165305856,false,4451,false,152,0,false,13468,,
+793554651467710464,false,44,false,152,0,false,13468,,
+793542381106765824,false,1195,false,152,0,false,13468,,
+793517051847507974,false,3642,false,152,0,false,13468,,
+793497165431607296,false,204,false,152,0,false,13468,,
+793483838408187905,false,147,false,152,0,false,13468,,
+793455941010255874,false,1126,false,152,0,false,13468,,
+793455753453375488,false,2546,false,152,0,false,13468,,
+793450484069650432,false,2565,false,152,0,false,13468,,
+793439310208864256,false,3010,false,152,0,false,13468,,
+793439014296559618,false,59,false,152,0,false,13468,,
+793425546491277312,false,6947,false,152,0,false,13468,,
+793423783084253184,false,209,false,152,0,false,13468,,
+793399427587313664,false,5372,false,152,0,false,13468,,
+793327253497057280,false,6199,false,152,0,false,13468,,
+793324328301441025,false,32,false,152,0,false,13468,,
+793319038482980864,false,1283,false,152,0,false,13468,,
+793308271863926784,false,1347,false,152,0,false,13468,,
+793308035024318464,false,1869,false,152,0,false,13468,,
+793301851605127168,false,16,false,152,0,false,13468,,
+793298906629091328,false,107,false,152,0,false,13468,,
+793297829506625536,false,703,false,152,0,false,13468,,
+793297119209660416,false,898,false,152,0,false,13468,,
+793249070886297604,false,302,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793208290859687936,false,456,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793190335358898177,false,926,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793183238847987712,false,11,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793173255775408129,false,126,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793153699577290752,false,162,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793151667306848256,false,143,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793149871901569024,true,24450,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793149225882284033,false,474,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793134833501437952,false,1053,false,12,0,false,14363,,
+792927323125387264,false,323,false,12,0,false,14363,,
+792860339675230208,false,142,false,7,0,false,212,,
+792642404314652672,false,117,false,6,0,false,1277,,
+792608089392291840,false,347,false,6,0,false,1277,,
+792552765469790208,false,1676,false,6,0,false,1277,,
+793854355489292288,false,2370,false,152,0,false,13468,,
+793847980906381312,false,252,false,152,0,false,13468,,
+793803379776434176,false,65,false,152,0,false,13468,,
+793780497923006465,false,405,false,152,0,false,13468,,
+793690479959220224,false,78,true,152,0,false,13468,,
+793673765582286848,false,673,false,152,0,false,13468,,
+793673502637252609,false,543,false,152,0,false,13468,,
+793658219398823936,false,19,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793651349262970880,false,866,false,152,0,false,13468,,
+793626632644812800,false,136899,false,152,0,false,13468,,
+793599442612056064,false,1192,false,152,0,false,13468,,
+793573496613924864,false,514,false,152,0,false,13468,,
+793563219893813250,false,113,false,152,0,false,13468,,
+793560420862787584,false,2797,false,152,0,false,13468,,
+793558937681399809,false,817,false,152,0,false,13468,,
+793540916908818433,false,25828,false,152,0,false,13468,,
+793529227308068864,false,7702,false,152,0,false,13468,,
+793514021622157312,false,486,false,152,0,false,13468,,
+793464882700161030,false,601,false,152,0,false,13468,,
+793462591054053376,false,5325,false,152,0,false,13468,,
+793443248714813440,false,3043,false,152,0,false,13468,,
+793440434659864576,false,55153,false,152,0,false,13468,,
+793430750540533760,false,357,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793422343309762560,false,16495,false,152,0,false,13468,,
+793350732296486912,false,397,false,152,0,false,13468,,
+793329578613809152,false,820,false,152,0,false,13468,,
+793319535378137088,false,1431,false,152,0,false,13468,,
+793318480846155776,false,577,false,152,0,false,13468,,
+793315212099133440,false,7866,false,152,0,false,13468,,
+793315122668146688,false,288,false,152,0,false,13468,,
+793307566709276672,false,1070,false,152,0,false,13468,,
+793304626841866241,false,375,false,152,0,false,13468,,
+793301411547144192,false,10133,false,152,0,false,13468,,
+793297705737023490,false,370,false,152,0,false,13468,,
+793274017260113921,false,51,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793264301892968448,false,144,false,3,0,false,534,,
+793256498919071744,false,1327,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793246126342373377,false,53,false,0,0,false,null,,
+793214019557404672,false,789,false,7,0,false,212,,
+793209590687076352,false,55,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793208962632015872,false,565,false,7,0,false,212,,
+793170261461852161,false,294,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793159661885194244,false,41,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793158881044230144,false,198,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793151635920982016,false,451,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150572811554816,false,819,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150122238570496,false,1042,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150047621877760,false,404,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793100431169683457,false,308,false,1,2,false,null,,
+793001175582806016,false,30,false,12,0,false,14363,,
+792854223192981504,false,212,false,7,14,false,null,,
+792231507968393216,false,76,false,0,2,false,null,,
+791840839253098496,false,328,false,2,5,false,null,,
+793850139257348097,false,253,false,152,0,false,13468,,
+793769764384546816,false,9682,false,152,0,false,13468,,
+793678728383520768,false,196,false,152,0,false,13468,,
+793644939968217088,false,1542,false,152,0,false,13468,,
+793626142091546624,false,1792,false,152,0,false,13468,,
+793558695850283008,false,1475,false,152,0,false,13468,,
+793554641619259394,false,22334,false,152,0,false,13468,,
+793554512560656384,false,41,false,152,0,false,13468,,
+793542192602152960,false,5287,false,152,0,false,13468,,
+793485811840716800,false,675,false,152,0,false,13468,,
+793481624214265856,false,205,false,1,0,false,519,,
+793455832226750464,false,2154,false,152,0,false,13468,,
+793455205622788097,false,27632,false,152,0,false,13468,,
+793444288688521216,false,143,false,152,0,false,13468,,
+793442047906746368,false,117,false,152,0,false,13468,,
+793390812814012416,false,18855,false,152,0,false,13468,,
+793385973560270848,false,25764,false,152,0,false,13468,,
+793378609951940608,false,781,false,152,0,false,13468,,
+793375351636385792,false,2681,false,152,0,false,13468,,
+793356855112192000,false,8006,false,152,0,false,13468,,
+793327948988231680,false,115,true,152,0,false,13468,,
+793319937011884032,false,48,false,152,0,false,13468,,
+793311315804553216,false,11501,false,152,0,false,13468,,
+793310086869323776,false,16373,false,152,0,false,13468,,
+793306520201023488,false,2733,false,152,0,false,13468,,
+793298816241991680,false,988,false,152,0,false,13468,,
+793296424926638081,false,41229,false,152,0,false,13468,,
+793296141416820736,false,6591,false,152,0,false,13468,,
+793229839348142081,false,62,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793228128583811073,false,430,false,7,0,false,212,,
+793224125343039492,false,39,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793223206756810753,false,186,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793219884981358593,false,230,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793209568713121792,false,713,false,7,0,false,212,,
+793197220648673281,false,71,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793195638276001792,false,83,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793183209135697920,true,70985,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793182575124774912,false,510,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793158850279079937,false,490,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793152535146049536,false,87,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150775874686976,false,167,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150726541225984,false,450,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150025765363713,false,3457,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150020623147009,false,857,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793149962913800192,false,311,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793133555022827520,false,178,false,12,0,false,14363,,
+793094086957887488,false,729,false,0,0,false,null,,
+793035854486839296,false,246,false,12,0,false,14363,,
+792912105590628352,false,249,false,12,0,false,14363,,
+792911116024188929,false,649,false,12,0,false,14363,,
+792611397708328960,false,239,false,6,0,false,1277,,
+792560794944675840,false,95,false,6,0,false,1277,,
+791846949766823937,false,289,false,2,0,false,328,,
+791431450138710016,false,977,false,3,0,false,312,,
+791416962156929024,false,261,false,3,0,false,312,,
+791415090893381632,false,312,false,3,11,false,null,,
+793852726371377152,false,280,false,152,0,false,13468,,
+793817994023563265,false,297,false,152,0,false,13468,,
+793792085279150080,false,72,false,152,0,false,13468,,
+793654488141664258,false,384,false,152,0,false,13468,,
+793599124033638400,false,2728,false,152,0,false,13468,,
+793595605964627968,false,9842,false,152,0,false,13468,,
+793594490216910848,false,81,false,152,0,false,13468,,
+793583101557473280,false,49,false,152,0,false,13468,,
+793577469618057222,false,77,false,152,0,false,13468,,
+793577407265533952,false,10795,false,152,0,false,13468,,
+793552104203825152,false,569,false,152,0,false,13468,,
+793485646706933762,false,4033,false,152,0,false,13468,,
+793476566793715712,false,5024,false,152,0,false,13468,,
+793474858575212544,false,2412,false,152,0,false,13468,,
+793464868183633923,false,933,false,152,0,false,13468,,
+793462334635278336,false,140,false,152,0,false,13468,,
+793432125764538368,false,82,false,152,0,false,13468,,
+793408978860605440,false,39,false,152,0,false,13468,,
+793406136514994176,false,1293,false,152,0,false,13468,,
+793402756941934592,false,32600,false,152,0,false,13468,,
+793393803352694784,false,3992,false,152,0,false,13468,,
+793385050523873280,false,3067,false,152,0,false,13468,,
+793376301201620992,false,8763,false,152,0,false,13468,,
+793363720005120000,false,4201,false,152,0,false,13468,,
+793315862254014464,false,190,false,0,0,false,null,[{display_url=fox25boston.com/news/police-wa…  indices=[109  132]  expanded_url=http://www.fox25boston.com/news/police-warn-if-you-get-these-in-your-trickortreat-bag-theyre-not-candy/9023353  url=https://t.co/3JTGXu06iu}],
+793314090089271296,false,859,false,0,9,false,null,,
+793308056465448960,false,803,false,152,0,false,13468,,
+793296897687465985,false,433,false,152,0,false,13468,,
+793295861057028096,false,13468,false,152,330,false,null,,
+793282903560036354,false,271,false,0,1,false,null,,
+793253241555386368,false,217,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793222037980545024,false,449,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793193048423313409,false,345,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793188374467137537,false,81,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793181941503631361,false,208,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793161268127555584,false,748,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793160806955298816,false,12,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793155313532796928,false,122,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793153237855637508,false,735,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793151557093171203,false,84,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150984004390916,false,495,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150801606836228,false,123,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150421653032960,false,359,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793147017744613376,false,3681,false,72,187,false,null,,[{indices=[47  57]  text=Halloween}]
+793111385001435136,false,2149,false,0,1,false,null,,
+792907137655660544,true,14363,false,12,61,false,null,,
+791011077643350016,false,634,false,1,3,false,null,,
+793853246565515265,false,7393,false,152,0,false,13468,,
+793842505804578816,false,10,true,152,0,false,13468,,
+793803265917980672,false,7161,false,152,0,false,13468,,
+793779164771852288,false,24691,false,152,0,false,13468,,
+793649330020356096,false,232,false,152,0,false,13468,,
+793643932642971649,false,379,false,152,0,false,13468,,
+793642471930552320,false,14243,false,152,0,false,13468,,
+793626322681540608,false,15580,false,152,0,false,13468,,
+793619143194873856,false,4198,false,152,0,false,13468,,
+793603767123914752,false,2242,false,152,0,false,13468,,
+793598988347842560,false,3576,false,152,0,false,13468,,
+793580858125025280,false,1087,false,152,0,false,13468,,
+793565089538248704,false,156,false,3,0,false,534,,
+793561155377651712,false,1107,false,152,0,false,13468,,
+793555958085582849,false,129,false,152,0,false,13468,,
+793553188481802240,false,505,false,152,0,false,13468,,
+793549051694161920,false,212,false,152,0,false,13468,,
+793469071224430593,false,1157,false,152,0,false,13468,,
+793446504681861120,false,13487,false,152,0,false,13468,,
+793444068072226816,false,19894,false,152,0,false,13468,,
+793437218811416576,false,219,false,152,0,false,13468,,
+793436184320086016,false,291,false,152,0,false,13468,,
+793419137397628929,false,1433,false,152,0,false,13468,,
+793390007184744448,false,2908,false,152,0,false,13468,,
+793381341018501120,false,534,false,3,0,false,534,,
+793343009488244737,false,5184,false,152,0,false,13468,,
+793337948527669248,false,182,false,152,0,false,13468,,
+793329417758007296,false,1240,false,152,0,false,13468,,
+793324472975581184,false,271,false,152,0,false,13468,,
+793324012931731456,false,12757,false,152,0,false,13468,,
+793323226487074816,false,1374,false,152,0,false,13468,,
+793306362927198210,false,13394,false,152,0,false,13468,,
+793305507284983808,false,838,false,152,0,false,13468,,
+793301488747548674,false,1829,false,152,0,false,13468,,
+793301301387890689,false,902,false,152,0,false,13468,,
+793301149122035712,false,23493,false,152,0,false,13468,,
+793277893618970624,false,115,false,0,0,false,null,,
+793253225365241856,false,108,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793241531918409728,false,534,false,3,8,false,null,,
+793231780761460736,false,4,true,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793217444127047680,false,20,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793177280461803520,false,107,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793165475706445824,false,303,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793159637151473664,false,339,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793154392945889280,false,1830,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793153869685657601,false,875,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793151549530791936,false,173,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150397951123457,false,182,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793150241402781696,false,386,false,72,0,false,3681,,[{indices=[65  75]  text=Halloween}]
+793107677282983936,false,78,false,12,0,false,14363,,
+793090288147390465,false,188,false,12,0,false,14363,,
+793063774194393088,false,178,false,7,0,false,212,,
+792929345740341248,false,487,false,12,0,false,14363,,
+792918189369794560,false,408,false,12,0,false,14363,,
+792909695329656832,false,126,false,12,0,false,14363,,
+792546824640798720,false,1277,false,6,26,false,null,,
+792059802990108672,false,106,false,0,0,false,null,,
+791863671756578816,false,204,false,0,0,false,null,,
+791649419116572672,false,14216,false,0,5,false,null,,
+791417380639543297,false,53,false,3,0,false,312,,
+791297842308603904,false,143,false,0,2,false,null,,
+793200799383953409,false,44,false,0,0,false,null,[{display_url=fb.me/8sRd2FRbT  indices=[47  70]  expanded_url=http://fb.me/8sRd2FRbT  url=https://t.co/cOaBYGl7Kv}],
+791372321919528960,false,1510,false,0,0,false,null,[{display_url=bonappetit.com/entertaining-s…  indices=[58  81]  expanded_url=http://www.bonappetit.com/entertaining-style/holidays/article/dentists-halloween-candy  url=https://t.co/9FtWcgVRIu}],
+791172713427574784,false,212,false,0,0,false,null,[{display_url=bonappetit.com/entertaining-s…  indices=[70  93]  expanded_url=http://www.bonappetit.com/entertaining-style/holidays/article/dentists-halloween-candy  url=https://t.co/TQ83WowFwk}],
+790977999336120320,false,213,false,0,0,false,null,[{display_url=dlvr.it/MWv69n  indices=[58  81]  expanded_url=http://dlvr.it/MWv69n  url=https://t.co/ZwkIPV0CUT}],
+791306097546006528,false,7400,false,0,0,false,null,[{display_url=bonappetit.com/entertaining-s…  indices=[58  81]  expanded_url=http://www.bonappetit.com/entertaining-style/holidays/article/dentists-halloween-candy  url=https://t.co/ZqpAzMDXvI}],
+791623068829491200,false,121,false,0,0,false,null,[{display_url=ow.ly/aJiC305xUq6  indices=[58  81]  expanded_url=http://ow.ly/aJiC305xUq6  url=https://t.co/tqzIfKscqg}],
+791293741986357249,false,139,false,1,0,false,null,[{display_url=bonappetit.com/entertaining-s…  indices=[58  81]  expanded_url=http://www.bonappetit.com/entertaining-style/holidays/article/dentists-halloween-candy  url=https://t.co/yClhZr39M0}],
+791277465305886720,false,1,true,0,0,false,null,[{display_url=cbsnews.com/news/halloween…  indices=[47  70]  expanded_url=http://www.cbsnews.com/news/halloween-warning-is-that-candy-or-ecstasy  url=https://t.co/C9xmTfJK8c}],
+791157688294109184,false,158,false,0,0,false,null,[{display_url=bonappetit.com/entertaining-s…  indices=[72  95]  expanded_url=http://www.bonappetit.com/entertaining-style/holidays/article/dentists-halloween-candy  url=https://t.co/fuEA4UOuWm}],
+791002416770678784,false,510,false,0,0,false,null,[{display_url=ift.tt/2eDsVqi  indices=[66  89]  expanded_url=http://ift.tt/2eDsVqi  url=https://t.co/aATXICFoiO}],
+790954048799305728,false,369,false,0,0,false,null,[{display_url=google.com/url?rct=j&sa=t…  indices=[58  81]  expanded_url=https://www.google.com/url?rct=j&sa=t&url=http://www.bonappetit.com/entertaining-style/holidays/article/dentists-halloween-candy&ct=ga&cd=CAIyGjQ0MTY0MzczOWNlZGM0Mzg6Y29tOmVuOlVT&usg=AFQjCNE90uqRWyfw3jbsnQOsKHDkyYMiNQ  url=https://t.co/4XJJNECwqr}],
+793135711989956608,false,5069,false,4,3,false,null,[{display_url=ow.ly/g2Ba305H8AE  indices=[97  120]  expanded_url=http://ow.ly/g2Ba305H8AE  url=https://t.co/uNySDMH509}],
+791006274129367040,false,8819,false,0,0,false,null,[{display_url=goo.gl/BafCfw  indices=[58  81]  expanded_url=https://goo.gl/BafCfw  url=https://t.co/lbiK1nWPPn}],
+790998577203994624,false,505,false,0,0,false,null,[{display_url=dlvr.it/MWwD2m  indices=[58  81]  expanded_url=http://dlvr.it/MWwD2m  url=https://t.co/uc0Z4uGbXv}][{display_url=twitter.com/i/web/status/7…  indices=[112  135]  expanded_url=https://twitter.com/i/web/status/790998577203994624  url=https://t.co/nLlRIzfsEU}],[{indices=[82  100]  text=EntertainingStyle}][{indices=[101  110]  text=Holidays}]
+791386855220523010,false,274,false,1,0,false,139,[{display_url=bonappetit.com/entertaining-s…  indices=[74  97]  expanded_url=http://www.bonappetit.com/entertaining-style/holidays/article/dentists-halloween-candy  url=https://t.co/yClhZr39M0}],
+791344940160647168,false,19941,false,0,0,false,null,[{display_url=dlvr.it/MXGs6y  indices=[60  83]  expanded_url=http://dlvr.it/MXGs6y  url=https://t.co/MQZ0Basm4a}],[{indices=[84  92]  text=recipes}]
+790998587484180480,false,493,false,0,0,false,null,[{display_url=dlvr.it/MWwD2z  indices=[58  81]  expanded_url=http://dlvr.it/MWwD2z  url=https://t.co/YeWetuwr08}][{display_url=twitter.com/i/web/status/7…  indices=[112  135]  expanded_url=https://twitter.com/i/web/status/790998587484180480  url=https://t.co/RWU0meOaY0}],[{indices=[82  100]  text=EntertainingStyle}][{indices=[101  110]  text=Holidays}]
+790997476304039936,false,113,false,0,0,false,null,[{display_url=dlvr.it/MWw99t  indices=[58  81]  expanded_url=http://dlvr.it/MWw99t  url=https://t.co/2tS8JQBvG5}],
+790983836763037697,false,582,false,0,2,false,null,[{display_url=ow.ly/SBza305wBYp  indices=[80  103]  expanded_url=http://ow.ly/SBza305wBYp  url=https://t.co/ZDvjvYUMyt}],[{indices=[38  46]  text=Dentist}][{indices=[50  60]  text=Halloween}]
+793491405318463488,false,2710,false,0,1,false,null,[{display_url=fox25boston.com/news/police-wa…  indices=[62  85]  expanded_url=http://www.fox25boston.com/news/police-warn-if-you-get-these-in-your-trickortreat-bag-theyre-not-candy/9023353  url=https://t.co/tyqs95djut}],
+793170525380116480,false,22,false,4,0,false,5069,[{display_url=ow.ly/g2Ba305H8AE  indices=[113  136]  expanded_url=http://ow.ly/g2Ba305H8AE  url=https://t.co/uNySDMH509}],
+792837465539276800,false,1000,false,61,0,false,2071,,
+792564376347680768,false,571,false,61,0,false,2071,,
+792558349074169856,false,5473,false,61,0,false,2071,,
+792490648075116544,false,799,false,61,0,false,2071,,
+792469174249463808,false,1022,false,61,0,false,2071,,
+792437862511804416,false,722,false,61,0,false,2071,,
+792400694611357696,false,1493,false,61,0,false,2071,,
+792377618184024064,false,5231,false,61,0,false,2071,,
+792377540790874112,false,2674,false,61,0,false,2071,,
+792377450818854912,false,887,false,61,0,false,2071,,
+792706086889525248,false,619,false,61,0,false,2071,,
+792504967349227520,false,323,false,61,0,false,2071,,
+792498003747696640,false,672,false,61,0,false,2071,,
+792400913428258816,false,61,false,61,0,false,2071,,
+792392579199401984,false,1240,false,61,0,false,2071,,
+792381698155483136,false,7,false,61,0,false,2071,,
+792380978031431682,false,12263,false,61,0,false,2071,,
+792380953368854528,false,513,false,61,0,false,2071,,
+792379089181089792,false,419,false,61,0,false,2071,,
+792377998859206656,false,4445,false,61,0,false,2071,,
+792377624064565248,false,276,false,61,0,false,2071,,
+792377422868058112,false,2413,false,61,0,false,2071,,
+792490316964073472,false,4024,false,61,0,false,2071,,
+792420097570795520,false,248,false,61,0,false,2071,,
+792389293146722306,false,34,false,61,0,false,2071,,
+792381502143078400,false,111,false,61,0,false,2071,,
+792381366323249152,false,412,false,61,0,false,2071,,
+792377705048055808,false,539,false,61,0,false,2071,,
+792377476462710784,false,475,false,61,0,false,2071,,
+790999088015798272,false,4393,false,0,0,false,null,[{display_url=ow.ly/h9BU505NMYP  indices=[115  138]  expanded_url=http://ow.ly/h9BU505NMYP  url=https://t.co/rDyt8BIZvh}],
+793137471454314496,false,96,false,4,0,false,5069,[{display_url=ow.ly/g2Ba305H8AE  indices=[113  136]  expanded_url=http://ow.ly/g2Ba305H8AE  url=https://t.co/uNySDMH509}],
+793135859235160065,false,1041,false,4,0,false,5069,[{display_url=ow.ly/g2Ba305H8AE  indices=[113  136]  expanded_url=http://ow.ly/g2Ba305H8AE  url=https://t.co/uNySDMH509}],
+792852570737827841,false,411,false,61,0,false,2071,,
+792760711923507200,false,227,false,61,0,false,2071,,
+792675077699477504,false,279,false,61,0,false,2071,,
+792589545585905664,false,1221,false,61,0,false,2071,,
+792518944301076480,false,433,false,61,0,false,2071,,
+792490329123553280,false,124,false,61,0,false,2071,,
+792397544592707584,false,408,false,61,0,false,2071,,
+792397417299767296,false,4470,false,61,0,false,2071,,
+792382322167414784,false,2210,false,61,0,false,2071,,
+792382307617374209,false,31,false,61,0,false,2071,,
+792382180982923264,false,103,false,61,0,false,2071,,
+792378588687245313,false,273,false,61,0,false,2071,,
+792378024792588292,false,281,false,61,0,false,2071,,
+792377462969671685,false,277,false,61,0,false,2071,,
+793208528370409472,false,47,false,61,0,false,2071,,
+793136709831651328,false,864,false,4,0,false,5069,[{display_url=ow.ly/g2Ba305H8AE  indices=[113  136]  expanded_url=http://ow.ly/g2Ba305H8AE  url=https://t.co/uNySDMH509}],
+792842292549804033,false,1046,false,61,0,false,2071,,
+792764002610745344,false,531,false,61,0,false,2071,,
+792400780837867520,false,447,false,61,0,false,2071,,
+792382886209028096,false,1145,false,61,0,false,2071,,
+792381498544513024,false,679,false,61,0,false,2071,,
+792381268113580032,false,200,false,61,0,false,2071,,
+792381061556830209,false,183,false,61,0,false,2071,,
+792380925027942404,false,202,false,61,0,false,2071,,
+792378455728001025,false,465,false,61,0,false,2071,,
+792377743128354816,false,77,false,61,0,false,2071,,
+792377405587464192,false,2071,false,61,38,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/792377405587464192  url=https://t.co/EjMABF3DMs}],
+791333610674683906,false,48,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[100  123]  expanded_url=https://twitter.com/i/web/status/791333610674683906  url=https://t.co/DD0aBi7DlD}],[{indices=[38  46]  text=Dentist}][{indices=[51  61]  text=Halloween}]
+790793249682104329,false,305,false,0,2,false,null,,
+793455793135882240,false,3491,false,1,0,false,null,[{display_url=bit.ly/2eXsDe2  indices=[71  94]  expanded_url=http://bit.ly/2eXsDe2  url=https://t.co/DOGcLXttug}],
+793240979750871040,false,182,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793093088252010500,false,1740,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793092674337333248,false,59,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[54  77]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/pNFicoicqD}],[{indices=[78  92]  text=spookyscience}]
+793091602654912516,true,1903603,false,35,52,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[41  64]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[65  79]  text=spookyscience}]
+793485806962814978,false,1924,false,0,0,false,null,[{display_url=dlvr.it/MZHwqf  indices=[89  112]  expanded_url=http://dlvr.it/MZHwqf  url=https://t.co/Yq4CgGOE73}],
+793485793436114946,false,267,false,0,0,false,null,[{display_url=dlvr.it/MZHwkh  indices=[89  112]  expanded_url=http://dlvr.it/MZHwkh  url=https://t.co/fOmStJ8KqZ}],
+793121165418098688,false,190,false,0,0,false,null,,[{indices=[90  108]  text=HillaryforPrision}]
+793099914976776193,false,2515,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793096408660320257,false,22259,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[41  64]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/cFd2bwx3rC}],[{indices=[65  79]  text=spookyscience}]
+793092746873495552,false,747,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793211570968932352,false,49,false,0,0,false,null,[{display_url=fb.me/3721EP8my  indices=[81  104]  expanded_url=http://fb.me/3721EP8my  url=https://t.co/N5ZIbsa5gk}],
+793472249747509249,false,11,false,1,0,false,117,[{display_url=n.pr/2eJshHV  indices=[92  115]  expanded_url=https://n.pr/2eJshHV  url=https://t.co/kon9uOuVBB}],[{indices=[116  127]  text=dinobrains}]
+793095197215322112,false,31,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793092820768817152,false,209,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793092372611551232,false,201,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793197564132675584,false,96,false,0,0,false,null,,
+793282769388535808,false,116,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793111090150383617,false,402,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793093525675970560,false,275,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793093165272043520,false,1942,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793092814825361410,false,206,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793092380777967620,false,105,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[41  64]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/TfrYQ2p15E}],[{indices=[65  79]  text=spookyscience}]
+793092324129640448,false,64,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[41  64]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/3kYzHMIBXw}],[{indices=[65  79]  text=spookyscience}]
+793091832238448640,false,421,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793091714013655042,false,69,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793281486426349568,false,879,false,0,0,false,null,,
+793197896862670848,false,12,false,0,1,false,null,,
+792483187888906241,false,53,false,0,0,false,null,,
+791081282151260160,false,1765,false,0,0,false,null,,
+793110794619674624,false,409,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793098410006110208,false,427,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793095218769702912,false,295,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793094580593790976,false,54,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793093780312354816,false,732,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793093223942123520,false,348,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[54  77]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/ffiQQsZj9P}][{display_url=twitter.com/ScienceNews/st…  indices=[99  122]  expanded_url=https://twitter.com/ScienceNews/status/793091602654912516  url=https://t.co/UbjoGQdZmg}],[{indices=[78  92]  text=spookyscience}]
+793092975379218432,false,6625,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793092865182359552,false,365,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[41  64]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/QyLdIGgSuz}],[{indices=[65  79]  text=spookyscience}][{indices=[80  88]  text=Science}]
+793092010395721728,false,353,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[50  73]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/uwBgTNCH10}],[{indices=[0  8]  text=science}][{indices=[74  88]  text=spookyscience}][{indices=[89  94]  text=News}][{indices=[95  106]  text=Technology}][{indices=[107  111]  text=aws}][{indices=[112  120]  text=startup}]
+793091981597630465,false,331,false,0,0,false,null,[{display_url=ow.ly/sbLh305Hgad  indices=[54  77]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/gu2azzB0YQ}],[{indices=[78  92]  text=spookyscience}]
+793091740886499332,false,736,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+793511003703091200,false,224,false,35,0,false,1903603,[{display_url=ow.ly/sbLh305Hgad  indices=[58  81]  expanded_url=http://ow.ly/sbLh305Hgad  url=https://t.co/wO5DcSAiIY}],[{indices=[82  96]  text=spookyscience}]
+792959339443081216,false,339,false,0,0,false,null,[{display_url=bit.ly/2edavhV  indices=[113  136]  expanded_url=http://bit.ly/2edavhV  url=https://t.co/qlKFrCAy8g}],
+793465133540466688,false,236,false,1,0,false,3491,[{display_url=bit.ly/2eXsDe2  indices=[86  109]  expanded_url=http://bit.ly/2eXsDe2  url=https://t.co/DOGcLXttug}],
+793088184691335168,false,3790,false,2,12,false,null,[{display_url=nationonenews.com/2016/10/30/hum…  indices=[104  127]  expanded_url=https://nationonenews.com/2016/10/30/huma-abedin-kepts-deleted-emails-folder-called-life-insurance/  url=https://t.co/DPe4poUO4I}],
+794195233823068160,false,150,false,0,3,false,null,[{display_url=google.com/amp/www.cbsnew…  indices=[115  138]  expanded_url=https://www.google.com/amp/www.cbsnews.com/amp/news/starbucks-new-unity-cups-have-americans-divided/?client=safari  url=https://t.co/G9ON5dTdSH}],
+794000999182573568,false,359,false,0,0,false,null,,
+793650861352288256,false,1126,false,1,2,false,null,[{display_url=newyorker.com/humor/borowitz…  indices=[117  140]  expanded_url=http://www.newyorker.com/humor/borowitz-report/queen-offers-to-restore-british-rule-over-united-states  url=https://t.co/jzvoh7p1wf}],
+793773581767499777,false,126,false,1,0,false,1126,,
+793077480584208384,false,3356,false,0,3,false,null,[{display_url=fb.me/8gNFN3Yc9  indices=[117  140]  expanded_url=http://fb.me/8gNFN3Yc9  url=https://t.co/LPUrk9O846}],
+793105134511271936,false,172,false,1,0,false,308,,
+793423916811378689,false,1179,false,2,3,false,null,,
+793276831629737985,false,14522,false,0,1,false,null,[{display_url=twitchy.com/brettt-3136/20…  indices=[116  139]  expanded_url=http://twitchy.com/brettt-3136/2016/10/31/unmasked-hillarys-ghostwriters-in-the-sky-share-a-super-sneaky-peek-at-her-halloween-party/  url=https://t.co/i1T9N1Sm75}],
+793463430535524352,false,138,false,2,0,false,1179,,
+793280409136234496,false,845,false,1,4,false,null,,
+793179170062868480,false,449,false,2,0,false,3790,,
+793443691251851264,false,501,false,2,0,false,1179,,
+793284374854823936,false,2596,false,1,0,false,845,,
+792874984800681984,false,210,false,0,1,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[116  139]  expanded_url=https://twitter.com/i/web/status/792874984800681984  url=https://t.co/7t7eERyd1c}],
+793186825661739008,false,317,false,2,0,false,3790,,
+793140035742732292,false,31,true,0,0,false,null,,
+792043318255300608,false,2043,false,0,0,false,null,[{display_url=bit.ly/2ej9C4X  indices=[113  136]  expanded_url=http://bit.ly/2ej9C4X  url=https://t.co/FziVmcAVcA}],
+793191944428015617,false,96,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/793191944428015617  url=https://t.co/IvYJrmNHjF}],
+793593480001966080,false,82,false,0,0,false,null,[{display_url=fb.me/1vB8heeu0  indices=[117  140]  expanded_url=http://fb.me/1vB8heeu0  url=https://t.co/jvt3oc6cH3}],

@@ -1,0 +1,1392 @@
+social media Psychiatry
+id, verified, followers_count,default_profile_image, retweet_count, favorites_count,retweeted, followers_count_original, urls, hashtags
+793739088016715776,false,543,false,0,0,false,null,[{display_url=bit.ly/2fd1eWf  indices=[60  83]  expanded_url=http://bit.ly/2fd1eWf  url=https://t.co/iGzsesEbLm}],[{indices=[84  91]  text=social}]
+793939585013346305,false,202,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/eL4OIUo7es}][{display_url=bit.ly/2ep8y1X  indices=[101  124]  expanded_url=http://bit.ly/2ep8y1X  url=https://t.co/GlOuQaC4wj}],[{indices=[86  93]  text=social}][{indices=[94  100]  text=media}]
+793717320766124032,false,1094,false,0,1,false,null,[{display_url=snopes.com  indices=[83  106]  expanded_url=http://snopes.com  url=https://t.co/jQwzxaXOGF}][{display_url=ow.ly/9sLk50640j1  indices=[107  130]  expanded_url=http://ow.ly/9sLk50640j1  url=https://t.co/iLK96WmEEo}],[{indices=[0  7]  text=social}][{indices=[8  14]  text=media}][{indices=[15  20]  text=news}]
+794192915618668545,false,172799,false,0,1,false,null,[{display_url=snopes.com/2016/11/01/soc…  indices=[68  91]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/  url=https://t.co/cpYgR9TWQo}],
+793931151924756484,false,1097,false,0,0,false,null,[{display_url=snopes.com/2016/11/01/soc…  indices=[62  85]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/  url=https://t.co/qf64l6SgNB}],[{indices=[86  98]  text=socialmedia}]
+793796153288654850,false,34218,false,1,1,false,null,[{display_url=goo.gl/dlFnX0  indices=[67  90]  expanded_url=https://goo.gl/dlFnX0  url=https://t.co/6tZmswl1z3}],[{indices=[0  7]  text=Snopes}]
+793778793156673538,false,207,false,0,0,false,null,[{display_url=wp.me/p7knbt-tGY  indices=[68  91]  expanded_url=http://wp.me/p7knbt-tGY  url=https://t.co/w8P2juDzNT}],
+793729175676936192,false,170351,false,2,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/D61n1qnQ8E}][{display_url=ift.tt/2f00vXC  indices=[86  109]  expanded_url=http://ift.tt/2f00vXC  url=https://t.co/eiPr17eKKh}],[{indices=[110  115]  text=news}]
+793707996010250240,false,131,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/9xXDFpJcnz}][{display_url=dlvr.it/MZVt1Q  indices=[86  109]  expanded_url=http://dlvr.it/MZVt1Q  url=https://t.co/7cW4hOjsVF}],
+793704723429724161,false,3590,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/S6dRIh2jAW}][{display_url=dlvr.it/MZVjPR  indices=[86  109]  expanded_url=http://dlvr.it/MZVjPR  url=https://t.co/OqhuEpWBE3}],
+793703174334926849,false,91,false,0,0,false,null,[{display_url=bit.ly/2eThbSW  indices=[60  83]  expanded_url=http://bit.ly/2eThbSW  url=https://t.co/VVf8Fp7u7d}],
+793702876300271616,false,82,false,0,0,false,null,[{display_url=sh.st/5lMBu  indices=[60  83]  expanded_url=http://sh.st/5lMBu  url=https://t.co/1jqJNo3F8I}],
+793702706284224512,false,6878,false,0,0,false,null,[{display_url=snopes.com  indices=[63  86]  expanded_url=http://snopes.com  url=https://t.co/n7CWNOGSIR}][{display_url=ift.tt/2fbAbu4  indices=[88  111]  expanded_url=http://ift.tt/2fbAbu4  url=https://t.co/iJhrFJrhfy}],[{indices=[112  124]  text=SocialMedia}]
+793973458812145665,false,7358,false,0,0,false,null,[{display_url=goo.gl/alerts/31snf  indices=[62  85]  expanded_url=http://goo.gl/alerts/31snf  url=https://t.co/LE04KbGsU5}],
+793809916494512128,false,11318,false,0,1,false,null,[{display_url=snopes.com  indices=[63  86]  expanded_url=http://snopes.com  url=https://t.co/lBDS5wGbcD}][{display_url=ift.tt/2f0MLvA  indices=[88  111]  expanded_url=http://ift.tt/2f0MLvA  url=https://t.co/6MzUmUE5dT}],[{indices=[112  124]  text=Socialmedia}]
+793797221267353600,false,1769,false,1,0,false,34218,[{display_url=goo.gl/dlFnX0  indices=[88  111]  expanded_url=https://goo.gl/dlFnX0  url=https://t.co/6tZmswl1z3}],[{indices=[21  28]  text=Snopes}]
+793780074092847104,false,388,false,0,0,false,null,[{display_url=wp.me/p7knbt-tGY  indices=[68  91]  expanded_url=http://wp.me/p7knbt-tGY  url=https://t.co/aL2fM9MH0J}],
+793778761099579393,false,544,false,0,0,false,null,[{display_url=wp.me/p7knbt-tGY  indices=[68  91]  expanded_url=http://wp.me/p7knbt-tGY  url=https://t.co/vuo2GtTn1s}],
+793725129620615168,false,484,false,0,0,false,null,[{display_url=ow.ly/3pZy50642ns  indices=[73  96]  expanded_url=http://ow.ly/3pZy50642ns  url=https://t.co/PdZjo7G6Sc}],[{indices=[0  12]  text=socialmedia}]
+793724911655223298,false,1829,false,0,0,false,null,[{display_url=bit.ly/2eyLpYx  indices=[73  96]  expanded_url=http://bit.ly/2eyLpYx  url=https://t.co/FdJRyoB8Is}],[{indices=[0  12]  text=socialmedia}]
+793718724448706560,false,639,false,5,0,false,154296,[{display_url=trib.al/jLSQ43y  indices=[72  95]  expanded_url=http://trib.al/jLSQ43y  url=https://t.co/3touTfUcEX}],
+793714569898233856,false,3875,false,0,0,false,null,[{display_url=trib.al/jLSQ43y  indices=[60  83]  expanded_url=http://trib.al/jLSQ43y  url=https://t.co/TOOG9wKewL}],
+793708500601999361,false,625,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/PBCAE2xUe0}][{display_url=ift.tt/2fcK7np  indices=[86  109]  expanded_url=http://ift.tt/2fcK7np  url=https://t.co/4Ot8spQ2LM}],
+793704841235173376,false,2378,false,0,0,false,null,[{display_url=dlvr.it/MZVk6Z  indices=[60  83]  expanded_url=http://dlvr.it/MZVk6Z  url=https://t.co/JmFee4TedU}],
+793703023801430016,false,11318,false,0,0,false,null,[{display_url=snopes.com  indices=[63  86]  expanded_url=http://snopes.com  url=https://t.co/lBDS5wGbcD}][{display_url=ift.tt/2eZM0mI  indices=[88  111]  expanded_url=http://ift.tt/2eZM0mI  url=https://t.co/eiVXSPgFBu}],[{indices=[112  124]  text=Socialmedia}]
+793702722373423104,false,1102,false,0,0,false,null,[{display_url=snopes.com/2016/11/01/soc…  indices=[60  83]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/?utm_source=dlvr.it&utm_medium=twitter  url=https://t.co/fTmIlHXxx6}],
+793701936939823104,false,2940,false,0,0,false,null,[{display_url=owl.li/Iyee5063W7q  indices=[91  114]  expanded_url=http://owl.li/Iyee5063W7q  url=https://t.co/iZeoWYyij8}],[{indices=[0  8]  text=lgbtbiz}][{indices=[9  17]  text=lgbtpro}][{indices=[18  28]  text=econpride}]
+793869273206849536,false,6621,false,0,0,false,null,[{display_url=snopes.com/2016/11/01/soc…  indices=[60  83]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/  url=https://t.co/rKC6DM0xSX}],[{indices=[84  91]  text=hcsmca}]
+793839615933157376,false,230,false,0,0,false,null,[{display_url=fb.me/2Dy0bL6uj  indices=[60  83]  expanded_url=http://fb.me/2Dy0bL6uj  url=https://t.co/tBP3raFffF}],
+793780992699985920,false,427,false,0,0,false,null,[{display_url=wp.me/p7knbt-tGY  indices=[68  91]  expanded_url=http://wp.me/p7knbt-tGY  url=https://t.co/OJgtgW4WAG}],
+793779514073554944,false,336,false,0,0,false,null,[{display_url=wp.me/p7knbt-tGY  indices=[68  91]  expanded_url=http://wp.me/p7knbt-tGY  url=https://t.co/K5Fj6ahwcw}],
+793736524701458432,false,1322,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/fJ7oHdp6rM}][{display_url=bit.ly/2fDvaNQ  indices=[86  109]  expanded_url=http://bit.ly/2fDvaNQ  url=https://t.co/9cH14FDyZx}],
+793727661415632897,false,183,false,0,2,false,null,[{display_url=bit.ly/2fgECmj  indices=[60  83]  expanded_url=http://bit.ly/2fgECmj  url=https://t.co/W93JC3RYY6}],[{indices=[84  96]  text=socialmedia}][{indices=[97  102]  text=news}]
+793719813554057217,false,721,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/SCHQ97b0mg}][{display_url=dlvr.it/MZWMLd  indices=[86  109]  expanded_url=http://dlvr.it/MZWMLd  url=https://t.co/1DN0aexJXi}],
+793715336591904768,false,336,false,0,0,false,null,[{display_url=wp.me/p7knbt-tE9  indices=[71  94]  expanded_url=http://wp.me/p7knbt-tE9  url=https://t.co/8rI4lfsGb0}],
+793713349053775872,false,389,false,0,0,false,null,[{display_url=wp.me/p7knbt-tE9  indices=[71  94]  expanded_url=http://wp.me/p7knbt-tE9  url=https://t.co/161D66NOzG}],
+793713027916898304,false,698,false,5,0,false,154296,[{display_url=trib.al/jLSQ43y  indices=[72  95]  expanded_url=http://trib.al/jLSQ43y  url=https://t.co/3touTfUcEX}],
+793709342138793984,false,6337,false,0,0,false,null,[{display_url=buff.ly/2ecxupQ  indices=[62  85]  expanded_url=http://buff.ly/2ecxupQ  url=https://t.co/KxqQmdkfPd}][{display_url=buff.ly/2ecCJpv  indices=[86  109]  expanded_url=http://buff.ly/2ecCJpv  url=https://t.co/00sLZvreBn}],
+793708115518562305,false,2225,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/o2Zbt1HAum}][{display_url=dlvr.it/MZVtSC  indices=[86  109]  expanded_url=http://dlvr.it/MZVtSC  url=https://t.co/sOPq95EzIG}],
+793706231462449152,false,2978,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/kOvO8ByP2I}][{display_url=bit.ly/2ftXd32  indices=[86  109]  expanded_url=http://bit.ly/2ftXd32  url=https://t.co/q8IBwCnh41}],
+793706082183081984,false,12952,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/Crd1kQ3OgY}][{display_url=ow.ly/HhLD5063XUD  indices=[86  109]  expanded_url=http://ow.ly/HhLD5063XUD  url=https://t.co/aafA791ZIV}],
+793704854673764353,false,1886,false,0,0,false,null,[{display_url=dlvr.it/MZVkCl  indices=[60  83]  expanded_url=http://dlvr.it/MZVkCl  url=https://t.co/wa8tWmvtLV}],
+793901782351089664,false,20007,false,0,0,false,null,[{display_url=ow.ly/PpZj305N6L8  indices=[60  83]  expanded_url=http://ow.ly/PpZj305N6L8  url=https://t.co/6Cg9wS3YMp}],
+793809321243082752,false,625,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/PBCAE2xUe0}][{display_url=ift.tt/2ezIL4D  indices=[86  109]  expanded_url=http://ift.tt/2ezIL4D  url=https://t.co/UIZaE5I1cl}],
+793781327862571008,false,389,false,0,0,false,null,[{display_url=wp.me/p7knbt-tGY  indices=[68  91]  expanded_url=http://wp.me/p7knbt-tGY  url=https://t.co/8FVQZ3vgbl}],
+793778866242392064,false,320,false,0,0,false,null,[{display_url=wp.me/p7knbt-tGY  indices=[68  91]  expanded_url=http://wp.me/p7knbt-tGY  url=https://t.co/z6BRHjWkhD}],
+793761587685265408,false,2037,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/nr7AO1LPjN}][{display_url=dlvr.it/MZYyVK  indices=[86  109]  expanded_url=http://dlvr.it/MZYyVK  url=https://t.co/4Lc2k8VON0}],
+793742067562377216,false,453,false,5,0,false,154296,[{display_url=trib.al/jLSQ43y  indices=[72  95]  expanded_url=http://trib.al/jLSQ43y  url=https://t.co/3touTfUcEX}],
+793730901561794560,false,533,false,0,0,false,null,[{display_url=ift.tt/2fbPYsG  indices=[60  83]  expanded_url=http://ift.tt/2fbPYsG  url=https://t.co/W18hPUpFlw}],[{indices=[84  96]  text=SocialMedia}]
+793725798419017728,false,469,false,0,0,false,null,[{display_url=bit.ly/2ecHvne  indices=[60  83]  expanded_url=http://bit.ly/2ecHvne  url=https://t.co/TKgHr3e3Cw}],
+793725217893855232,false,132,false,0,0,false,null,[{display_url=bit.ly/2fcRNpG  indices=[60  83]  expanded_url=http://bit.ly/2fcRNpG  url=https://t.co/Fsbuh4USNm}],[{indices=[84  96]  text=SocialMedia}]
+793722973425324032,false,1991,false,5,0,false,154296,[{display_url=trib.al/jLSQ43y  indices=[72  95]  expanded_url=http://trib.al/jLSQ43y  url=https://t.co/3touTfUcEX}],
+793713903607746560,false,2478,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/hcDuEV4pca}][{display_url=news.google.com/news/url?sa=t&…  indices=[86  109]  expanded_url=http://news.google.com/news/url?sa=t&fd=R&ct2=au&usg=AFQjCNH0bSyN2jrjvtgcxC7OYm8OdpS8yA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779260489198&ei=NZMZWNiGEJXPuAK5layIBQ&url=http%3A%2F%2Fwww.snopes.com%2F2016%2F11%2F01%2Fsocial-media-tool-of-psychiatry%2F&utm_source=dlvr.it&utm_medium=twitter  url=https://t.co/LMpCfJp3xU}],
+793713215498817536,false,427,false,0,0,false,null,[{display_url=wp.me/p7knbt-tE9  indices=[71  94]  expanded_url=http://wp.me/p7knbt-tE9  url=https://t.co/Q22mIBLAfZ}],
+793712764648914944,false,544,false,0,0,false,null,[{display_url=wp.me/p7knbt-tE9  indices=[71  94]  expanded_url=http://wp.me/p7knbt-tE9  url=https://t.co/mfINWsvdE4}],
+793712263261663232,false,2796,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/zUMjB0RaGm}][{display_url=dlvr.it/MZW3b2  indices=[86  109]  expanded_url=http://dlvr.it/MZW3b2  url=https://t.co/HMT1HUmb7k}],
+793710853937827841,false,5401,false,0,0,false,null,[{display_url=ift.tt/2e13RN1  indices=[12  35]  expanded_url=http://ift.tt/2e13RN1  url=https://t.co/L9ddQ2Kvhr}],
+793709778199535616,false,64449,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/7wtrqOme8f}][{display_url=snopes.com/2016/11/01/soc…  indices=[87  110]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/  url=https://t.co/sOQO9dBV6l}],
+793706359359467520,false,12912,false,1,0,false,null,[{display_url=snopes.com  indices=[80  103]  expanded_url=http://snopes.com  url=https://t.co/QX6Ez328RF}][{display_url=ow.ly/vJKa5063YiP  indices=[104  127]  expanded_url=http://ow.ly/vJKa5063YiP  url=https://t.co/GbnmaxwZuK}],[{indices=[0  17]  text=SocialNetworking}]
+793729747964403712,false,2990,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/4r7FXF3dYH}][{display_url=dlvr.it/MZWvgh  indices=[86  109]  expanded_url=http://dlvr.it/MZWvgh  url=https://t.co/o9qiH122sK}],
+793728211322540037,false,170351,false,0,1,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/D61n1qnQ8E}][{display_url=ift.tt/2f00vXC  indices=[86  109]  expanded_url=http://ift.tt/2f00vXC  url=https://t.co/eiPr17eKKh}],[{indices=[110  122]  text=socialmedia}]
+793721527669657600,false,1417,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/rkMTIQryIG}][{display_url=bit.ly/2eTCiVg  indices=[86  109]  expanded_url=http://bit.ly/2eTCiVg  url=https://t.co/IZippSJ6PH}],
+793719174803492864,false,1053,false,0,0,false,null,[{display_url=bit.ly/2eTqKRO  indices=[60  83]  expanded_url=http://bit.ly/2eTqKRO  url=https://t.co/GHq2XO5TZQ}],
+793714598163714048,false,320,false,0,0,false,null,[{display_url=wp.me/p7knbt-tE9  indices=[71  94]  expanded_url=http://wp.me/p7knbt-tE9  url=https://t.co/A4ShC3IJrK}],
+793713480314609664,false,207,false,0,0,false,null,[{display_url=wp.me/p7knbt-tE9  indices=[71  94]  expanded_url=http://wp.me/p7knbt-tE9  url=https://t.co/ECXQKHRfMh}],
+793713305860833281,false,388,false,0,0,false,null,[{display_url=wp.me/p7knbt-tE9  indices=[71  94]  expanded_url=http://wp.me/p7knbt-tE9  url=https://t.co/bk895tMDJ3}],
+793712807506239488,true,154296,false,5,6,false,null,[{display_url=trib.al/jLSQ43y  indices=[60  83]  expanded_url=http://trib.al/jLSQ43y  url=https://t.co/3touTfUcEX}],
+793711123359031296,false,34,false,0,0,false,null,,
+793709815314976768,false,130,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/lpuYgwV8OE}][{display_url=ow.ly/yTUl5063YNh  indices=[86  109]  expanded_url=http://ow.ly/yTUl5063YNh  url=https://t.co/tljTCfiMld}],
+793708121155772416,false,1118,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/jWqSvkn1t2}][{display_url=dlvr.it/MZVtTK  indices=[86  109]  expanded_url=http://dlvr.it/MZVtTK  url=https://t.co/glbHh7X3zl}],
+793706033306796032,false,545,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/Cxancgtets}][{display_url=ow.ly/IPQ65063XRW  indices=[86  109]  expanded_url=http://ow.ly/IPQ65063XRW  url=https://t.co/w0s23EDkph}],
+793703166839709696,false,122,false,0,0,false,null,[{display_url=bit.ly/2eThbSW  indices=[68  91]  expanded_url=http://bit.ly/2eThbSW  url=https://t.co/m0SSUQg9wy}],
+793702743588208640,false,11655,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/uiB8wAsjuP}][{display_url=bit.ly/2f9bqBn  indices=[86  109]  expanded_url=http://bit.ly/2f9bqBn  url=https://t.co/ro066MD3f3}],
+793702719714234372,false,442,false,0,0,false,null,[{display_url=snopes.com/2016/11/01/soc…  indices=[60  83]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/  url=https://t.co/F6yGoxpbOa}],
+793730392817668096,false,893,false,0,0,false,null,[{display_url=ap236.ca/2fujNIK  indices=[60  83]  expanded_url=http://ap236.ca/2fujNIK  url=https://t.co/Oei33A7G1b}],[{indices=[96  103]  text=snopes}]
+793714313773056000,false,13365,false,1,0,false,12912,[{display_url=snopes.com  indices=[95  118]  expanded_url=http://snopes.com  url=https://t.co/QX6Ez328RF}],[{indices=[15  32]  text=SocialNetworking}]
+793785056821121025,false,10003,false,0,0,false,null,[{display_url=snopes.com  indices=[78  101]  expanded_url=http://snopes.com  url=https://t.co/lF7MSNaUHa}][{display_url=goo.gl/fb/fGhIbF  indices=[102  125]  expanded_url=https://goo.gl/fb/fGhIbF  url=https://t.co/NXx7sE5HDW}],
+793748318853689344,false,10003,false,0,0,false,null,[{display_url=snopes.com  indices=[78  101]  expanded_url=http://snopes.com  url=https://t.co/lF7MSNaUHa}][{display_url=goo.gl/fb/1Vcc44  indices=[102  125]  expanded_url=https://goo.gl/fb/1Vcc44  url=https://t.co/pcUVBt8ziI}],
+793726638982737920,false,8359,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/GEDwT6p6uN}][{display_url=dlvr.it/MZWhyN  indices=[86  109]  expanded_url=http://dlvr.it/MZWhyN  url=https://t.co/4c0SWne2yc}][{display_url=twitter.com/i/web/status/7…  indices=[111  134]  expanded_url=https://twitter.com/i/web/status/793726638982737920  url=https://t.co/7ppOpfgSHv}],
+793766848219254784,false,10003,false,0,0,false,null,[{display_url=snopes.com  indices=[78  101]  expanded_url=http://snopes.com  url=https://t.co/lF7MSNaUHa}][{display_url=goo.gl/fb/HZzhAr  indices=[102  125]  expanded_url=https://goo.gl/fb/HZzhAr  url=https://t.co/Zlcb2OCNOR}],
+793734085126529024,false,68,false,2,0,false,170351,[{display_url=snopes.com  indices=[76  99]  expanded_url=http://snopes.com  url=https://t.co/D61n1qnQ8E}][{display_url=ift.tt/2f00vXC  indices=[100  123]  expanded_url=http://ift.tt/2f00vXC  url=https://t.co/eiPr17eKKh}],[{indices=[124  129]  text=news}]
+793730310554869760,false,1769,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/UD1yPo9DB2}][{display_url=bit.ly/2f9SCC1  indices=[98  121]  expanded_url=http://bit.ly/2f9SCC1  url=https://t.co/TjIXqVuznz}],
+793727693808250880,false,2176,false,0,1,false,null,[{display_url=snopes.com  indices=[72  95]  expanded_url=http://snopes.com  url=https://t.co/CTtMs27rEZ}][{display_url=bit.ly/2eyPRGO  indices=[101  124]  expanded_url=http://bit.ly/2eyPRGO  url=https://t.co/0au7CEax2Z}],[{indices=[0  9]  text=Pakistan}][{indices=[125  137]  text=SocialMedia}]
+793729763374424064,false,10003,false,0,0,false,null,[{display_url=snopes.com  indices=[78  101]  expanded_url=http://snopes.com  url=https://t.co/lF7MSNaUHa}][{display_url=goo.gl/fb/i5sOQ5  indices=[102  125]  expanded_url=https://goo.gl/fb/i5sOQ5  url=https://t.co/wHdrYNiw75}],
+793727689165115392,false,2176,false,0,0,false,null,[{display_url=snopes.com  indices=[72  95]  expanded_url=http://snopes.com  url=https://t.co/CTtMs27rEZ}][{display_url=bit.ly/2eyPRGO  indices=[114  137]  expanded_url=http://bit.ly/2eyPRGO  url=https://t.co/0au7CEax2Z}],[{indices=[0  9]  text=Pakistan}]
+793725051065556992,false,314,false,0,0,false,null,[{display_url=1NaplesHome.com  indices=[12  35]  expanded_url=http://1NaplesHome.com  url=https://t.co/RHxiCdReM2}][{display_url=ow.ly/M75h50642kV  indices=[104  127]  expanded_url=http://ow.ly/M75h50642kV  url=https://t.co/nZYG7jMkgj}],[{indices=[36  43]  text=SNOPES}]
+793703166550298624,false,185,false,0,0,false,null,[{display_url=bit.ly/2fggmRi  indices=[113  136]  expanded_url=http://bit.ly/2fggmRi  url=https://t.co/rcAaDKhHCK}],
+793703152662958081,false,3940,false,0,0,false,null,[{display_url=bit.ly/2fghMuM  indices=[113  136]  expanded_url=http://bit.ly/2fghMuM  url=https://t.co/46sAja6dd2}],
+793749301671235584,false,637,false,0,0,false,null,[{display_url=jftb.a.boysofts.com/4Ssy  indices=[113  136]  expanded_url=http://jftb.a.boysofts.com/4Ssy  url=https://t.co/psZgB4uBOF}],
+793703176377503745,false,4951,false,0,0,false,null,[{display_url=bit.ly/2fggmRi  indices=[113  136]  expanded_url=http://bit.ly/2fggmRi  url=https://t.co/Qzj77wvUV3}],
+793703170094485504,false,894,false,0,0,false,null,[{display_url=bit.ly/2fghMuM  indices=[113  136]  expanded_url=http://bit.ly/2fghMuM  url=https://t.co/akRrpruT80}],
+793750106109534208,false,413,false,0,0,false,null,,[{indices=[0  5]  text=news}][{indices=[6  13]  text=latest}]
+793750086564057088,false,402,false,0,0,false,null,,[{indices=[0  7]  text=latest}][{indices=[8  13]  text=news}]
+793749424547753985,false,883,false,0,0,false,null,,[{indices=[0  5]  text=news}][{indices=[6  13]  text=latest}]
+793731436402487297,false,1816,false,0,0,false,null,[{display_url=bit.ly/2emwvHi  indices=[113  136]  expanded_url=http://bit.ly/2emwvHi  url=https://t.co/q7iPlB6efP}],
+793750988658188288,false,377,false,0,0,false,null,,[{indices=[0  5]  text=news}][{indices=[6  13]  text=latest}]
+793725342317817856,false,8133,false,0,0,false,null,[{display_url=bit.ly/2fDsShO  indices=[113  136]  expanded_url=http://bit.ly/2fDsShO  url=https://t.co/U0ijtz94Jh}],
+793749848000520196,false,367,false,0,0,false,null,,[{indices=[0  5]  text=news}][{indices=[6  13]  text=latest}]
+793749412459667456,false,107,false,0,0,false,null,[{display_url=bit.ly/2eTLads  indices=[113  136]  expanded_url=http://bit.ly/2eTLads  url=https://t.co/JDdGwCWZND}],
+793747116120170497,false,12171,false,0,0,false,null,[{display_url=bit.ly/2fDDDRo  indices=[113  136]  expanded_url=http://bit.ly/2fDDDRo  url=https://t.co/eO47fVCsx2}],
+793728196218716160,false,1977,false,0,0,false,null,[{display_url=bit.ly/2emCBaD  indices=[113  136]  expanded_url=http://bit.ly/2emCBaD  url=https://t.co/z0nK77VqqK}],
+793170003994423296,false,639,false,0,0,false,null,[{display_url=nimh.nih.gov/news/media/201…  indices=[52  75]  expanded_url=https://www.nimh.nih.gov/news/media/2016/circuit-tweak-boosts-social-memory-in-mice.shtml?utm_source=rss_readers&utm_medium=rss&utm_campaign=rss_summary  url=https://t.co/wr3rU7lkMi}][{display_url=twibble.io  indices=[96  119]  expanded_url=https://twibble.io  url=https://t.co/Gioo5NwGt2}],[{indices=[76  81]  text=nimh}][{indices=[82  93]  text=Psychiatry}]
+793800599930216449,false,391,false,0,0,false,null,[{display_url=dlvr.it/MZcRrQ  indices=[103  126]  expanded_url=http://dlvr.it/MZcRrQ  url=https://t.co/J7x3dPsjx1}],[{indices=[127  134]  text=social}][{indices=[135  140]  text=risk}]
+793776238703837184,false,298,false,0,0,false,null,[{display_url=fb.me/5LNdiC2kt  indices=[81  104]  expanded_url=http://fb.me/5LNdiC2kt  url=https://t.co/M65EEOGmLe}],
+793646578259009537,false,1969,false,0,0,false,null,[{display_url=fb.me/535sGx09m  indices=[81  104]  expanded_url=http://fb.me/535sGx09m  url=https://t.co/ABMevFgIzE}],
+793572963224285190,false,121,false,0,1,false,null,[{display_url=fb.me/6Trloc26G  indices=[81  104]  expanded_url=http://fb.me/6Trloc26G  url=https://t.co/lIRqUuHzBN}],
+793548199776616448,false,287,false,0,0,false,null,[{display_url=fb.me/31MAugGr9  indices=[81  104]  expanded_url=http://fb.me/31MAugGr9  url=https://t.co/oMSvD68rbJ}],
+793541752804311040,false,2326,false,1,0,false,null,[{display_url=obama.trendolizer.com/2016/11/its-go…  indices=[81  104]  expanded_url=http://obama.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/lmb5hwCgbm}],
+793540719751331840,false,1178,false,15,13,false,null,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[81  104]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+794290614343008256,true,3246,false,0,0,false,null,[{display_url=kluv.cbslocal.com/2016/11/03/sta…  indices=[57  80]  expanded_url=http://kluv.cbslocal.com/2016/11/03/starbucks-new-unity-cups-are-not-a-hit-on-social-media/  url=https://t.co/fg93z4yPWS}],
+794218240503267328,true,3246,false,0,0,false,null,[{display_url=wp.me/p2nFh2-10O1  indices=[57  80]  expanded_url=http://wp.me/p2nFh2-10O1  url=https://t.co/Xk3fI1WHti}],
+793977946943930368,false,22,false,0,0,false,null,[{display_url=ow.ly/UtN350660F2  indices=[87  110]  expanded_url=http://ow.ly/UtN350660F2  url=https://t.co/WQt0mKAvsq}],
+793927825963134976,false,810,false,0,0,false,null,[{display_url=fb.me/8vBIMokVc  indices=[91  114]  expanded_url=http://fb.me/8vBIMokVc  url=https://t.co/A60wRbm4rE}],
+793913078094000128,false,3598,false,0,0,false,null,[{display_url=us.blastingnews.com/news/2016/11/d…  indices=[91  114]  expanded_url=http://us.blastingnews.com/news/2016/11/donald-trump-campaign-forced-to-acknowledge-child-rape-lawsuit-after-social-media-pressure-001226017.html  url=https://t.co/SKPM3nX6zA}],
+793853224948072449,false,317,false,0,0,false,null,[{display_url=us.blastingnews.com/news/2016/11/d…  indices=[91  114]  expanded_url=http://us.blastingnews.com/news/2016/11/donald-trump-campaign-forced-to-acknowledge-child-rape-lawsuit-after-social-media-pressure-001226017.html  url=https://t.co/VaciGJ8Iar}],
+793550879748218881,false,65,false,0,1,false,null,[{display_url=fb.me/1EQh2kwyr  indices=[81  104]  expanded_url=http://fb.me/1EQh2kwyr  url=https://t.co/yzIEPP32Qq}],
+793541707476242432,false,55,false,0,0,false,null,[{display_url=fb.me/JD0e4roP  indices=[81  104]  expanded_url=http://fb.me/JD0e4roP  url=https://t.co/uY1YgacsSS}],
+793540955471130624,false,600,false,0,0,false,null,[{display_url=fb.me/1GcWF0Zah  indices=[81  104]  expanded_url=http://fb.me/1GcWF0Zah  url=https://t.co/VRQUhdgXHe}],
+792829983467134978,false,213,false,0,0,false,null,[{display_url=snopes.com/hillary-clinto…  indices=[74  97]  expanded_url=http://www.snopes.com/hillary-clinton-bought-137-million-worth-of-illegal-arms/  url=https://t.co/PFbdcmXXZM}],
+793543648449363972,false,229,false,0,0,false,null,[{display_url=fb.me/8fCiY1yAw  indices=[81  104]  expanded_url=http://fb.me/8fCiY1yAw  url=https://t.co/sFel3r4rpy}],
+793526200425558016,false,184,false,0,0,false,null,[{display_url=fb.me/1xjZLRQSw  indices=[81  104]  expanded_url=http://fb.me/1xjZLRQSw  url=https://t.co/LmocUB4Xnu}],
+793850356824440832,false,317,false,0,0,false,null,[{display_url=us.blastingnews.com/news/2016/11/d…  indices=[91  114]  expanded_url=http://us.blastingnews.com/news/2016/11/donald-trump-campaign-forced-to-acknowledge-child-rape-lawsuit-after-social-media-pressure-001226017.html  url=https://t.co/VaciGJqjz1}],
+793577373748912130,false,710,false,0,0,false,null,[{display_url=ow.ly/FKDY305KYTG  indices=[91  114]  expanded_url=http://ow.ly/FKDY305KYTG  url=https://t.co/cwEyDUpVPd}],[{indices=[39  63]  text=bythepeopleforthepeople}]
+793479060013940736,false,3907,false,0,1,false,null,[{display_url=ow.ly/2M8Q305JIFB  indices=[62  85]  expanded_url=http://ow.ly/2M8Q305JIFB  url=https://t.co/6KyfcU4Eim}],
+793468053451341824,false,113,false,0,1,false,null,[{display_url=buff.ly/2f91mpD  indices=[79  102]  expanded_url=http://buff.ly/2f91mpD  url=https://t.co/dPCYj5W4mx}],
+794373657602719744,true,4527,false,0,0,false,null,[{display_url=jackontheweb.cbslocal.com/2016/11/03/sta…  indices=[57  80]  expanded_url=http://jackontheweb.cbslocal.com/2016/11/03/starbucks-new-unity-cups-are-not-a-hit-on-social-media/  url=https://t.co/ELPtQlF57f}],
+793756600217591808,false,547,false,0,0,false,null,[{display_url=fb.me/58tmQSO0N  indices=[91  114]  expanded_url=http://fb.me/58tmQSO0N  url=https://t.co/rSv7osBnRd}],
+793586874275160064,false,57,false,0,1,false,null,[{display_url=psychiatry.org/news-room/apa-…  indices=[82  105]  expanded_url=https://www.psychiatry.org/news-room/apa-blogs/apa-blog/2016/05/social-media-use-tied-to-sleep-problems-and-depression  url=https://t.co/01BhO2us6k}],[{indices=[44  51]  text=health}][{indices=[54  60]  text=sleep}][{indices=[61  72]  text=depression}][{indices=[73  81]  text=anxiety}]
+794275054100086787,false,784,false,0,0,false,null,[{display_url=fb.me/2PdCSyYNQ  indices=[81  104]  expanded_url=http://fb.me/2PdCSyYNQ  url=https://t.co/uBS5bYtgHS}],
+793809687036559360,false,8324,false,0,0,false,null,[{display_url=goo.gl/p1Es0R  indices=[67  90]  expanded_url=https://goo.gl/p1Es0R  url=https://t.co/1sm5ZL2D92}],[{indices=[93  107]  text=NickJohnstons}]
+793597076290596864,false,1080,false,0,0,false,null,[{display_url=fb.me/1DofCH2hx  indices=[81  104]  expanded_url=http://fb.me/1DofCH2hx  url=https://t.co/e41Koo7Reg}],
+793553631169482752,false,5010,false,0,0,false,null,[{display_url=fb.me/1vYRpteRT  indices=[81  104]  expanded_url=http://fb.me/1vYRpteRT  url=https://t.co/g54WRajo5K}],
+793950971399434240,true,15155,false,0,0,false,null,[{display_url=morehits1037.cbslocal.com/2016/11/02/sta…  indices=[74  97]  expanded_url=http://morehits1037.cbslocal.com/2016/11/02/starbucks-new-unity-cups-are-not-a-hit-on-social-media/  url=https://t.co/Rcnkmv2awD}],[{indices=[58  73]  text=starbucksunity}]
+793792352037068801,false,174,false,0,0,false,null,[{display_url=fb.me/3fHMiDFde  indices=[91  114]  expanded_url=http://fb.me/3fHMiDFde  url=https://t.co/hPDm2MHZO6}],
+793752413006102528,false,942,false,0,1,false,null,[{display_url=theguardian.com/us-news/2016/o…  indices=[85  108]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rOc6hW8bcg}],
+793589612111339521,false,126,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793582650858483712,false,305,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793569173792100352,false,926,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+791874001127796737,false,71,false,0,1,false,null,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[112  135]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/siUycOwg1i}],
+793407148235427841,false,93,false,32,0,false,1602,,
+793562847397552128,false,95,false,0,0,false,null,,
+793788451556581376,false,148,false,2,0,false,1364,,
+793562861062590466,false,58,false,0,0,false,null,[{display_url=bit.ly/2f7tDiC  indices=[113  136]  expanded_url=http://bit.ly/2f7tDiC  url=https://t.co/vppXv5uihV}],
+793534361140359168,true,2994,false,3,5,false,null,[{display_url=n.pr/2fBnfR9  indices=[83  106]  expanded_url=http://n.pr/2fBnfR9  url=https://t.co/MtIyc4KdTw}],[{indices=[52  65]  text=standingrock}]
+793757442974842880,false,1505,false,0,6,false,null,[{display_url=snopes.com/2016/11/01/soc…  indices=[106  129]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/  url=https://t.co/LHe39l6SqM}],[{indices=[7  18]  text=healthcare}]
+794202142596886528,false,94,false,0,1,false,null,[{display_url=cbsnews.com/news/starbucks…  indices=[85  108]  expanded_url=http://www.cbsnews.com/news/starbucks-new-unity-cups-have-americans-divided/  url=https://t.co/qabtg4XuVa}],[{indices=[109  122]  text=millyennials}]
+793601262751064064,false,213,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793535095307177984,false,390,false,3,0,false,2994,[{display_url=n.pr/2fBnfR9  indices=[99  122]  expanded_url=http://n.pr/2fBnfR9  url=https://t.co/MtIyc4KdTw}],[{indices=[68  81]  text=standingrock}]
+793534832676667394,true,22980,false,3,0,false,2994,[{display_url=n.pr/2fBnfR9  indices=[99  122]  expanded_url=http://n.pr/2fBnfR9  url=https://t.co/MtIyc4KdTw}],[{indices=[68  81]  text=standingrock}]
+793521368004333568,false,1008,false,0,0,false,null,[{display_url=fb.me/3j6CYoVPw  indices=[107  130]  expanded_url=http://fb.me/3j6CYoVPw  url=https://t.co/gXotpdL9Af}],
+793325663553859584,false,2684,false,32,0,false,1602,,
+793319198399139840,false,586,false,32,0,false,1602,,
+793560451108012032,false,3686,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793545687157858309,false,514,false,1,0,false,2326,[{display_url=obama.trendolizer.com/2016/11/its-go…  indices=[97  120]  expanded_url=http://obama.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/lmb5hwCgbm}],
+794724055756787712,false,11751,false,3,3,false,null,[{display_url=buff.ly/2exjHxR  indices=[107  130]  expanded_url=http://buff.ly/2exjHxR  url=https://t.co/N6jyH8Z6pk}],
+793584952436727808,false,13,false,0,0,false,null,,[{indices=[12  19]  text=isitok}]
+793563070589042688,false,58,false,0,0,false,null,[{display_url=tinyurl.com/hf9hfwz  indices=[113  136]  expanded_url=http://tinyurl.com/hf9hfwz  url=https://t.co/uRhaXBPPQF}],
+793562915525709824,false,797,false,0,0,false,null,[{display_url=bit.ly/2f7tDiC  indices=[113  136]  expanded_url=http://bit.ly/2f7tDiC  url=https://t.co/fa3prgI2WA}],
+793562846911094784,false,286,false,0,0,false,null,[{display_url=bit.ly/2f7tDiC  indices=[113  136]  expanded_url=http://bit.ly/2f7tDiC  url=https://t.co/rhMK23hG2x}],
+793535001857896448,false,5304,false,3,0,false,2994,[{display_url=n.pr/2fBnfR9  indices=[99  122]  expanded_url=http://n.pr/2fBnfR9  url=https://t.co/MtIyc4KdTw}],[{indices=[68  81]  text=standingrock}]
+793838124191223809,false,811,false,0,0,false,null,[{display_url=cnn.it/2fxjnk8  indices=[86  109]  expanded_url=http://cnn.it/2fxjnk8  url=https://t.co/Av7hjlneH1}],
+793787517539586048,false,1293,false,2,0,false,1364,,
+791661375374315520,false,288,false,0,0,false,null,[{display_url=bit.ly/2eQmSQ5  indices=[113  136]  expanded_url=http://bit.ly/2eQmSQ5  url=https://t.co/jEiTfgueYN}],
+794447052038017024,false,2577,false,1,4,false,null,[{display_url=psychologytoday.com/blog/the-after…  indices=[98  121]  expanded_url=https://www.psychologytoday.com/blog/the-aftermath-trauma/201409/the-role-social-media-in-disaster-psychiatry  url=https://t.co/vJAp40Jrlk}],
+793566445691105283,false,93,true,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793564722830405636,false,4584,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793786022135996416,false,1364,false,2,3,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[116  139]  expanded_url=https://twitter.com/i/web/status/793786022135996416  url=https://t.co/VRX70BQLtR}],
+793589697322758144,false,3428,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793565682948534272,false,2338,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793561530491109376,false,2703,false,15,0,false,1178,[{display_url=warren.trendolizer.com/2016/11/its-go…  indices=[99  122]  expanded_url=http://warren.trendolizer.com/2016/11/its-going-down-barack-obama-elizabeth-warren-unfollow-hillary-on-social-media.html  url=https://t.co/mZa7owYfSY}],
+793562847124987904,false,901,false,0,0,false,null,[{display_url=bit.ly/2f7tDiC  indices=[113  136]  expanded_url=http://bit.ly/2f7tDiC  url=https://t.co/Lpl01soplj}],
+793562828493905920,false,3814,false,0,0,false,null,[{display_url=bit.ly/2f7tDiC  indices=[113  136]  expanded_url=http://bit.ly/2f7tDiC  url=https://t.co/GrxFKd2pt5}],
+793319475156127744,false,508,false,32,0,false,1602,,
+793880766665023488,false,2642,false,0,0,false,null,[{display_url=us.blastingnews.com/news/2016/11/d…  indices=[97  120]  expanded_url=http://us.blastingnews.com/news/2016/11/donald-trump-campaign-forced-to-acknowledge-child-rape-lawsuit-after-social-media-pressure-001226017.html  url=https://t.co/yr5zyNtIOl}],
+793829288105521156,false,246,false,4,0,false,44639,,
+793857578266537984,false,52,false,16,0,false,21876,,
+794679180986372096,false,2957,false,2,1,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/794679180986372096  url=https://t.co/HbOGGaxYZ0}],
+793279851344068608,false,921,false,0,1,false,null,[{display_url=fb.me/2xZrfT2BJ  indices=[101  124]  expanded_url=http://fb.me/2xZrfT2BJ  url=https://t.co/XLruqKIeug}],
+793261256803246080,false,449,false,15,0,false,254379,[{display_url=fus.in/2fonBLY  indices=[116  139]  expanded_url=http://fus.in/2fonBLY  url=https://t.co/od1vuw7oyj}],[{indices=[12  19]  text=NoDAPL}]
+793859634075348992,false,25,false,0,0,false,null,[{display_url=fb.me/7IccGcLpW  indices=[116  139]  expanded_url=http://fb.me/7IccGcLpW  url=https://t.co/ep7htseZVS}],
+794712169623547904,false,172,false,2,0,false,2957,,
+794686201617928192,false,328,false,2,0,false,2957,,
+793551825865613312,false,122,false,6,0,false,64250,,
+793617595882758144,false,3,false,0,0,false,null,,
+793283478703833088,false,47,false,0,0,false,null,[{display_url=fb.me/Ck9umHeb  indices=[114  137]  expanded_url=http://fb.me/Ck9umHeb  url=https://t.co/bICOO01mPn}],
+793269982650073088,false,70,false,0,0,false,null,[{display_url=ift.tt/2f96Pve  indices=[116  139]  expanded_url=http://ift.tt/2f96Pve  url=https://t.co/ViH6ouuBqS}],
+794668002960621568,false,88,false,19,0,false,859840,[{display_url=slnm.us/b9GcrG3  indices=[108  131]  expanded_url=http://slnm.us/b9GcrG3  url=https://t.co/8bMQKdNU3v}],
+794746677903003648,false,351,false,1,0,false,2577,[{display_url=psychologytoday.com/blog/the-after…  indices=[116  139]  expanded_url=https://www.psychologytoday.com/blog/the-aftermath-trauma/201409/the-role-social-media-in-disaster-psychiatry  url=https://t.co/vJAp40Jrlk}],
+793485408969555968,false,137,false,4,0,false,44639,,
+793483590294200320,false,207,false,4,0,false,44639,,
+793483478096568320,false,44639,false,4,3,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/793483478096568320  url=https://t.co/MWtpk3Vfhu}],
+793483477891055616,false,64250,false,6,6,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/793483477891055616  url=https://t.co/hVQMpCDSbN}],
+794009086220259330,true,297648,false,2,5,false,null,[{display_url=on.nbcdfw.com/4ZsinHw  indices=[89  112]  expanded_url=http://on.nbcdfw.com/4ZsinHw  url=https://t.co/opixtOLucl}],
+793917355675914240,false,24,true,16,0,false,21876,,
+793321917553844225,false,895,false,1,0,false,3216,,
+793293450414288896,false,2519,false,15,0,false,254379,[{display_url=fus.in/2fonBLY  indices=[116  139]  expanded_url=http://fus.in/2fonBLY  url=https://t.co/od1vuw7oyj}],[{indices=[12  19]  text=NoDAPL}]
+794147870525923328,false,18,false,2,0,false,297648,[{display_url=on.nbcdfw.com/4ZsinHw  indices=[101  124]  expanded_url=http://on.nbcdfw.com/4ZsinHw  url=https://t.co/opixtOLucl}],
+794031605958537216,false,232,false,2,0,false,297648,[{display_url=on.nbcdfw.com/4ZsinHw  indices=[101  124]  expanded_url=http://on.nbcdfw.com/4ZsinHw  url=https://t.co/opixtOLucl}],
+793483621973708800,false,663,false,6,0,false,64250,,
+794294421172944896,false,88,false,1648,0,false,461385,[{display_url=vox.com/policy-and-pol…  indices=[103  126]  expanded_url=http://www.vox.com/policy-and-politics/2016/11/3/13512088/melania-trump-social-media-cyberbullying?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter  url=https://t.co/6Ji8dQxr2q}],
+793372120713719808,false,823,false,2,0,false,9546,,
+793317827050692608,false,3216,false,1,5,false,null,,
+793292565068079104,false,1651,false,15,0,false,254379,[{display_url=fus.in/2fonBLY  indices=[116  139]  expanded_url=http://fus.in/2fonBLY  url=https://t.co/od1vuw7oyj}],[{indices=[12  19]  text=NoDAPL}]
+793909836136247297,false,0,true,16,0,false,21876,,
+793484658608439297,false,408,false,6,0,false,64250,,
+794724411521765378,false,274,false,3,0,false,11751,,
+793833157699198977,false,1714,false,0,0,false,null,[{display_url=ow.ly/2eRR305MsFP  indices=[34  57]  expanded_url=http://ow.ly/2eRR305MsFP  url=https://t.co/oZl8wbwJCb}],
+793871963143798784,false,161,false,0,0,false,null,[{display_url=snopes.com  indices=[62  85]  expanded_url=http://snopes.com  url=https://t.co/3vf0C0rhQm}][{display_url=fat.ly/nvbP  indices=[88  111]  expanded_url=http://fat.ly/nvbP  url=https://t.co/YePKuhhMG1}],[{indices=[5  17]  text=SocialMedia}]
+793772191653498882,false,3809,false,0,0,false,null,[{display_url=snopes.com/2016/11/01/soc…  indices=[60  83]  expanded_url=http://www.snopes.com/2016/11/01/social-media-tool-of-psychiatry/  url=https://t.co/84fPRJnuh1}],[{indices=[5  17]  text=SocialMedia}]
+793764797539946496,false,3521,false,0,0,false,null,[{display_url=snopes.com  indices=[63  86]  expanded_url=http://snopes.com  url=https://t.co/XL83k18MSe}][{display_url=bit.ly/2e1cR4Z  indices=[89  112]  expanded_url=http://bit.ly/2e1cR4Z  url=https://t.co/oCI6VfEpi3}],[{indices=[5  17]  text=SocialMedia}]
+793516073786023938,false,639,false,0,0,false,null,[{display_url=theverge.com/2016/11/1/1348…  indices=[42  65]  expanded_url=http://www.theverge.com/2016/11/1/13488952/facebook-health-science-lifespan-longevity-social-media  url=https://t.co/sZgB3SFB4r}][{display_url=twibble.io  indices=[80  103]  expanded_url=https://twibble.io  url=https://t.co/Gioo5NwGt2}],[{indices=[66  77]  text=Psychiatry}]
+793806496551272448,false,293,false,0,0,false,null,[{display_url=ln.is/www.mediazone.…  indices=[11  34]  expanded_url=http://ln.is/www.mediazone.news/i/QikV4  url=https://t.co/vegZAMrP9K}],
+794372526608629760,false,269,false,0,0,false,null,[{display_url=mediazone.news/index.php/2016…  indices=[11  34]  expanded_url=http://www.mediazone.news/index.php/2016/10/31/biggest-star-comesout-trump-matthew-mcconaughey-votes-trump/  url=https://t.co/SUH0zvowqV}],
+793442063077429248,false,318,false,0,0,false,null,[{display_url=mediazone.news/index.php/2016…  indices=[11  34]  expanded_url=http://www.mediazone.news/index.php/2016/10/31/biggest-star-comesout-trump-matthew-mcconaughey-votes-trump/  url=https://t.co/8tlGL4Xp2W}],
+793454226378817537,false,2780,false,0,0,false,null,[{display_url=bit.ly/2eQrKpY  indices=[88  111]  expanded_url=http://bit.ly/2eQrKpY  url=https://t.co/sDV2qN1cmf}],[{indices=[112  119]  text=Social}]
+793958274924101632,false,160,false,0,0,false,null,[{display_url=fb.me/39mSYUPRC  indices=[78  101]  expanded_url=http://fb.me/39mSYUPRC  url=https://t.co/Ck2mINHhFB}],
+793683858373902336,false,203,false,0,0,false,null,[{display_url=ift.tt/2fsGflP  indices=[78  101]  expanded_url=http://ift.tt/2fsGflP  url=https://t.co/jCinoLKkTt}],
+792694965407277056,false,3126,false,0,1,false,null,[{display_url=ln.is/yiannopoulos.n…  indices=[0  23]  expanded_url=http://ln.is/yiannopoulos.net/Pklu7  url=https://t.co/Mu2WSLiAoc}],
+793785173703745536,false,190,false,0,0,false,null,[{display_url=fb.me/2SWjjcsas  indices=[28  51]  expanded_url=http://fb.me/2SWjjcsas  url=https://t.co/4v15mftJLt}],
+793559586452058112,false,552,false,0,0,false,null,[{display_url=bit.ly/2excT0F  indices=[83  106]  expanded_url=http://bit.ly/2excT0F  url=https://t.co/Zgy1S2FYSR}],[{indices=[107  116]  text=facebook}][{indices=[117  124]  text=social}]
+793805753689706497,false,590,false,1,1,false,null,[{display_url=n.pr/2eRPJFj  indices=[94  117]  expanded_url=https://n.pr/2eRPJFj  url=https://t.co/bDbAxRFDEa}],[{indices=[118  140]  text=StandWithStandingRock}]
+793925784012361728,false,2776,false,0,0,false,null,[{display_url=youtu.be/YonCxvSPkOk  indices=[66  89]  expanded_url=https://youtu.be/YonCxvSPkOk  url=https://t.co/zxQZrDOBv3}],[{indices=[103  110]  text=Social}][{indices=[111  120]  text=American}][{indices=[121  127]  text=Scifi}][{indices=[128  138]  text=Christian}]
+794115429161693184,false,5048,false,0,1,false,null,[{display_url=bit.ly/2fksbpr  indices=[90  113]  expanded_url=http://bit.ly/2fksbpr  url=https://t.co/UGboszYBAg}],
+794537301284159488,false,889,false,0,0,false,null,[{display_url=zpr.io/PtsZa  indices=[98  121]  expanded_url=http://zpr.io/PtsZa  url=https://t.co/V3I1Ytkxri}],[{indices=[122  129]  text=Opines}][{indices=[133  140]  text=Social}]
+793451275698446336,false,50333,false,1,0,false,null,[{display_url=tcrn.ch/2f2lvjb  indices=[88  111]  expanded_url=http://tcrn.ch/2f2lvjb  url=https://t.co/OaZna4Lxqf}],[{indices=[128  135]  text=social}]
+793440030488494080,false,828,false,0,0,false,null,[{display_url=ow.ly/3LFD100nK48  indices=[116  139]  expanded_url=http://ow.ly/3LFD100nK48  url=https://t.co/LhobtQykBU}],
+793922203096072193,false,13,false,0,0,false,null,[{display_url=nbcnews.com/news/us-news/s…  indices=[105  128]  expanded_url=http://www.nbcnews.com/news/us-news/starbucks-new-unity-cup-draws-fire-ahead-election-n676521  url=https://t.co/g0xrEvlPw3}],
+794653491738374145,true,45562,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[97  120]  expanded_url=https://twitter.com/i/web/status/794653491738374145  url=https://t.co/Ufk67Rdo2g}],
+793814770566721536,false,351,false,1,0,false,590,[{display_url=n.pr/2eRPJFj  indices=[111  134]  expanded_url=https://n.pr/2eRPJFj  url=https://t.co/bDbAxRFDEa}],
+794279119630598145,false,397,false,0,0,false,null,,
+794342001495965696,false,88,false,60,0,false,7529,[{display_url=bipartisanreport.com/2016/11/03/bre…  indices=[117  140]  expanded_url=http://bipartisanreport.com/2016/11/03/breaking-trump-announces-devastating-cuts-to-social-security-his-reason-will-make-you-vomit/  url=https://t.co/p34ffMJXYZ}],
+793478376153636864,false,4316,false,1,0,false,114,,
+794710330437943297,false,630,false,0,0,false,null,[{display_url=ln.is/www.infowars.c…  indices=[36  59]  expanded_url=http://ln.is/www.infowars.com/oFlsr  url=https://t.co/iAvDgFXGeB}],
+794622882324348928,false,5396,false,0,0,false,null,[{display_url=ln.is/www.yesimright…  indices=[50  73]  expanded_url=http://ln.is/www.yesimright.com/LMQeV  url=https://t.co/Xcg5T6cvLh}],
+794588374283776000,false,368,false,0,0,false,null,[{display_url=fb.me/2Sn3cqyqs  indices=[43  66]  expanded_url=http://fb.me/2Sn3cqyqs  url=https://t.co/zQ86svAHgE}],
+793881961542606848,false,317,false,0,0,false,null,[{display_url=snopes.com/2016/06/23/don…  indices=[39  62]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/YN6pAZcB7D}],
+793476876069138432,false,114,false,1,5,false,null,,
+794720868563828736,false,192,false,0,0,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[36  59]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/jQ3hEe7hMb}],
+794666987330949120,false,6,false,0,0,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[36  59]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/IU2BVtipHu}],
+793020216330579968,false,1073,false,0,0,false,null,[{display_url=cnn.com.de/news/amish-com…  indices=[105  128]  expanded_url=http://cnn.com.de/news/amish-commit-vote-donald-trump-now-lock-presidency/  url=https://t.co/Q5VcG9r1py}],
+793652672721289216,false,16,false,0,0,false,null,[{display_url=npr.org/sections/thetw…  indices=[110  133]  expanded_url=http://www.npr.org/sections/thetwo-way/2016/11/01/500268879/more-than-a-million-check-in-on-facebook-to-support-the-standing-rock-sioux  url=https://t.co/g03W19Fcv3}],
+794698121691406336,false,6849,false,6,2,false,null,[{display_url=ln.is/www.infowars.c…  indices=[36  59]  expanded_url=http://ln.is/www.infowars.com/dsvYf  url=https://t.co/HKFfnzahys}],
+794666656547176448,false,165,false,0,0,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[36  59]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/Q2V3MZfNV6}],
+794828557788807168,false,112,false,0,0,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[36  59]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/cB7jo8h3Ft}],
+794730438254358528,false,3573,false,0,0,false,null,[{display_url=thehill.com/blogs/blog-bri…  indices=[45  68]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/9lE3jmenB6}],
+794651694332157952,false,2013,false,0,2,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[36  59]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/XLwnGPCwdQ}],
+794730673269592064,false,129,false,0,0,false,null,[{display_url=ln.is/www.infowars.c…  indices=[36  59]  expanded_url=http://ln.is/www.infowars.com/hgdSD  url=https://t.co/vdQlLl45Qf}],
+794718921681145857,false,72,false,0,0,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[36  59]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/21JTegkrGM}],
+794647842073804804,false,0,true,0,0,false,null,[{display_url=fb.me/7HuYQyD7q  indices=[29  52]  expanded_url=http://fb.me/7HuYQyD7q  url=https://t.co/UYMiiC4n7h}],
+793068883783589889,false,74,false,0,2,false,null,,
+794699310759821312,false,235,false,0,0,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[34  57]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/cfBCjteQwo}],
+794790998916218880,false,901,false,0,1,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[36  59]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/QJVO793QQz}],
+793882547306504192,false,317,false,0,0,false,null,[{display_url=snopes.com/2016/06/23/don…  indices=[9  32]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/YN6pAZcB7D}],
+794681895170797568,false,76,true,0,0,false,null,,
+794636072718307328,false,124,false,1,0,false,3384,,
+794720147806289920,false,3179,false,6,0,false,6849,[{display_url=ln.is/www.infowars.c…  indices=[52  75]  expanded_url=http://ln.is/www.infowars.com/dsvYf  url=https://t.co/HKFfnzahys}],
+794648324536233985,false,10935,false,3,0,false,4158,[{display_url=infowars.com/hillary-tied-t…  indices=[53  76]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/XqR3fHcRJW}],
+791789300593680384,false,51,false,0,0,false,null,[{display_url=fb.me/zzf3P2dD  indices=[55  78]  expanded_url=http://fb.me/zzf3P2dD  url=https://t.co/wLg5iQSCEa}],
+793941669934546946,false,4091,false,0,1,false,null,,
+793297500849442816,false,266,false,0,0,false,null,[{display_url=fb.me/YKVyFkhS  indices=[50  73]  expanded_url=http://fb.me/YKVyFkhS  url=https://t.co/MqOzyNXQvC}],
+793912204361764868,false,87,false,0,0,false,null,[{display_url=thegrio.com/2016/11/02/tru…  indices=[66  89]  expanded_url=http://thegrio.com/2016/11/02/trump-lawsuit-rape-13-year-old-girl/  url=https://t.co/GBaON38nC8}],
+793896892186910720,false,22288,false,0,0,false,null,[{display_url=ift.tt/2fiDD51  indices=[66  89]  expanded_url=http://ift.tt/2fiDD51  url=https://t.co/ciwTWTXmHa}],
+794721796536889344,false,39,false,15,0,false,5076,[{display_url=people.com/politics/donal…  indices=[82  105]  expanded_url=http://people.com/politics/donald-trump-rape-lawsuit-accuser-raped-13/  url=https://t.co/3EM8L5wA27}],[{indices=[22  28]  text=Media}][{indices=[64  79]  text=TrumpRapeTrial}]
+794734999996157952,false,805,false,15,0,false,5076,[{display_url=people.com/politics/donal…  indices=[82  105]  expanded_url=http://people.com/politics/donald-trump-rape-lawsuit-accuser-raped-13/  url=https://t.co/3EM8L5wA27}],[{indices=[22  28]  text=Media}][{indices=[64  79]  text=TrumpRapeTrial}]
+794690053012209664,false,6113,false,0,0,false,null,[{display_url=youtube.com/watch?v=ot7Swq…  indices=[80  103]  expanded_url=https://www.youtube.com/watch?v=ot7SwqOu-l8&feature=share  url=https://t.co/HxxpwbsqLH}],
+794721241483636736,false,1414,false,6,0,false,6849,[{display_url=ln.is/www.infowars.c…  indices=[52  75]  expanded_url=http://ln.is/www.infowars.com/dsvYf  url=https://t.co/HKFfnzahys}],
+793926463863095302,false,1488,false,1,1,false,null,[{display_url=thegrio.com/2016/11/02/tru…  indices=[68  91]  expanded_url=http://thegrio.com/2016/11/02/trump-lawsuit-rape-13-year-old-girl/  url=https://t.co/qqyOORcgFC}],
+793904082771668998,false,241,false,0,0,false,null,[{display_url=on.thegrio.com/2fFfx8N  indices=[66  89]  expanded_url=http://on.thegrio.com/2fFfx8N  url=https://t.co/csSK0i9fVB}],
+791675683235852288,false,71,false,2,0,false,53,[{display_url=spinzon.com/biden-blames-l…  indices=[82  105]  expanded_url=http://spinzon.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/BQSZ76T2kE}],[{indices=[68  81]  text=NeverHillary}]
+792005756031643648,false,76,false,0,0,false,null,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[0  23]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/wwfvR5HwTD}],[{indices=[96  110]  text=FridayFeeling}][{indices=[111  125]  text=PodestaEmails}]
+791680222366142468,false,1099,false,0,1,false,null,[{display_url=spinzon.com/biden-blames-l…  indices=[0  23]  expanded_url=http://spinzon.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/wquQtxD1xy}],[{indices=[89  106]  text=VoteTrumpPence16}]
+791648625751449600,false,7863,false,2,0,false,53,[{display_url=spinzon.com/biden-blames-l…  indices=[82  105]  expanded_url=http://spinzon.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/BQSZ76T2kE}],[{indices=[68  81]  text=NeverHillary}]
+791647620485619712,false,53,false,2,1,false,null,[{display_url=spinzon.com/biden-blames-l…  indices=[64  87]  expanded_url=http://spinzon.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/BQSZ76T2kE}],[{indices=[50  63]  text=NeverHillary}]
+794633254716354561,false,35744,false,0,1,false,null,[{display_url=washex.am/2ewqc3H  indices=[70  93]  expanded_url=http://washex.am/2ewqc3H  url=https://t.co/VwE4XRXwxL}],
+794867256262066176,false,558,false,0,0,false,null,[{display_url=fb.me/83ss0JEj5  indices=[84  107]  expanded_url=http://fb.me/83ss0JEj5  url=https://t.co/aT13fRD4UM}],
+794740053335490560,false,65,true,899,0,false,150440,[{display_url=washingtonpost.com/local/educatio…  indices=[76  99]  expanded_url=https://www.washingtonpost.com/local/education/jury-finds-reporter-rolling-stone-responsible-for-defaming-u-va-dean-with-gang-rape-story/2016/11/04/aaf407fa-a1e8-11e6-a44d-cc2898cfab06_story.html  url=https://t.co/ZdH8zwtrj7}],
+792906854435356672,false,525,false,0,1,false,null,[{display_url=snopes.com/amish-trump-pr…  indices=[73  96]  expanded_url=http://www.snopes.com/amish-trump-presidential-victory/  url=https://t.co/zTgJRH7YYW}],[{indices=[0  7]  text=snopes}][{indices=[43  54]  text=mainstream}]
+794866406009565184,false,197,false,0,0,false,null,[{display_url=youtu.be/ot7SwqOu-l8  indices=[72  95]  expanded_url=https://youtu.be/ot7SwqOu-l8  url=https://t.co/22HhuTrFDY}],
+792042345587892224,false,222,false,0,0,false,null,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[17  40]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/?mtcid=cf  url=https://t.co/SpSJsETiNG}],
+794648339203686400,false,200,false,3,0,false,4158,[{display_url=infowars.com/hillary-tied-t…  indices=[53  76]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/XqR3fHcRJW}],
+794720637197701120,false,2271,false,6,0,false,6849,[{display_url=ln.is/www.infowars.c…  indices=[52  75]  expanded_url=http://ln.is/www.infowars.com/dsvYf  url=https://t.co/HKFfnzahys}],
+794720518788235264,false,5809,false,6,0,false,6849,[{display_url=ln.is/www.infowars.c…  indices=[52  75]  expanded_url=http://ln.is/www.infowars.com/dsvYf  url=https://t.co/HKFfnzahys}],
+793796072812544000,false,464,false,0,0,false,null,[{display_url=mediazone.news/index.php/2016…  indices=[112  135]  expanded_url=http://www.mediazone.news/index.php/2016/10/31/biggest-star-comesout-trump-matthew-mcconaughey-votes-trump/  url=https://t.co/yPoULM18zT}],[{indices=[81  87]  text=womem}][{indices=[88  101]  text=independents}][{indices=[102  110]  text=latinos}]
+791972068283875329,false,448,false,0,0,false,null,[{display_url=usanewsflash.com/biden-blames-l…  indices=[73  96]  expanded_url=http://usanewsflash.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/b00fp5yo92}],
+794840712928002048,false,152,false,0,0,false,null,[{display_url=goo.gl/GN6SY2  indices=[68  91]  expanded_url=https://goo.gl/GN6SY2  url=https://t.co/el8kT6vRXE}],
+794852725108379648,false,106,false,0,0,false,null,[{display_url=fb.me/8mGU2mkYU  indices=[84  107]  expanded_url=http://fb.me/8mGU2mkYU  url=https://t.co/VqnGCrQGF8}],
+793903500363231234,false,27,false,0,0,false,null,[{display_url=fb.me/7u6MpimIQ  indices=[66  89]  expanded_url=http://fb.me/7u6MpimIQ  url=https://t.co/oyJAh5dFxO}],
+794653649616060416,false,131,false,0,0,false,null,[{display_url=usanewsflash.com/breaking-depar…  indices=[47  70]  expanded_url=http://usanewsflash.com/breaking-department-homeland-security-chairman-officially-indicts-hillary-clinton-treason/  url=https://t.co/pC3GtbkJsb}],
+793906875150499841,false,72,false,0,0,false,null,[{display_url=fb.me/4Lr3Vf16a  indices=[66  89]  expanded_url=http://fb.me/4Lr3Vf16a  url=https://t.co/37YXTZoESg}],
+793884125736435712,false,1044,false,0,0,false,null,,
+793882991806259200,false,317,false,0,0,false,null,[{display_url=snopes.com/2016/06/23/don…  indices=[63  86]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/YN6pAZcB7D}],
+794780854480470016,false,1062,false,1,0,false,847,[{display_url=snopes.com/2016/11/02/kkk…  indices=[56  79]  expanded_url=http://www.snopes.com/2016/11/02/kkk-newspaper-backs-donald-trump/  url=https://t.co/45dO9OCloC}],
+794201621299245056,false,847,false,1,0,false,null,[{display_url=snopes.com/2016/11/02/kkk…  indices=[38  61]  expanded_url=http://www.snopes.com/2016/11/02/kkk-newspaper-backs-donald-trump/  url=https://t.co/45dO9OCloC}],
+794741500261388288,false,361,false,15,0,false,5076,[{display_url=people.com/politics/donal…  indices=[82  105]  expanded_url=http://people.com/politics/donald-trump-rape-lawsuit-accuser-raped-13/  url=https://t.co/3EM8L5wA27}],[{indices=[22  28]  text=Media}][{indices=[64  79]  text=TrumpRapeTrial}]
+793654491421609984,false,107,false,5,0,false,1891,[{display_url=wp.me/p3oOLm-GNz  indices=[109  132]  expanded_url=http://wp.me/p3oOLm-GNz  url=https://t.co/IiunFsxBYn}],
+794710941489385472,false,89,false,2,2,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[93  116]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/a8UJHz8C2P}],
+794758760677961728,false,212,false,0,0,false,null,,
+794656269483249665,false,80659,false,1,0,false,80659,,[{indices=[57  73]  text=hilliaryclinton}][{indices=[74  82]  text=clinton}][{indices=[83  95]  text=feelthebern}][{indices=[96  101]  text=maga}][{indices=[102  113]  text=TrumpTrain}][{indices=[115  118]  text=rt}]
+794351398439755776,false,384,false,4,0,false,4792,[{display_url=m.youtube.com/watch?v=GuCVm6…  indices=[21  44]  expanded_url=https://m.youtube.com/watch?v=GuCVm6pawIY&feature=youtu.be  url=https://t.co/FdTszocHDa}],[{indices=[60  64]  text=PRO}][{indices=[65  71]  text=TRUMP}][{indices=[95  98]  text=DC}][{indices=[115  121]  text=Media}]
+794270289823727617,false,1850,false,0,0,false,null,[{display_url=mondoweiss.net/2016/11/respon…  indices=[100  123]  expanded_url=http://mondoweiss.net/2016/11/response-conceived-matthews/  url=https://t.co/3p7VYGvHPD}],[{indices=[28  34]  text=Trump}]
+794261851844575233,false,1589,false,1,0,false,1589,,
+793081343940792321,false,10,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+793063716040298497,false,2285,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792846240966778881,false,9,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792783564286861313,false,339,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792782710053933056,false,3745,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792753542524272642,false,609,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792752500176592897,false,1085,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792746388446650373,false,45,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792744838999449600,false,91,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792724224523718656,false,23,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792723135636221952,false,1022,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792604988224569345,false,1772,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792596400924139520,false,143,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792594637873553408,false,119,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792594357828198400,false,494,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792583929534570496,false,57,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792578762055364608,false,9539,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792574316768530432,false,633,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792564647358365696,false,47,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792557262174728193,false,1497,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792551654591574016,false,2245,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792547761195511808,false,1822,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792542848835018752,false,2722,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792541523497934849,false,5658,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792537980741091328,false,1384,false,4,0,false,4916,,[{indices=[71  79]  text=Hillary}][{indices=[122  137]  text=HillarysEmails}]
+792533333859246080,false,45,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792532747667513344,false,298,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792528832456757249,false,1032,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792526277324443649,false,2442,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792524062413168641,false,264,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792522946480930817,false,29,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792521730854006784,false,3935,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792521673765511168,false,2287,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792520476731899904,false,161,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792518607871873024,false,17,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792518536572776449,false,1069,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792516601597730817,false,2835,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511874193498112,false,453,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511792551432192,false,25,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511715300806660,false,355,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511119998930944,false,68,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511015372070913,false,223,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792508359194705920,false,384,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507479510822912,false,681,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792506059906744320,false,1153,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504710779535364,false,60,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792503644440694784,false,2298,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502308101906432,false,325,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502183186935809,false,60,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501684379541504,false,254,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501114390384640,false,478,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501066625581056,false,941,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501040654548993,false,252,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500588873392128,false,311,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500498678976512,false,247,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500314347827200,false,264,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500083778473986,false,83,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499551185739776,false,26,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499541622882304,false,137,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499479920250880,false,24,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499417630797825,false,5357,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792467210098704385,false,4942,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792467197486505984,false,664,false,5,0,false,2534,,[{indices=[69  77]  text=Hillary}][{indices=[117  132]  text=HillarysEmails}]
+792465353909633029,false,5068,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792460923747172353,false,714,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792456815543857156,false,1560,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792452242246729728,false,20061,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792448941560397824,false,1560,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792447257543118849,false,1440,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792444372033810432,false,1564,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792443834042945536,false,16472,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792442430297673728,false,2027,false,5,0,false,2534,,[{indices=[69  77]  text=Hillary}][{indices=[117  132]  text=HillarysEmails}]
+792442396890062848,false,1350,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792440804379721728,false,256,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792432257193549824,false,140,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792429858706038784,false,5427,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792427843862994944,false,624,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792425510739382272,false,338,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792421169454518272,false,537,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792417729588461568,false,792,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792416763283550208,false,1857,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+794676721693978624,false,129,false,0,0,false,null,[{display_url=ln.is/christiantimes…  indices=[77  100]  expanded_url=http://ln.is/christiantimesnewspaper.com/TO0GD  url=https://t.co/mL5iSOBgRV}],
+792848480779669504,false,29,true,0,0,false,null,,
+793576248362532864,false,414,false,0,0,false,null,[{display_url=go.shr.lc/2esBRhJ  indices=[57  80]  expanded_url=http://go.shr.lc/2esBRhJ  url=https://t.co/hlF5yLqexA}],[{indices=[81  87]  text=Trump}][{indices=[88  92]  text=CNN}][{indices=[93  107]  text=Elections2016}][{indices=[108  116]  text=Clinton}][{indices=[117  123]  text=media}][{indices=[124  137]  text=Amerikakiest}]
+791978297630523392,false,1209,false,0,0,false,null,[{display_url=washex.am/2e47VL2  indices=[44  67]  expanded_url=http://washex.am/2e47VL2  url=https://t.co/XBW9yqGHe9}],
+791777145358090247,false,1388,false,5,6,false,null,,
+792727251431354368,false,640,false,3,0,false,492,[{display_url=usuncut.com/resistance/tho…  indices=[82  105]  expanded_url=http://usuncut.com/resistance/thousands-wild-buffalo-appear-nowhere-standing-rock/  url=https://t.co/jMJXKkIUsY}],[{indices=[106  115]  text=pipeline}][{indices=[116  136]  text=NorthDakotaPipeline}]
+793834308515532800,false,98,false,0,0,false,null,[{display_url=ln.is/cwhDC  indices=[77  100]  expanded_url=http://ln.is/cwhDC  url=https://t.co/iG1RNmLaGq}],[{indices=[104  117]  text=ViewFromWise}]
+793814762576547840,false,886,false,0,0,false,null,[{display_url=fb.me/1Cwvvm7a1  indices=[90  113]  expanded_url=http://fb.me/1Cwvvm7a1  url=https://t.co/WXgccCAgrd}],
+793907812531404801,false,4221,false,0,0,false,null,[{display_url=theguardian.com/us-news/2016/o…  indices=[116  139]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit  url=https://t.co/61R0creSvW}],
+793904495683989504,false,147,false,0,0,false,null,[{display_url=po.st/pdlxPR  indices=[76  99]  expanded_url=http://po.st/pdlxPR  url=https://t.co/J4EXFGm9Ll}],
+794840542320488448,false,194,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+794739118894882816,false,2010,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+791321391320670208,false,1722,false,1,2,false,null,[{display_url=reddit.com/r/The_Donald/c…  indices=[101  124]  expanded_url=https://www.reddit.com/r/The_Donald/comments/59ik8s/folks_chelsea_clinton_is_married_to_soros_nephew/  url=https://t.co/GLfSQT4szf}],
+794820544625594368,false,1,false,0,0,false,null,[{display_url=fb.me/8hMePnlB9  indices=[110  133]  expanded_url=http://fb.me/8hMePnlB9  url=https://t.co/4SYBi9AU5D}],
+792918713020350465,false,88,false,0,0,false,null,,[{indices=[105  110]  text=Tcot}][{indices=[111  116]  text=maga}][{indices=[117  132]  text=hillarysemails}][{indices=[133  139]  text=Comey}]
+794716570333446146,false,3076,false,2,2,false,null,[{display_url=tmi.me/1fgjYc  indices=[100  123]  expanded_url=http://tmi.me/1fgjYc  url=https://t.co/v7iT3t6oCp}],
+793385350517366784,false,151,false,0,0,false,null,[{display_url=wakingtimesmedia.com/thousands-buff…  indices=[90  113]  expanded_url=http://wakingtimesmedia.com/thousands-buffalo-appear-site-standing-rock-protest-watch/?utm_source=Waking+Times+Newsletter&utm_campaign=f8f594cc77-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_25f1e048c1-f8f594cc77-33515529  url=https://t.co/o2Vv8wkEU4}],
+793814765437059072,false,722,false,0,0,false,null,[{display_url=fb.me/1AaHEWo7G  indices=[81  104]  expanded_url=http://fb.me/1AaHEWo7G  url=https://t.co/6flALLb5XD}],
+793804086600617984,false,16962,false,0,0,false,null,[{display_url=theguardian.com/us-news/2016/o…  indices=[116  139]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/NN5Id5RXKn}],[{indices=[0  5]  text=News}][{indices=[6  12]  text=Media}][{indices=[13  17]  text=Msm}][{indices=[18  29]  text=pedophiles}][{indices=[53  59]  text=Dec16}][{indices=[63  73]  text=CHILDRAPE}][{indices=[101  115]  text=Elections2016}]
+793936961023025153,false,224,false,1,0,false,7181,[{display_url=po.st/Jme5Em  indices=[92  115]  expanded_url=http://po.st/Jme5Em  url=https://t.co/InN7db4HuK}],
+793922820715712512,false,5798,false,0,0,false,null,[{display_url=on.thegrio.com/2e3fq6q  indices=[70  93]  expanded_url=http://on.thegrio.com/2e3fq6q  url=https://t.co/A0gb156qqR}][{display_url=twitter.com/i/web/status/7…  indices=[109  132]  expanded_url=https://twitter.com/i/web/status/793922820715712512  url=https://t.co/43XA8nQB1q}],[{indices=[94  107]  text=Election2016}]
+793541422360113152,false,15291,false,0,0,false,null,[{display_url=bit.ly/2fBJ7fd  indices=[88  111]  expanded_url=http://bit.ly/2fBJ7fd  url=https://t.co/Uyf7gs0Ixa}],[{indices=[112  117]  text=anti}]
+792469992621170688,false,43,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792466275821903872,false,3126,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792465409475682304,false,1451,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792464331900227585,false,11424,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792464081944924160,false,95,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792457289332588545,false,558,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792455069744689152,false,509,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792454847329021952,false,1434,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792453596344299520,false,3297,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792448516996079616,false,4085,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792446146937360384,false,3289,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792445975344230400,false,4049,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792445701670244352,false,14,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792440257413279744,false,2534,false,5,3,false,null,,[{indices=[53  61]  text=Hillary}][{indices=[101  116]  text=HillarysEmails}]
+792439294791036928,false,3697,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792436555000406016,false,782,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792434286808797184,false,2214,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792432531828187136,false,3709,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792429843514286084,false,1351,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792429330248921088,false,11853,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792427258006732800,false,109,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792425661776457728,false,1901,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792424984165646336,false,232,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792424786165166081,false,181,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792424297805418497,false,6799,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792415705685630976,false,224,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+794123554908438528,false,1589,false,1,0,false,null,[{display_url=youtu.be/yJedQRj1ryc  indices=[101  124]  expanded_url=https://youtu.be/yJedQRj1ryc  url=https://t.co/pi1NDFviZ3}],
+793947634234953728,false,28,false,0,1,false,null,,
+794370606183628808,false,1218,false,0,1,false,null,[{display_url=yesimright.com/chris-matthews…  indices=[94  117]  expanded_url=http://www.yesimright.com/chris-matthews-calls-hillary-pathetic-before-endorsing-trump-on-live-tv-its-happening/  url=https://t.co/leaGYr5zkA}],
+794346202544250880,false,4792,false,4,2,false,null,[{display_url=m.youtube.com/watch?v=GuCVm6…  indices=[0  23]  expanded_url=https://m.youtube.com/watch?v=GuCVm6pawIY&feature=youtu.be  url=https://t.co/FdTszocHDa}],[{indices=[39  43]  text=PRO}][{indices=[44  50]  text=TRUMP}][{indices=[74  77]  text=DC}][{indices=[94  100]  text=Media}]
+792824968845332481,false,113,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792781879057477632,false,691,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792781358540226560,false,6446,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792753076394352640,false,2927,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792670970842677249,false,21,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792594691225186305,false,98,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792584764758827008,false,86,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792574604745248768,false,323,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792552901663129601,false,1308,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792552206939590656,false,387,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792550045937610752,false,304,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792546025282109440,false,63,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792542794552193026,false,567,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792542554168365056,false,39,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792542120494166016,false,158,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792538321406668800,false,79,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792538281468530688,false,525,false,4,0,false,4916,,[{indices=[71  79]  text=Hillary}][{indices=[122  137]  text=HillarysEmails}]
+792527633942777856,false,101,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523521704558596,false,745,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523509327077376,false,263,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523466239008768,false,1126,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523203398676480,false,96,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792521838425350144,false,9,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792520482712985601,false,521,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792519826493345792,false,242,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792519649627893760,false,51,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792515268593455104,false,413,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792514960920150016,false,953,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792514084772077568,false,613,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792513745025105920,false,789,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792513508327981056,false,1599,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792512346195234816,false,2860,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511956049547264,false,346,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511818048692262,false,233,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511774956191744,false,2461,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511699941154816,false,3590,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792510447886925825,false,158,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792508987312857088,false,202,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507815529213952,false,413,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507447831367681,false,247,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792506784351125504,false,83,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792505795644719105,false,1949,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504328892407809,false,357,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792503772132044800,false,746,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501058606075904,false,846,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500986682150912,false,1613,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500860416880640,false,263,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500472863199233,false,111,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500074995552256,false,40,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500050559545344,false,43803,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499804635103232,false,165,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499692714287104,false,127,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499563672195072,false,537,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792488110714081280,false,32,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+794743634411126784,false,2352,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+794789754860609536,false,104,false,0,0,false,null,[{display_url=a.msn.com/01/en-us/AAjUU…  indices=[92  115]  expanded_url=http://a.msn.com/01/en-us/AAjUUez?ocid=st  url=https://t.co/MZaQuALLYT}],
+794736795053236224,false,151,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+791861766909296642,false,359,false,25,0,false,17652,[{display_url=spinzon.com/biden-blames-l…  indices=[104  127]  expanded_url=http://spinzon.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/8Yq48EvVhC}],
+791820948009811968,false,1208,false,25,0,false,17652,[{display_url=spinzon.com/biden-blames-l…  indices=[104  127]  expanded_url=http://spinzon.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/8Yq48EvVhC}],
+794358659098681344,false,1123,false,0,1,false,null,[{display_url=heavy.com/news/2016/11/d…  indices=[112  135]  expanded_url=http://heavy.com/news/2016/11/donald-trump-rape-lawsuit-sue-rape-13-year-old-girl-jeffrey-epstein-jane-doe-katie-johnson-press-conference-lisa-bloom/  url=https://t.co/fE12yLWud0}],
+794358911914622985,false,454,false,4,0,false,4793,[{display_url=m.youtube.com/watch?v=GuCVm6…  indices=[21  44]  expanded_url=https://m.youtube.com/watch?v=GuCVm6pawIY&feature=youtu.be  url=https://t.co/FdTszocHDa}],[{indices=[60  64]  text=PRO}][{indices=[65  71]  text=TRUMP}][{indices=[95  98]  text=DC}][{indices=[115  121]  text=Media}]
+794349040825757697,false,2467,false,4,0,false,4792,[{display_url=m.youtube.com/watch?v=GuCVm6…  indices=[21  44]  expanded_url=https://m.youtube.com/watch?v=GuCVm6pawIY&feature=youtu.be  url=https://t.co/FdTszocHDa}],[{indices=[60  64]  text=PRO}][{indices=[65  71]  text=TRUMP}][{indices=[95  98]  text=DC}][{indices=[115  121]  text=Media}]
+794269788847620096,false,1850,false,3,2,false,null,[{display_url=mondoweiss.net/2016/11/respon…  indices=[88  111]  expanded_url=http://mondoweiss.net/2016/11/response-conceived-matthews/  url=https://t.co/3p7VYGvHPD}],[{indices=[27  33]  text=Trump}]
+793168526848778245,false,4,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792664047393046528,false,465,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792635380239626240,false,621,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792609904645312512,false,243,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792605647476969473,false,495,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792578803927134209,false,3451,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792578281195184128,false,12180,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792576037242580996,false,38,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792566419829329920,false,134,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792559299021111296,false,97,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792558864298184704,false,330,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792545280512159744,false,89,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792535216250318848,false,76,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792533943459262464,false,398,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792530977138540545,false,227,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792530601463119872,false,194,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792524834253275140,false,11,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792522932954230786,false,1398,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792521868033003520,false,736,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792519560171810816,false,162,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792518545749999620,false,19155,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792517439766532096,false,99,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792516305823727616,false,242,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792515826595328000,false,221,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792513680722100225,false,973,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792513124704276480,false,570,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792513018470989824,false,2259,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792512174421860352,false,3566,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792512106218217473,false,474,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511691242213376,false,1093,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511597512167424,false,3289,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511351881015296,false,126,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792510722995392512,false,243,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792509538717040641,false,115,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507278305927169,false,254,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504526951489537,false,1537,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504522505592832,false,94,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504208985579520,false,708,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792503987148685312,false,14,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792503940369690624,false,1558,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792503507068661760,false,271,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502958990643200,false,541,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502944746893313,false,67,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502910001225729,false,8,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502709647732742,false,311,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502289617588225,false,72,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501356808572928,false,85,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501263157956608,false,2268,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501115489091584,false,36,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500344429260801,false,101,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500199063187456,false,133,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500111364456450,false,58,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499446357585920,false,66,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499280481284101,false,589,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792490083358220288,false,154,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792470272846815232,false,1678,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792465077060317184,false,664,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792457734020923393,false,1770,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792453039944716288,false,591,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792450819710853120,false,68,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792439451909812224,false,3063,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792432398587858944,false,530,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792430139627999233,false,2365,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792429781677518848,false,664,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792428973502308352,false,1966,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792425047088521216,false,1814,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792424384799526913,false,1189,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792423733373788161,false,11942,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792417747112189953,false,1681,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792417622528696320,false,7588,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792414954200535040,false,4484,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+793897258999812097,false,7181,false,1,1,false,null,[{display_url=po.st/Jme5Em  indices=[76  99]  expanded_url=http://po.st/Jme5Em  url=https://t.co/InN7db4HuK}],
+792746900747321344,false,19,false,0,0,false,null,,
+794687645309894656,false,755,false,0,0,false,null,,
+794716597436944384,false,57,false,2,0,false,89,[{display_url=infowars.com/hillary-tied-t…  indices=[111  134]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/a8UJHz8C2P}],
+794716774554013696,false,4742,false,2,0,false,3076,[{display_url=tmi.me/1fgjYc  indices=[115  138]  expanded_url=http://tmi.me/1fgjYc  url=https://t.co/v7iT3t6oCp}],
+794633689988792321,false,3339,false,0,0,false,35744,[{display_url=washex.am/2ewqc3H  indices=[84  107]  expanded_url=http://washex.am/2ewqc3H  url=https://t.co/VwE4XRXwxL}],
+794666247036096512,false,227,false,0,1,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[87  110]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/pFKj7zW6ez}],
+794660098031452160,false,2786,false,0,0,false,null,[{display_url=fb.me/7ujjUwizL  indices=[94  117]  expanded_url=http://fb.me/7ujjUwizL  url=https://t.co/dAD7PbZnwb}],
+794753586051694593,false,3369,false,1,0,false,868,,[{indices=[83  93]  text=TrumpRAPE}][{indices=[94  105]  text=TrumpTapes}][{indices=[106  113]  text=debate}][{indices=[115  134]  text=WhyWomenDontReport}]
+793943600409153538,false,797,false,3,3,false,null,[{display_url=inquisitr.com/3670332/donald…  indices=[115  138]  expanded_url=http://www.inquisitr.com/3670332/donald-trump-rape-lawsuit-accuser-who-claimed-trump-raped-her-at-age-13-cancels-press-conference-out-of-fear-lawyer-lisa-bloom-announces/  url=https://t.co/oGfE52TbJN}],[{indices=[0  6]  text=Trump}]
+794373599826182144,false,7414,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[114  137]  expanded_url=https://twitter.com/i/web/status/794373599826182144  url=https://t.co/nI5VcJacGa}],[{indices=[0  6]  text=Media}][{indices=[7  17]  text=Oligarchs}][{indices=[18  28]  text=MegaBanks}][{indices=[32  38]  text=Union}][{indices=[39  46]  text=Occupy}][{indices=[47  51]  text=BLM}]
+793706401864482816,false,491,false,5,0,false,1891,[{display_url=wp.me/p3oOLm-GNz  indices=[109  132]  expanded_url=http://wp.me/p3oOLm-GNz  url=https://t.co/IiunFsxBYn}],
+793655817216065536,false,1198,false,5,0,false,1891,[{display_url=wp.me/p3oOLm-GNz  indices=[109  132]  expanded_url=http://wp.me/p3oOLm-GNz  url=https://t.co/IiunFsxBYn}],
+794660474147065860,false,347,false,1,1,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[87  110]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/RJt3v1ASoD}],
+794721143328481283,false,2389,false,0,0,false,null,[{display_url=infowars.com/hillary-tied-t…  indices=[91  114]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/SvRfWAGMuq}],
+794716371380637696,false,614,false,2,0,false,89,[{display_url=infowars.com/hillary-tied-t…  indices=[111  134]  expanded_url=http://www.infowars.com/hillary-tied-to-bizarre-occult-spirit-cooking-ritual/  url=https://t.co/a8UJHz8C2P}],
+794658241921904645,false,1,true,0,0,false,null,,
+794723323393482752,false,230,false,2,0,false,3076,[{display_url=tmi.me/1fgjYc  indices=[115  138]  expanded_url=http://tmi.me/1fgjYc  url=https://t.co/v7iT3t6oCp}],
+794437183969103872,false,1190,false,0,0,false,null,[{display_url=bizpacreview.com/2016/11/01/wee…  indices=[112  135]  expanded_url=http://www.bizpacreview.com/2016/11/01/week-election-msnbcs-chris-matthews-becomes-overnight-trump-fan-see-clip-blew-internet-407067  url=https://t.co/Tw97ypWY3J}],[{indices=[15  24]  text=MATTHEWS}][{indices=[28  34]  text=MSNBC}]
+793750183674802176,false,1394,false,0,0,false,null,[{display_url=bit.ly/2f0ff8G  indices=[90  113]  expanded_url=http://bit.ly/2f0ff8G  url=https://t.co/Kr0KZfVzvj}],
+793281223195885569,false,227,false,0,0,false,null,[{display_url=wakingtimesmedia.com/thousands-buff…  indices=[90  113]  expanded_url=http://wakingtimesmedia.com/thousands-buffalo-appear-site-standing-rock-protest-watch/  url=https://t.co/l8WstDGxbi}],
+793999856314486785,false,40,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[121  144]  expanded_url=https://twitter.com/i/web/status/793999856314486785  url=https://t.co/5zJrYfpbcC}],
+792774737923485696,false,393,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792756736134307840,false,588,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792703792173215744,false,1704,false,5,0,false,2534,,[{indices=[69  77]  text=Hillary}][{indices=[117  132]  text=HillarysEmails}]
+792703338735366144,false,710,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792672918333456385,false,24,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792584512295178240,false,142,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792581346866581504,false,1059,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792563295123365888,false,886,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792559954829963264,false,28,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792556464652947456,false,715,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792550372011184128,false,341,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792547355773902848,false,578,false,4,0,false,4916,,[{indices=[71  79]  text=Hillary}][{indices=[122  137]  text=HillarysEmails}]
+792527970757902340,false,286,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792527565340770304,false,184,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792526844436373505,false,384,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792525307198734336,false,169,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792524152389439489,false,480,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523681801113600,false,17,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523319597731840,false,453,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523206481489920,false,38,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792522923848429568,false,274,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792522220815998976,false,793,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792519420757147649,false,22,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792516455300464642,false,177,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792516117411532801,false,538,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511629501927424,false,23332,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792510819414241281,false,336,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792509476385525760,false,2712,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792508116126593024,false,2267,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792508058991628288,false,3577,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507837817782274,false,24,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507688785743872,false,10,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792506643313467392,false,5,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792506404414164992,false,54,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792505530187124736,false,67,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504583662759941,false,2673,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502372987645953,false,470,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502014877904896,false,235,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501887157186560,false,305,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501443651514368,false,63,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500838040207360,false,200,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500781979082752,false,92,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500629176393728,false,25,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500574910504964,false,422,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500437589131264,false,2762,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500338636894208,false,11,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500243443179520,false,217,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500235432058880,false,171,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499719947821056,false,206,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499701610188800,false,192,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499695637532672,false,97,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499530088394752,false,27,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792481710029930496,false,266,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792478768514240512,false,1130,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792466302510268416,false,220,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792465431160295424,false,3506,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792458049323610112,false,488,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792453041010057216,false,1563,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792450840791425024,false,1186,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792449056484327424,false,240,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792448536893796352,false,2398,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792448451652956160,false,462,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792448165635035137,false,332,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792448032235073536,false,1168,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792446976604278784,false,39382,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792443081513508865,false,905,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792442914513092608,false,3717,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792439563608207360,false,2247,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792439457680994305,false,17126,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792426065327104000,false,1680,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792425223991668737,false,633,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792424834915561472,false,747,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792424763989843968,false,519,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792424365518270464,false,4854,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792408184488988672,false,132,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792407341626818560,false,27907,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792407066937790464,false,1309,false,423,319,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[107  130]  expanded_url=https://twitter.com/i/web/status/792407066937790464  url=https://t.co/qATOccLAlY}],[{indices=[55  63]  text=Hillary}]
+794735450363752448,false,1573,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+794734983856451584,false,530,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+794734798636019712,false,1097,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+794833891492241408,false,175,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+793850842512326657,false,225,false,0,0,false,null,[{display_url=heavy.com/news/2016/04/d…  indices=[116  139]  expanded_url=http://heavy.com/news/2016/04/donald-trump-jeffrey-epstein-katie-johnson-lawsuit-accused-rape-teen-girl-sex-slave-documents-pdf/  url=https://t.co/CtEo0pmLkG}],
+793959353439186944,false,9461,false,0,0,false,null,[{display_url=ift.tt/2epcEas  indices=[77  100]  expanded_url=http://ift.tt/2epcEas  url=https://t.co/uQkm4EJZ0O}],[{indices=[101  109]  text=lawsuit}]
+793658353092222976,false,293,false,5,0,false,1892,[{display_url=wp.me/p3oOLm-GNz  indices=[109  132]  expanded_url=http://wp.me/p3oOLm-GNz  url=https://t.co/IiunFsxBYn}],
+793653236859273216,false,1891,false,5,3,false,null,[{display_url=wp.me/p3oOLm-GNz  indices=[94  117]  expanded_url=http://wp.me/p3oOLm-GNz  url=https://t.co/IiunFsxBYn}],
+794866326187765764,false,54,false,0,0,false,null,[{display_url=fb.me/81f4jHz1P  indices=[110  133]  expanded_url=http://fb.me/81f4jHz1P  url=https://t.co/ivf8gKuH2H}],
+793546477029031936,false,3698,false,1,2,false,null,[{display_url=thepeoplesview.net/main/2016/11/1…  indices=[94  117]  expanded_url=http://www.thepeoplesview.net/main/2016/11/1/obamacare-still-delivers-affordable-care-its-the-gop-thats-raising-costs#.WBj3RIW-Jew.twitter  url=https://t.co/pt6siWjDxd}],[{indices=[82  93]  text=getcovered}]
+793955336461815808,false,94,false,3,0,false,797,,[{indices=[18  24]  text=Trump}]
+793954297406889984,false,420,false,3,0,false,797,,[{indices=[18  24]  text=Trump}]
+793785320848392193,false,605,false,0,0,false,null,[{display_url=msn.com/en-sg/news/wor…  indices=[105  128]  expanded_url=http://www.msn.com/en-sg/news/world/we-need-to-talk-about-the-child-rape-lawsuit-filed-against-donald-trump/ar-AAi4gRO  url=https://t.co/B3sNf4Y9g9}],
+793905275824521216,false,631,false,0,1,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[97  120]  expanded_url=https://twitter.com/i/web/status/793905275824521216  url=https://t.co/WswrTZRkZu}],[{indices=[0  10]  text=VoteTrump}]
+793882795487662080,false,317,false,0,0,false,null,[{display_url=snopes.com/2016/06/23/don…  indices=[71  94]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/YN6pAZcB7D}],
+794262583192621056,false,4,false,0,1,false,null,,
+794354411803811840,false,4792,false,4,0,false,4792,[{display_url=m.youtube.com/watch?v=GuCVm6…  indices=[21  44]  expanded_url=https://m.youtube.com/watch?v=GuCVm6pawIY&feature=youtu.be  url=https://t.co/FdTszocHDa}],[{indices=[60  64]  text=PRO}][{indices=[65  71]  text=TRUMP}][{indices=[95  98]  text=DC}][{indices=[115  121]  text=Media}]
+791821798866247680,false,3563,false,25,0,false,17652,[{display_url=spinzon.com/biden-blames-l…  indices=[104  127]  expanded_url=http://spinzon.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/8Yq48EvVhC}],
+792554279835987968,false,80,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792552540193845248,false,836,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792543438965239809,false,1764,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792530995937411072,false,402,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792525849660624896,false,506,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792525548312403968,false,180,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792523156464467968,false,4108,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792519626957660160,false,78,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792518925795880960,false,2713,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792517976641658884,false,6076,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792512767580254208,false,4916,false,4,1,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[107  130]  expanded_url=https://twitter.com/i/web/status/792512767580254208  url=https://t.co/BvFleeImwv}],[{indices=[55  63]  text=Hillary}]
+792512624453910529,false,65,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511866459205632,false,800,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792511782552076288,false,2946,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507473319997440,false,54,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792507364331126785,false,722,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792506360751595520,false,245,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792506220309389312,false,186,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504775984222208,false,157,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504608862117888,false,78,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792504406260449280,false,3476,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792503882580504576,false,52,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792503637545218048,false,268,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502715276468224,false,48,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502625472163840,false,2184,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792502031604932609,false,140,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501580889067520,false,89,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501569761652736,false,146,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792501413318230016,false,653,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500905191022592,false,853,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500700789952512,false,499,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500584230379552,false,475,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500421365534720,false,1153,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500322858102784,false,414,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500262111842305,false,262,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792500060017668096,false,234,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499950508793857,false,54,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499868040204288,false,25825,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499741812723716,false,864,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499687257415684,false,90,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499454355968000,false,45,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499442930757632,false,123,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499411146465280,false,257,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792499332716965888,false,60976,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792480741653262336,false,399,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792479041722785792,false,210,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792464904062050304,false,11424,false,5,0,false,2534,,[{indices=[69  77]  text=Hillary}][{indices=[117  132]  text=HillarysEmails}]
+792464579314024449,false,970,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792458983562969088,false,45,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792456168350289920,false,1975,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792455652404817920,false,1583,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792455067957813248,false,2318,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792452744137375747,false,1131,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792441803240644608,false,2905,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792439580045762562,false,8676,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792431862262145024,false,648,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792427006306709504,false,272,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792426833723723776,false,1791,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792425080374472704,false,595,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792419791692627968,false,2518,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792419372472164352,false,420,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792416233102737408,false,938,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792415519597064192,false,47,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792415432795942913,false,104,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792414543360032768,false,7126,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+793119143704657920,false,698,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+793117508878295040,false,2826,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+793116993217974272,false,2365,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792882711023194112,false,139,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792858772305829888,false,778,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792816029026119680,false,505,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792805992408846336,false,1391,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792783786106875904,false,2302,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792768156926287872,false,3,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792727645821730816,false,39,true,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792703175811825664,false,573,false,5,0,false,2534,,[{indices=[69  77]  text=Hillary}][{indices=[117  132]  text=HillarysEmails}]
+792697786470989824,false,35,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792608504011952128,false,841,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792587813313138689,false,407,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792581993510932480,false,2039,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792579800321798148,false,531,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792577575734349824,false,2335,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792575035424866308,false,229,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792572918240772096,false,76,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+792562070730473472,false,811,false,423,0,false,1309,,[{indices=[68  76]  text=Hillary}][{indices=[119  134]  text=HillarysEmails}]
+794647442671144960,false,104,false,0,0,false,null,[{display_url=youtu.be/oSSfA0FqoNQ  indices=[79  102]  expanded_url=https://youtu.be/oSSfA0FqoNQ  url=https://t.co/6KLAxLZ5nG}][{display_url=fb.me/3fl6xWTAG  indices=[103  126]  expanded_url=http://fb.me/3fl6xWTAG  url=https://t.co/qWneFZlcO4}],[{indices=[34  40]  text=Chris}][{indices=[41  50]  text=Matthews}][{indices=[51  60]  text=Endorses}][{indices=[61  68]  text=Donald}][{indices=[72  78]  text=Trump}]
+794372733341679619,false,7414,false,0,0,false,null,[{display_url=tl.gd/n_1sp8t58  indices=[114  137]  expanded_url=http://tl.gd/n_1sp8t58  url=https://t.co/g75M1emj21}],[{indices=[0  6]  text=Media}][{indices=[7  17]  text=Oligarchs}][{indices=[18  28]  text=MegaBanks}][{indices=[32  38]  text=Union}][{indices=[39  46]  text=Occupy}][{indices=[47  51]  text=BLM}][{indices=[52  59]  text=Rojava}]
+794319215813476353,false,276,false,0,0,false,null,[{display_url=dailym.ai/2fmbsC3  indices=[73  96]  expanded_url=http://dailym.ai/2fmbsC3  url=https://t.co/paDVqiNzKD}],
+794729867556352001,false,523,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+794727531329024000,false,144,false,54,0,false,4175,[{display_url=thehill.com/blogs/blog-bri…  indices=[107  130]  expanded_url=http://thehill.com/blogs/blog-briefing-room/news/304456-woman-who-accused-trump-of-rape-drops-lawsuit  url=https://t.co/l0RcLqGVqo}],[{indices=[51  65]  text=TrumpRapeCase}]
+793843333290393601,false,12974,false,0,0,false,null,[{display_url=fb.me/8y7pyMIdG  indices=[114  137]  expanded_url=http://fb.me/8y7pyMIdG  url=https://t.co/IwrSNLd7tq}],
+793126578796523520,false,92,false,0,0,false,null,[{display_url=fb.me/1nFHKByEI  indices=[115  138]  expanded_url=http://fb.me/1nFHKByEI  url=https://t.co/f7hVtB2qsV}],
+794812338218139648,false,597,false,1,0,false,null,,
+794758588153462784,false,1426,false,0,2,false,null,,
+794759633353265152,false,212,false,0,0,false,null,,
+792525528783663104,false,24445,false,4816,0,false,373603,,
+793945939505463297,false,152,false,292,0,false,10456,,
+793945658461863936,false,3230,false,292,0,false,10456,,
+793944492877303809,false,740,false,11,0,false,4091,,
+793943856039399424,false,482,false,292,0,false,10456,,
+793943633325981696,false,354,false,292,0,false,10456,,
+793942754028093441,false,965,false,292,0,false,10456,,
+793941622811721728,false,213,false,11,0,false,4091,,
+793941213426565120,false,382,false,292,0,false,10457,,
+793940702069538816,false,33,false,292,0,false,10456,,
+793939487126589440,false,455,false,292,0,false,10456,,
+793938109343772672,false,344,false,292,0,false,10456,,
+793938068600295424,false,2835,false,292,0,false,10456,,
+793937077046022144,false,2691,false,292,0,false,10456,,
+793936693665484802,false,1147,false,292,0,false,10456,,
+793936174490517504,false,2581,false,292,0,false,10456,,
+793936103850000384,false,132,false,292,0,false,10456,,
+794006043172835328,false,201,false,292,0,false,10457,,
+794004283880443904,false,64,false,292,0,false,10457,,
+793974127652700163,false,1144,true,292,0,false,10456,,
+793972877204672512,false,598,false,292,0,false,10456,,
+793967971186065408,false,1004,false,292,0,false,10456,,
+793965609532813312,false,99,true,292,0,false,10456,,
+793957111243964417,false,1449,false,292,0,false,10456,,
+793956008620007425,false,25,false,292,0,false,10456,,
+793948949312835585,false,886,false,292,0,false,10457,,
+793935131153199105,false,115,false,292,0,false,10456,,
+793935044037328896,false,7530,false,292,0,false,10456,,
+793934643154169859,false,1139,false,292,0,false,10456,,
+793934228639531008,false,2323,false,292,0,false,10456,,
+793934071651074048,false,526,true,292,0,false,10456,,
+793931940453699584,false,144,false,292,0,false,10456,,
+793929200436666372,false,374,false,292,0,false,10456,,
+793928937655107584,false,165,false,3,0,false,5061,,
+793928594892333057,false,857,false,292,0,false,10456,,
+793926482250735617,false,503,false,292,0,false,10456,,
+793925766228516864,false,156,false,292,0,false,10456,,
+793921997319315456,false,378,false,292,0,false,10457,,
+793921272036016128,false,1011,false,292,0,false,10457,,
+793919837256826880,false,275,false,292,0,false,10457,,
+793919562534293504,false,2083,false,7,0,false,10457,,
+793916237025779712,false,131,false,292,0,false,10456,,
+793915288148283392,false,1463,false,292,0,false,10456,,
+793914202373001217,false,314,false,292,0,false,10457,,
+793914023884431360,false,230,false,292,0,false,10457,,
+793913608916738048,false,513,false,292,0,false,10457,,
+793911330780553216,false,5643,false,292,0,false,10457,,
+793909393137991681,false,356,false,292,0,false,10457,,
+793908109877997568,false,269,false,292,0,false,10457,,
+793905038603096064,false,2208,false,292,0,false,10456,,
+793901536246001664,false,1601,false,292,0,false,10456,,
+793900708382654464,false,2055,false,292,0,false,10456,,
+794271055502143488,false,141,false,292,0,false,10456,,
+794171291976626177,false,75,false,292,0,false,10456,,
+793548154536914945,false,394,false,1,0,false,3698,[{display_url=thepeoplesview.net/main/2016/11/1…  indices=[114  137]  expanded_url=http://www.thepeoplesview.net/main/2016/11/1/obamacare-still-delivers-affordable-care-its-the-gop-thats-raising-costs#.WBj3RIW-Jew.twitter  url=https://t.co/pt6siWjDxd}],[{indices=[102  113]  text=getcovered}]
+793166329830371328,false,1509,false,4,0,false,1146,,
+793569790719778816,false,712,false,158,0,false,3711,,
+793565160514260992,false,2564,false,158,0,false,3711,,
+793542788621099008,false,3267,false,158,0,false,3711,,
+793542451659051009,false,4392,false,158,0,false,3711,,
+792898531702996992,false,1296,false,158,0,false,3711,,
+792817269487263744,false,1286,false,158,0,false,3711,,
+792816455511187457,false,1036,false,158,0,false,3711,,
+792815068148793345,false,10831,false,158,0,false,3711,,
+792805266957840385,false,650,false,158,0,false,3711,,
+792803771529109504,false,1193,false,158,0,false,3711,,
+792796332314365952,false,1761,true,158,0,false,3711,,
+792795503486459904,false,407,true,158,0,false,3711,,
+792794686297481217,false,233,false,158,0,false,3711,,
+792794419695005696,false,354,false,158,0,false,3711,,
+792792015666688000,false,1439,true,158,0,false,3711,,
+792783888695177216,false,502,false,158,0,false,3711,,
+792767303578365952,false,2461,false,158,0,false,3711,,
+792765437222281216,false,1724,false,158,0,false,3711,,
+792765379726540800,false,2827,false,158,0,false,3711,,
+792764666350964737,false,1677,false,158,0,false,3711,,
+792762696357781504,false,3430,false,158,0,false,3711,,
+792748027081584641,false,73,false,158,0,false,3711,,
+792747294445539328,false,400,false,158,0,false,3711,,
+792741731938799616,false,630,false,158,0,false,3711,,
+792740703952629761,false,1504,false,158,0,false,3711,,
+793838601289158656,false,77,true,0,0,false,null,[{display_url=politico.com/story/2015/08/…  indices=[120  143]  expanded_url=http://www.politico.com/story/2015/08/hillary-clinton-email-probe-turns-to-huma-121314  url=https://t.co/fFDVMfoXcC}],
+792713235132710912,false,26,true,0,0,false,null,,
+793810313627987968,false,24,false,0,0,false,null,[{display_url=fb.me/Dwasi4WB  indices=[116  139]  expanded_url=http://fb.me/Dwasi4WB  url=https://t.co/XukqfxE1Zr}],
+793288489538359296,false,55,false,1,0,false,899,,
+794293208964435968,false,2112,false,0,1,false,null,[{display_url=nbcnews.com/news/us-news/s…  indices=[108  131]  expanded_url=http://www.nbcnews.com/news/us-news/starbucks-new-unity-cup-draws-fire-ahead-election-n676521  url=https://t.co/y7r8LxugZY}],
+793947242126184448,false,2387,false,5,4,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/793947242126184448  url=https://t.co/cLYjajRmYm}],
+793931341905747969,false,653,false,0,0,false,null,[{display_url=trib.al/apPXY1P  indices=[86  109]  expanded_url=http://trib.al/apPXY1P  url=https://t.co/9yu5IyQajA}],
+791779600854507520,false,612,false,5,0,false,1388,,
+793104011813466113,false,731,false,1,0,false,null,[{display_url=fb.me/7TrtvTzuZ  indices=[117  140]  expanded_url=http://fb.me/7TrtvTzuZ  url=https://t.co/Oor49rofOK}],
+793872789551869952,false,279,true,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793840904251449345,false,26355,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793807636504440833,false,148,false,0,0,false,null,[{display_url=scribd.com/mobile/doc/316…  indices=[96  119]  expanded_url=https://www.scribd.com/mobile/doc/316341058/Donald-Trump-Jeffrey-Epstein-Rape-Lawsuit-and-Affidavits  url=https://t.co/lBUnnAt0YM}],
+793792022909816836,false,45,false,1402,0,false,12881,,[{indices=[40  46]  text=Trump}]
+793895932878319618,false,796,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793887995262693376,false,86,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793886136959692800,false,770,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793883050920718336,false,57670,false,37,15,false,null,[{display_url=theguardian.com/us-news/2016/o…  indices=[99  122]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[73  87]  text=TrumpRapeCase}][{indices=[124  134]  text=UniteBlue}]
+794724568380375040,false,2408,false,3,0,false,2408,,[{indices=[113  120]  text=nashua}][{indices=[121  128]  text=maddow}]
+793758915699834880,false,299,false,1,3,false,null,,
+793743710370598912,false,4691,false,8,0,false,2894,,[{indices=[21  31]  text=TrumpRape}]
+794418613939646464,false,215,false,589,0,false,371480,,
+794234889407184896,false,380,false,2,0,false,2340,,
+794233764779986945,false,2340,false,2,3,false,null,,
+794755210820382721,false,52,false,77,0,false,1300521,[{display_url=vox.com/policy-and-pol…  indices=[116  139]  expanded_url=http://www.vox.com/policy-and-politics/2016/11/3/13501364/trump-rape-13-year-old-lawsuit-katie-johnson-allegation  url=https://t.co/i0JPlqEIge}],
+793565714443624449,false,1113,false,158,0,false,3711,,
+793546319495172096,false,16562,false,158,0,false,3711,,
+793542798981169152,false,4628,false,158,0,false,3711,,
+793541841018814464,false,2471,false,158,0,false,3711,,
+792897970068819969,false,530,false,158,0,false,3711,,
+792845917112205312,false,254,false,158,0,false,3711,,
+792828070801661952,false,692,false,158,0,false,3711,,
+792826069791277057,false,2302,false,158,0,false,3711,,
+792816647425843200,false,2883,false,158,0,false,3711,,
+792815949485256704,false,1194,false,158,0,false,3711,,
+792809977505312768,false,1313,false,158,0,false,3711,,
+792803612908883968,false,443,false,158,0,false,3711,,
+792798867779575808,false,202,true,158,0,false,3711,,
+792796561424191488,false,78,false,158,0,false,3711,,
+792795866746675200,false,3155,false,158,0,false,3711,,
+792795415414448134,false,268,true,158,0,false,3711,,
+792793750162382848,false,16368,false,158,0,false,3711,,
+792785630765785089,false,3591,false,158,0,false,3711,,
+792785205690064896,false,63,false,158,0,false,3711,,
+792782984482918401,false,1331,true,158,0,false,3711,,
+792781166768115712,false,3539,false,158,0,false,3711,,
+792780311729872896,false,113,false,158,0,false,3711,,
+792780007479345156,false,1193,false,158,0,false,3711,,
+792772453198012416,false,239,true,158,0,false,3711,,
+792771461127614464,false,148,false,158,0,false,3711,,
+792771211956584450,false,1195,false,158,0,false,3711,,
+792769275463282688,false,98,true,158,0,false,3711,,
+792769151060283392,false,5790,false,158,0,false,3711,,
+792768983929802753,false,11945,false,158,0,false,3711,,
+792767073764057088,false,2339,false,158,0,false,3711,,
+792765890970300416,false,4921,false,158,0,false,3711,,
+792763741280481281,false,230,false,158,0,false,3711,,
+792751328267231232,false,1439,false,158,0,false,3711,,
+792749472367378436,false,3937,false,158,0,false,3711,,
+792748125639192578,false,269,false,158,0,false,3711,,
+792745758466379777,false,96,false,158,0,false,3711,,
+792740861058519041,false,2875,false,158,0,false,3711,,
+791714152817446912,false,1121,false,1,0,false,1722,[{display_url=reddit.com/r/The_Donald/c…  indices=[115  138]  expanded_url=https://www.reddit.com/r/The_Donald/comments/59ik8s/folks_chelsea_clinton_is_married_to_soros_nephew/  url=https://t.co/GLfSQT4szf}],
+792168407680610304,false,8191,false,2,0,false,1930,,
+793269994637320192,false,3112,false,4,0,false,1908,,[{indices=[49  56]  text=NoDAPL}]
+794711661190008832,false,400,false,70,0,false,16513,,[{indices=[131  136]  text=MAGA}]
+794857531990540289,false,1477,false,1,0,false,597,,
+794116465918021632,false,0,true,0,0,false,null,,
+793982160327671808,false,54,false,0,0,false,null,,
+792824363703754753,false,610,false,2,0,false,1930,,
+791844055424507904,false,483,false,0,1,false,null,,[{indices=[41  51]  text=Obamacare}]
+793079767968997376,false,126,false,0,0,false,null,[{display_url=asheepnomore.net/2016/10/29/tho…  indices=[106  129]  expanded_url=http://asheepnomore.net/2016/10/29/thousands-of-wild-buffalo-appear-at-standing-rock-out-of-nowhere-a-sign-from-mother-earth/  url=https://t.co/GJL13BcR0v}],
+793819680062308352,false,45,true,0,0,false,null,[{display_url=scribd.com/doc/316341058/…  indices=[0  23]  expanded_url=https://www.scribd.com/doc/316341058/Donald-Trump-Jeffrey-Epstein-Rape-Lawsuit-and-Affidavits  url=https://t.co/iUUbeJOia8}],
+793955328895238144,false,824,false,5,0,false,2387,,
+793917650686488576,false,429,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793913163280506882,false,438,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793849917915668480,false,20,false,0,0,false,null,[{display_url=snopes.com/2016/06/23/don…  indices=[109  132]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/sijp9tOLff}],
+793839501374128128,false,449,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793830892657479680,false,1128,false,3,0,false,403,[{display_url=ln.is/vPZvK  indices=[102  125]  expanded_url=http://ln.is/vPZvK  url=https://t.co/CTyotmvp40}],
+793899635358109696,false,1402,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793893131779309568,false,122,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[121  144]  expanded_url=https://twitter.com/i/web/status/793893131779309568  url=https://t.co/aHNzZhC9hl}],
+793890299898716160,false,308,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793888491767631872,false,351,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793886637080121346,false,121,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793885231350636544,false,1603,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793884999334244352,false,4893,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793884551911182341,false,19,true,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793884360646680576,false,73,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+791779076205785088,false,250,false,5,0,false,1388,,
+791778058512457731,false,169,false,5,0,false,1388,,
+793987414742171648,false,334,false,2,0,false,890,,
+793963684896931842,false,890,false,2,2,false,null,,
+793948564560953344,false,51,false,292,0,false,10456,,
+793948460378517504,false,61,false,292,0,false,10456,,
+793947703189323776,false,2252,false,292,0,false,10456,,
+793946312991457280,false,1890,false,11,0,false,4091,,
+793943157486579712,false,1294,false,292,0,false,10456,,
+793942634645422081,false,601,false,292,0,false,10456,,
+793942597865771009,false,783,false,11,0,false,4091,,
+793942470795132932,false,1587,false,11,0,false,4091,,
+793941363410796544,false,918,false,292,0,false,10457,,
+793941178299224064,false,4091,false,11,16,false,null,,
+793940799528570884,false,203,false,292,0,false,10456,,
+793938930076819456,false,3185,false,292,0,false,10456,,
+793938236309520384,false,566,false,292,0,false,10456,,
+794174460110733313,false,207,false,292,0,false,10456,,
+794065262077087744,false,2138,false,292,0,false,10456,,
+794064064183865344,false,2407,false,292,0,false,10456,,
+794047753227800576,false,327,false,292,0,false,10456,,
+794018511567851520,false,234,false,292,0,false,10456,,
+793989026457993216,false,731,false,292,0,false,10456,,
+793984131780714497,false,1632,false,292,0,false,10456,,
+793983507047428100,false,1583,false,292,0,false,10456,,
+793983308732370945,false,622,false,292,0,false,10456,,
+793982858503143424,false,1415,false,292,0,false,10456,,
+793963968683347968,false,983,false,292,0,false,10456,,
+793958996319141888,false,275,true,292,0,false,10456,,
+793956143823343616,false,6,false,292,0,false,10456,,
+793952563053740032,false,3465,false,292,0,false,10456,,
+793949944193290240,false,1615,false,292,0,false,10457,,
+793949619747176448,false,100,true,292,0,false,10457,,
+793937754161868800,false,1062,false,292,0,false,10456,,
+793935945309581313,false,2864,false,292,0,false,10456,,
+793935592740552704,false,1902,false,292,0,false,10456,,
+793935316264464384,false,610,false,292,0,false,10456,,
+793934408147488768,false,359,true,292,0,false,10456,,
+793933546553491456,false,711,true,292,0,false,10456,,
+793933177668583424,false,530,false,292,0,false,10456,,
+793932992561422336,false,682,false,3,0,false,5061,,
+793930397583376385,false,2195,false,292,0,false,10456,,
+793928861163499520,false,196,false,3,0,false,5061,,
+793928376843059201,false,5061,false,3,3,false,null,,
+793927371208491010,false,541,false,292,0,false,10456,,
+793926276125900800,false,105,false,292,0,false,10456,,
+793925765490470912,false,598,false,292,0,false,10456,,
+793923672922669056,false,418,false,292,0,false,10457,,
+793922577064394754,false,142,false,7,0,false,10457,,
+793918888421523456,false,4202,false,292,0,false,10457,,
+793917720697802752,false,10296,false,292,0,false,10456,,
+793917685444833281,false,215,false,292,0,false,10456,,
+793917251908956160,false,2084,false,292,0,false,10456,,
+793916145635966976,false,254,false,292,0,false,10456,,
+793914045371969536,false,149,true,292,0,false,10457,,
+793913630681104387,false,295,false,292,0,false,10457,,
+793913286429474816,false,480,false,292,0,false,10457,,
+793912992827981824,false,876,false,292,0,false,10457,,
+793912881544728576,false,2196,false,292,0,false,10457,,
+793912361832837121,false,1088,false,292,0,false,10457,,
+793907893213007872,false,1427,false,292,0,false,10457,,
+793906519649624064,false,64,true,292,0,false,10456,,
+793906455091044352,false,1450,false,292,0,false,10456,,
+793901907064406016,false,12,true,292,0,false,10456,,
+793901031595704320,false,431,false,292,0,false,10456,,
+793900635796086784,false,4461,false,292,0,false,10456,,
+793899492357459968,false,658,false,292,0,false,10456,,
+791638846073020416,false,80,false,15,0,false,552,,
+794748645312589825,false,1527,false,292,0,false,10456,,
+794283644491702272,false,234,false,292,0,false,10456,,
+794279304339267584,false,5995,false,589,0,false,371480,,
+794250985900097536,false,217,false,589,0,false,371480,,
+794232100392239104,false,2092,false,589,0,false,371479,,
+794548033677463552,false,211,false,589,0,false,371479,,
+794203874936713217,false,151,false,589,0,false,371480,,
+793607354478649344,false,179,false,158,0,false,3711,,
+793549247144681475,false,354,false,158,0,false,3711,,
+793541417750695936,false,10831,false,158,0,false,3711,,
+792815970918158336,false,1369,false,158,0,false,3711,,
+792814727411871744,false,1425,false,158,0,false,3711,,
+792812694680186880,false,1167,false,158,0,false,3711,,
+792806743289892864,false,271,false,158,0,false,3711,,
+792800546470055936,false,3337,false,158,0,false,3711,,
+792797807694450688,false,431,false,158,0,false,3711,,
+792794429300105217,false,6153,false,158,0,false,3711,,
+792793912154873857,false,3976,false,158,0,false,3711,,
+792784663345442816,false,410,true,158,0,false,3711,,
+792783880138940416,false,500,false,158,0,false,3711,,
+792769662702333952,false,339,false,158,0,false,3711,,
+792766928372768768,false,3169,false,158,0,false,3711,,
+792765967336034306,false,1310,false,158,0,false,3711,,
+792756159325229056,false,92,false,158,0,false,3711,,
+792750229871218688,false,656,false,158,0,false,3711,,
+792749039045390337,false,12890,false,158,0,false,3711,,
+792748818877915136,false,698,false,158,0,false,3711,,
+792745364872957952,false,1931,false,158,0,false,3711,,
+792740099481964545,false,110,true,158,0,false,3711,,
+792739577010216960,false,921,false,158,0,false,3711,,
+793943306413576192,false,12,true,292,0,false,10456,,
+793942943497220096,false,314,false,292,0,false,10456,,
+793942922848858113,false,373,false,292,0,false,10456,,
+793942213176610816,false,348,false,292,0,false,10456,,
+793940761741885440,false,580,false,292,0,false,10456,,
+793937830326272000,false,1301,false,292,0,false,10456,,
+793937756921745409,false,118,false,292,0,false,10456,,
+793936731439505408,false,1531,false,292,0,false,10456,,
+793936562169876480,false,38,false,292,0,false,10456,,
+793936347031633920,false,17,false,292,0,false,10456,,
+793935679038308352,false,1356,false,292,0,false,10456,,
+793935392370139136,false,363,true,292,0,false,10456,,
+793934902337028100,false,2551,false,292,0,false,10456,,
+793934413222604800,false,1454,false,292,0,false,10456,,
+793995679660179457,false,5797,false,292,0,false,10456,,
+793989961670344704,false,1708,false,292,0,false,10456,,
+793988973538328580,false,80,false,292,0,false,10456,,
+793988609565192192,false,374,false,292,0,false,10456,,
+793979144619065344,false,820,false,292,0,false,10456,,
+793977871031144448,false,1455,false,292,0,false,10456,,
+793977569150279680,false,1196,false,292,0,false,10456,,
+793967378891702272,false,316,false,292,0,false,10456,,
+793957223567233025,false,2516,false,292,0,false,10456,,
+793953041292677124,false,2728,false,292,0,false,10456,,
+793952867467993088,false,781,false,292,0,false,10456,,
+793949264372080640,false,339,false,292,0,false,10457,,
+793947394593484801,false,3423,false,292,0,false,10456,,
+793947361982566401,false,8343,false,292,0,false,10456,,
+793946704848494592,false,681,false,292,0,false,10456,,
+793946468956733440,false,4860,false,292,0,false,10456,,
+793946457841614848,false,202,false,292,0,false,10456,,
+794749080823996416,false,7832,false,292,0,false,10456,,
+794284518068916224,false,511,false,292,0,false,10456,,
+794283762137714688,false,2007,false,292,0,false,10456,,
+794253166325866496,false,664,false,292,0,false,10456,,
+794195230975102976,false,18,false,292,0,false,10456,,
+794172495670677504,false,2312,false,292,0,false,10456,,
+794141978879553536,false,1654,false,292,0,false,10456,,
+794131955864346624,false,1956,false,292,0,false,10456,,
+794037189252300800,false,48,false,292,0,false,10456,,
+793933126690967552,false,455,false,292,0,false,10456,,
+793932617145909248,false,1253,false,292,0,false,10456,,
+793931385329295360,false,1374,false,292,0,false,10456,,
+793931079610748928,false,754,false,292,0,false,10456,,
+793929480431542272,false,2298,false,292,0,false,10456,,
+793924104122343424,false,122,false,292,0,false,10457,,
+793923050483900416,false,142,false,292,0,false,10457,,
+793921968152031233,false,478,false,292,0,false,10457,,
+793921884983173120,false,891,false,292,0,false,10457,,
+793921063033839616,false,1883,false,292,0,false,10457,,
+793917488950042624,false,341,false,292,0,false,10456,,
+793914966231257092,false,812,false,292,0,false,10456,,
+793914407902441472,false,416,false,292,0,false,10457,,
+793913776445669376,false,799,false,292,0,false,10457,,
+793912099512647681,false,1956,false,292,0,false,10457,,
+793907980345278464,false,1614,false,7,0,false,10457,,
+793907577503420416,false,1614,false,292,0,false,10457,,
+793905758186442752,false,1277,false,7,0,false,10456,,
+793905162075062272,false,17,true,292,0,false,10456,,
+793905125152743424,false,768,false,292,0,false,10456,,
+793899374120230912,false,10456,false,292,187,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/793899374120230912  url=https://t.co/yvjWCi8kWd}],
+793082743156449280,false,1916,false,4,0,false,1146,,
+791869650963488768,false,455,false,5,0,false,1388,,
+793479397156106240,false,39,false,0,0,false,null,[{display_url=fb.me/2NkC5uysa  indices=[117  140]  expanded_url=http://fb.me/2NkC5uysa  url=https://t.co/BagP3CfiSq}],
+792091123611303937,false,382,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/792091123611303937  url=https://t.co/g3xByroXnB}],
+793842013875515392,false,1384,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793841147168731138,false,1995,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793835330461982720,false,960,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793834210461044738,false,4,true,1402,0,false,12881,,[{indices=[40  46]  text=Trump}]
+793830623228076032,false,403,false,3,2,false,null,[{display_url=ln.is/vPZvK  indices=[84  107]  expanded_url=http://ln.is/vPZvK  url=https://t.co/CTyotmvp40}],[{indices=[111  122]  text=CarnacGolf}]
+793828300514656256,false,8686,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793828216410550272,false,1860,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793826815097790469,false,10132,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793886172187467776,false,63,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793884356641103873,false,96,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793883818247786496,false,71,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793883521739698176,false,272,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793864896823820289,false,60,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793899514495049728,false,12181,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793895489171324928,false,138,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793846241155227648,false,456,false,0,0,false,null,,
+792167598498590720,false,4931,false,2,0,false,1930,,
+794760486923468800,false,212,false,0,0,false,null,,
+794649893289631744,false,13,false,1,0,false,232,,
+794782218870661121,false,30,false,77,0,false,1300520,[{display_url=vox.com/policy-and-pol…  indices=[116  139]  expanded_url=http://www.vox.com/policy-and-politics/2016/11/3/13501364/trump-rape-13-year-old-lawsuit-katie-johnson-allegation  url=https://t.co/i0JPlqEIge}],
+793788083112148992,false,303,false,0,0,false,null,[{display_url=theguardian.com/us-news/2016/o…  indices=[117  140]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/G9oD6nlK0i}],[{indices=[37  43]  text=Trump}]
+794392961941458944,false,998,false,589,0,false,371480,,
+794323686195154944,false,209,false,589,0,false,371480,,
+793161082655350786,false,127,false,0,0,false,null,[{display_url=fb.me/8303IXmuF  indices=[104  127]  expanded_url=http://fb.me/8303IXmuF  url=https://t.co/5t4pwwjVus}],
+793565418128539648,false,1731,false,158,0,false,3711,,
+793547149199814657,false,290,false,158,0,false,3711,,
+793546399526772736,false,1215,false,158,0,false,3711,,
+793544783960518657,false,788,false,158,0,false,3711,,
+793544228093562881,false,775,false,158,0,false,3711,,
+793541941463887872,false,483,false,158,0,false,3711,,
+793470711327297540,false,924,false,158,0,false,3711,,
+792826064154267648,false,127,false,158,0,false,3711,,
+792818129655037952,false,664,false,158,0,false,3711,,
+792817607153819649,false,51,false,158,0,false,3711,,
+792817148473159680,false,3354,false,158,0,false,3711,,
+792816448376668160,false,305,false,158,0,false,3711,,
+792801124906635264,false,327,false,158,0,false,3711,,
+792797362888376320,false,464,false,158,0,false,3711,,
+792795114745847808,false,2040,false,158,0,false,3711,,
+792795089298915329,false,287,false,158,0,false,3711,,
+792793675864559616,false,166454,false,158,0,false,3711,,
+792787510032150528,false,4069,false,158,0,false,3711,,
+792787188291211264,false,1159,false,158,0,false,3711,,
+792785969674158081,false,2091,false,158,0,false,3711,,
+792781769267347456,false,961,false,158,0,false,3711,,
+792777898298007554,false,2670,false,158,0,false,3711,,
+792771964469387264,false,513,false,158,0,false,3711,,
+792769972518825984,false,4046,false,158,0,false,3711,,
+792768862517207040,false,353,false,158,0,false,3711,,
+792767772145090560,false,2583,false,158,0,false,3711,,
+792765685357121536,false,928,false,158,0,false,3711,,
+792749808763174913,false,555,false,158,0,false,3711,,
+792749221216657409,false,263,false,158,0,false,3711,,
+792741284184068096,false,201,false,158,0,false,3711,,
+792739430956146694,false,3711,false,158,151,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/792739430956146694  url=https://t.co/4H0qqVu3uJ}],
+793912915854143488,false,55,true,0,0,false,null,[{display_url=snopes.com/clinton-undera…  indices=[116  139]  expanded_url=http://www.snopes.com/clinton-underage-sex-ring/  url=https://t.co/ttU2oThx1j}],
+792970245073833985,false,1573,false,0,2,false,null,,[{indices=[123  135]  text=PatheticCnn}]
+793626175079903232,false,129,false,4,0,false,1908,,[{indices=[49  56]  text=NoDAPL}]
+793323844962443264,false,198,false,4,0,false,1908,,[{indices=[49  56]  text=NoDAPL}]
+793270836597710848,false,1475,false,4,0,false,1908,,[{indices=[49  56]  text=NoDAPL}]
+792166742940348416,false,1930,false,2,5,false,null,[{display_url=eutimes.net/2016/10/russia…  indices=[117  140]  expanded_url=http://www.eutimes.net/2016/10/russia-asks-cia-why-did-hillary-clinton-just-buy-137-million-worth-of-illegal-arms/  url=https://t.co/kFsAmIr5w4}],
+792166440950530049,false,1930,false,2,1,false,null,[{display_url=eutimes.net/2016/10/russia…  indices=[117  140]  expanded_url=http://www.eutimes.net/2016/10/russia-asks-cia-why-did-hillary-clinton-just-buy-137-million-worth-of-illegal-arms/  url=https://t.co/kFsAmIr5w4}],
+794175670003695616,false,324,false,292,0,false,10456,,
+794172101745905664,false,1400,false,292,0,false,10456,,
+794065383443439616,false,78,false,292,0,false,10456,,
+794037126375546880,false,479,false,292,0,false,10456,,
+793995624051982336,false,81,false,292,0,false,10456,,
+793995080185024512,false,500,false,292,0,false,10456,,
+793995030687936513,false,247,false,292,0,false,10456,,
+793979009868517376,false,1040,false,292,0,false,10456,,
+793976505340596224,false,4674,false,292,0,false,10456,,
+793976231607857152,false,1679,false,292,0,false,10456,,
+793970990841819136,false,1379,false,292,0,false,10456,,
+793970617519370241,false,312,false,292,0,false,10456,,
+793962197881737216,false,65,true,292,0,false,10456,,
+793958400107417600,false,442,false,292,0,false,10456,,
+793957881976471552,false,1994,false,292,0,false,10456,,
+793950695061852161,false,1440,false,292,0,false,10456,,
+793949741033738240,false,353,false,292,0,false,10457,,
+793949579972472834,false,521,false,292,0,false,10457,,
+793949213306552321,false,630,false,292,0,false,10457,,
+793949024164290561,false,1701,false,292,0,false,10457,,
+793948575264714753,false,275,false,292,0,false,10456,,
+794797077922344960,false,1616,false,0,0,false,null,,
+793946723181674496,false,34,true,11,0,false,4091,,
+793946664675385345,false,5371,false,292,0,false,10456,,
+793946609449107456,false,1312,false,292,0,false,10456,,
+793945306186612737,false,358,false,292,0,false,10456,,
+793944161409863681,false,1312,true,11,0,false,4091,,
+793944146675462144,false,807,false,292,0,false,10456,,
+793943880534200320,false,235,false,292,0,false,10456,,
+793941782060859392,false,2111,false,11,0,false,4091,,
+793938583073615872,false,365,false,292,0,false,10456,,
+793937991517532161,false,1601,false,292,0,false,10456,,
+793937894251659264,false,293,false,292,0,false,10456,,
+793937779671658500,false,906,false,292,0,false,10456,,
+793937476410671104,false,1766,false,292,0,false,10456,,
+793937260739723264,false,149,false,292,0,false,10456,,
+793937005063217156,false,306,false,292,0,false,10456,,
+793936647280885761,false,854,false,292,0,false,10456,,
+793936341834887172,false,8484,false,292,0,false,10456,,
+793935983062482944,false,4438,false,292,0,false,10456,,
+793935895250485249,false,946,false,292,0,false,10456,,
+793931817048866817,false,93,false,292,0,false,10456,,
+793928790137139201,false,1173,false,292,0,false,10456,,
+793927724263837696,false,337,false,292,0,false,10456,,
+793926490467471364,false,64,false,292,0,false,10456,,
+793925104522510336,false,1192,false,292,0,false,10456,,
+793924666868043777,false,91,false,292,0,false,10456,,
+793923580840902656,false,342,false,292,0,false,10457,,
+793923346547273729,false,741,false,292,0,false,10457,,
+793921296308572160,false,71,false,292,0,false,10457,,
+793920926094135301,false,819,false,292,0,false,10457,,
+793919685569970176,false,264,false,292,0,false,10457,,
+793917961769713666,false,2492,false,292,0,false,10456,,
+793917526539309056,false,2455,false,292,0,false,10456,,
+793916707320365056,false,1104,false,292,0,false,10456,,
+793916559601373184,false,1455,false,292,0,false,10456,,
+793907420925919234,false,57,false,292,0,false,10457,,
+793904468651708417,false,8132,false,7,0,false,10456,,
+793903847211143168,false,1004,false,292,0,false,10456,,
+793903827044958210,false,438,false,292,0,false,10456,,
+793902981250969601,false,10456,false,7,6,false,null,[{display_url=huffingtonpost.com/entry/donald-t…  indices=[116  139]  expanded_url=http://www.huffingtonpost.com/entry/donald-trump-rape-case_us_581a31a5e4b0c43e6c1d9834  url=https://t.co/dNUzOt4GdM}],
+793902545080958976,false,459,false,292,0,false,10456,,
+793899777322782720,false,324,false,292,0,false,10456,,
+793899652747702276,false,1606,false,292,0,false,10456,,
+792001167916171264,false,279,false,0,1,false,null,[{display_url=fb.me/87Jesa5nU  indices=[115  138]  expanded_url=http://fb.me/87Jesa5nU  url=https://t.co/9TybBY5qX6}],
+793965197178314752,false,120,false,2,0,false,890,,
+794324393405116416,false,10977,false,589,0,false,371480,,
+794226924889354240,false,449,false,589,0,false,371480,,
+794220260266119168,false,934,false,589,0,false,371480,,
+794548712441716736,false,69,false,589,0,false,371479,,
+794730362559549440,false,42,false,0,0,false,null,[{display_url=politico.com/story/2016/11/…  indices=[116  139]  expanded_url=http://www.politico.com/story/2016/11/donald-trump-rape-lawsuit-dropped-230770  url=https://t.co/xchoDTuVqC}],[{indices=[88  94]  text=Trump}][{indices=[110  114]  text=HRC}]
+794724935264587776,false,1152,false,3,0,false,2408,,[{indices=[113  120]  text=nashua}][{indices=[121  128]  text=maddow}]
+791869221319811072,false,577,false,5,0,false,1388,,
+793884610413285376,false,622,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793883832168701952,false,528,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793875707201859584,false,179,false,2,0,false,602,[{display_url=snopes.com/2016/06/23/don…  indices=[106  129]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/ggvvxJ789I}],
+793870680769036288,false,129,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793861652248535040,false,602,false,2,2,false,null,[{display_url=snopes.com/2016/06/23/don…  indices=[91  114]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/ggvvxJ789I}],
+793828341165936640,false,2247,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793827351037636608,false,666,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793815430372524032,false,2775,false,1,1,false,null,[{display_url=msn.com/en-sg/news/wor…  indices=[0  23]  expanded_url=http://www.msn.com/en-sg/news/world/we-need-to-talk-about-the-child-rape-lawsuit-filed-against-donald-trump/ar-AAi4gRO  url=https://t.co/JKKPoRFd7T}],
+793950900427640833,false,5532,false,5,0,false,2387,,
+793947332513447936,false,275,false,5,0,false,2387,,
+793919199345143808,false,56,false,1402,0,false,12881,,[{indices=[40  46]  text=Trump}]
+793910670429327360,false,3,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793902624219099136,false,2894,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793902207468904448,false,81,false,0,0,false,null,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/LFTwdB3KLf}],
+793900994245500928,false,1044,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793894845525786624,false,17,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793892646687109120,false,31,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793891995861213184,false,125,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+791769675373776896,false,2,true,0,0,false,null,,
+793267786717868032,false,1908,false,4,12,false,null,,[{indices=[36  43]  text=NoDAPL}]
+792826239325122560,false,1163,false,158,0,false,3711,,
+792821212556562432,false,255,false,158,0,false,3711,,
+792820699341524992,false,1073,false,158,0,false,3711,,
+792818668015005696,false,562,false,158,0,false,3711,,
+792817665593212928,false,875,false,158,0,false,3711,,
+792817093863350273,false,3652,false,158,0,false,3711,,
+792808051619147776,false,1416,false,158,0,false,3711,,
+792802989580746752,false,401,true,158,0,false,3711,,
+792797416718229505,false,169,false,158,0,false,3711,,
+792797362724954113,false,343,false,158,0,false,3711,,
+792794192879628288,false,13490,false,158,0,false,3711,,
+792780285196771328,false,1571,false,158,0,false,3711,,
+792779810854559744,false,9825,false,158,0,false,3711,,
+792776836480659456,false,1663,false,158,0,false,3711,,
+792775098403028992,false,5256,false,158,0,false,3711,,
+792772571435524096,false,5136,false,158,0,false,3711,,
+792772207130869760,false,1732,false,158,0,false,3711,,
+792769496096407552,false,1596,false,158,0,false,3711,,
+792768091105161217,false,3341,false,158,0,false,3711,,
+792764602006147074,false,454,false,158,0,false,3711,,
+792764483986870272,false,5366,false,158,0,false,3711,,
+792754598792626177,false,589,false,158,0,false,3711,,
+792749136277823488,false,234,false,158,0,false,3711,,
+792745546868031488,false,1765,false,158,0,false,3711,,
+792744117612740612,false,1814,false,158,0,false,3711,,
+792739954216542208,false,1395,false,158,0,false,3711,,
+793881418342526976,false,106,false,0,0,false,null,[{display_url=fb.me/8bZLGbGiZ  indices=[117  140]  expanded_url=http://fb.me/8bZLGbGiZ  url=https://t.co/wz0Y39Bw0J}],
+793546792256147458,false,4786,false,158,0,false,3711,,
+793542660229300228,false,262,false,158,0,false,3711,,
+793019674984263680,false,2770,false,158,0,false,3711,,
+793011719777976324,false,7637,false,158,0,false,3711,,
+793011174958694400,false,2458,false,158,0,false,3711,,
+791993685248442369,false,708,false,0,0,false,null,,
+794721111690924032,false,709,false,70,0,false,16513,,[{indices=[131  136]  text=MAGA}]
+794756103607373828,false,212,false,0,0,false,null,,
+793941793184194561,false,1081,false,11,0,false,4091,,
+793941382352146432,false,1050,false,292,0,false,10457,,
+793940922207604736,false,2843,false,292,0,false,10456,,
+793940255468449792,false,450,false,292,0,false,10457,,
+793939924391227392,false,98,false,292,0,false,10457,,
+793939527416983552,false,113,false,292,0,false,10456,,
+793938164989722624,false,496,false,292,0,false,10456,,
+793938148317216768,false,156,false,292,0,false,10456,,
+793937428440457216,false,1596,true,292,0,false,10456,,
+793937287381798912,false,538,false,292,0,false,10456,,
+793936577735127041,false,318,false,292,0,false,10456,,
+793936460541853696,false,1976,false,292,0,false,10456,,
+793936408004018176,false,277,false,292,0,false,10456,,
+793933588014108672,false,2672,false,292,0,false,10456,,
+793933383369900033,false,7378,false,292,0,false,10456,,
+793929423238074368,false,2000,false,292,0,false,10456,,
+793927688821977088,false,620,false,292,0,false,10456,,
+793926227543224320,false,252,false,292,0,false,10456,,
+793925410098528257,false,173,false,292,0,false,10456,,
+793924350625939456,false,19598,false,292,0,false,10456,,
+793923407939272704,false,1392,false,292,0,false,10457,,
+793923311629529089,false,2412,false,292,0,false,10457,,
+793923060344635392,false,271,false,292,0,false,10457,,
+793921319125532673,false,919,false,292,0,false,10457,,
+793921024936984576,false,94,false,292,0,false,10457,,
+793919415750361088,false,1611,false,292,0,false,10457,,
+793918937419374592,false,175,false,292,0,false,10457,,
+793917781771096064,false,971,false,292,0,false,10456,,
+793913360219836416,false,293,false,7,0,false,10457,,
+793913135975387137,false,1861,false,292,0,false,10457,,
+793911038693482499,false,103,true,292,0,false,10457,,
+793903424718897152,false,123,false,7,0,false,10456,,
+793900017396441093,false,1115,false,292,0,false,10456,,
+793899712218820613,false,221,false,292,0,false,10456,,
+793971027336253440,false,45,true,292,0,false,10456,,
+793969921692549121,false,29,false,292,0,false,10456,,
+793951572992528384,false,5749,false,292,0,false,10456,,
+793950602719989760,false,730,false,292,0,false,10456,,
+793950004192956417,false,588,false,292,0,false,10457,,
+793948750892806144,false,6,false,292,0,false,10457,,
+793947497303539712,false,546,false,292,0,false,10456,,
+793947466487824384,false,448,false,292,0,false,10456,,
+793945602488868864,false,637,false,292,0,false,10456,,
+793944672133582856,false,527,false,292,0,false,10456,,
+793943467323891712,false,652,false,292,0,false,10456,,
+793942449777278976,false,92,false,11,0,false,4091,,
+793942360379920384,false,112,false,292,0,false,10456,,
+794181940484001792,false,1451,false,292,0,false,10456,,
+794168434930098176,false,223,false,292,0,false,10456,,
+794061523995889664,false,259,false,292,0,false,10456,,
+793999860588421121,false,2174,false,292,0,false,10457,,
+793996614973132800,false,228,false,292,0,false,10456,,
+793992022696792066,false,271,false,292,0,false,10456,,
+793104999282712579,false,59,false,1,0,false,731,,
+793943319952887808,false,85,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793918550796795905,false,245,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793911620741120000,false,105,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793910718227546112,false,161,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/793910718227546112  url=https://t.co/pLB8Tw9vgK}],
+793860192072982529,false,240,false,0,0,false,null,[{display_url=snopes.com/2016/06/23/don…  indices=[92  115]  expanded_url=http://www.snopes.com/2016/06/23/donald-trump-rape-lawsuit/  url=https://t.co/2Wr8Zj9dMl}],[{indices=[29  34]  text=news}]
+793847352150941696,false,383,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793841111068475392,false,48633,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793840546410299392,false,153,false,10,5,false,null,[{display_url=ln.is/jPy6Y  indices=[84  107]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[111  120]  text=JAMSRIDE}]
+793831328877797376,false,890,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793828487920574464,false,14202,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793827746996625408,false,1338,false,1474,0,false,25521,[{display_url=nydailynews.com/news/national/…  indices=[113  136]  expanded_url=http://www.nydailynews.com/news/national/lawsuit-accusing-trump-raping-girl-13-december-hearing-article-1.2828413  url=https://t.co/z7h2qypnpC}],
+793897091500216320,false,74,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793895242554564608,false,301,false,3,0,false,403,[{display_url=ln.is/vPZvK  indices=[102  125]  expanded_url=http://ln.is/vPZvK  url=https://t.co/CTyotmvp40}],
+793889169684561920,false,761,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793886954303721472,false,116,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793886073394860032,false,701,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793886020659924992,false,165,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793885515485327360,false,2688,false,37,0,false,57670,[{display_url=theguardian.com/us-news/2016/o…  indices=[115  138]  expanded_url=https://www.theguardian.com/us-news/2016/oct/12/donald-trump-jeffrey-epstein-alleged-rape-lawsuit?CMP=share_btn_tw  url=https://t.co/rT4nYs79q6}],[{indices=[89  103]  text=TrumpRapeCase}]
+793863453597429760,false,1392,false,10,0,false,153,[{display_url=ln.is/jPy6Y  indices=[102  125]  expanded_url=http://ln.is/jPy6Y  url=https://t.co/X8mur9IzRh}],[{indices=[129  138]  text=JAMSRIDE}]
+793863162218938368,false,497,false,41,0,false,4294,,[{indices=[22  42]  text=OnlyAcceptableToday}]
+792073286821810176,true,1670,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/792073286821810176  url=https://t.co/Dk2EXrknfe}],
+794181642386542592,false,1,true,0,0,false,null,,
+791718283007275008,false,17664,false,0,1,false,null,[{display_url=sports.yahoo.com/news/report-ti…  indices=[76  99]  expanded_url=http://sports.yahoo.com/news/report-tiger-woods-president-obama-golf-trip-cost-almost-4-million-155852279.html?soc_src=social-sh&soc_trk=tw  url=https://t.co/VgLsCBkVa1}],[{indices=[135  140]  text=tcot}]
+791685882466209792,false,358,false,1,1,false,null,[{display_url=viralliberty.com/biden-blames-l…  indices=[117  140]  expanded_url=http://viralliberty.com/biden-blames-lazy-american-women-economy-sit-around-nothing-hillary-can-force-work/  url=https://t.co/SPjkGwkHgx}],
+791677863481126912,false,629,false,0,0,false,null,[{display_url=endingthefed.com/biden-blames-l…  indices=[111  134]  expanded_url=http://endingthefed.com/biden-blames-lazy-american-women-for-the-economy-they-sit-around-doing-nothing-only-hillary-can-force-them-to-work.html  url=https://t.co/nVS50vdZKT}],
+792712019463983104,false,577,false,0,0,false,null,[{display_url=fb.me/949qQ1e9b  indices=[97  120]  expanded_url=http://fb.me/949qQ1e9b  url=https://t.co/KbyWzalVuv}],
+791643351971827712,false,730,true,15,0,false,552,,
+791640949046870016,false,1068,false,15,0,false,552,,
+794277315089829888,false,13633,false,589,0,false,371480,,
+794256078586265600,false,48,false,0,0,false,null,,
+794234767646392320,false,715,false,2,0,false,2340,,
+794227793856905216,false,476,false,589,0,false,371480,,
+794684059909660672,false,710,false,589,0,false,371480,,
+794748515578683392,false,18458,false,77,0,false,1300521,[{display_url=vox.com/policy-and-pol…  indices=[116  139]  expanded_url=http://www.vox.com/policy-and-politics/2016/11/3/13501364/trump-rape-13-year-old-lawsuit-katie-johnson-allegation  url=https://t.co/i0JPlqEIge}],
+794742139930472453,false,504,false,0,0,false,null,[{display_url=linkis.com/us.blastingnew…  indices=[113  136]  expanded_url=http://linkis.com/us.blastingnews.com/iggOb  url=https://t.co/leVTCw4Pfe}],

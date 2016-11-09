@@ -1,0 +1,166 @@
+blm millbury
+id, verified, followers_count,default_profile_image, retweet_count, favorites_count,retweeted, followers_count_original, urls, hashtags
+792054681212256256,false,1377,false,0,1,false,null,[{display_url=twitter.com/telegramdotcom…  indices=[58  81]  expanded_url=https://twitter.com/telegramdotcom/status/792052394376982528  url=https://t.co/0ugvJrEcgC}],
+792495455531827200,false,9,false,0,0,false,null,,[{indices=[0  9]  text=Millbury}]
+792798312151732224,false,377,false,0,0,false,null,[{display_url=cbsloc.al/2f6qX0S  indices=[66  89]  expanded_url=http://cbsloc.al/2f6qX0S  url=https://t.co/DXNtOmw5G5}],[{indices=[90  94]  text=blm}]
+792896774084104192,false,1809,false,11,0,false,548225,,
+792895644247715840,false,153,false,11,0,false,548225,,
+792861417858674688,false,1693,false,7,0,false,548225,,
+792512182105808896,true,20668,false,10,8,false,null,[{display_url=cbsloc.al/2emGbPD  indices=[108  131]  expanded_url=http://cbsloc.al/2emGbPD  url=https://t.co/oy8VUvscTM}],
+792446959017537536,false,1307,false,0,0,false,null,[{display_url=fb.me/46hn4r1HZ  indices=[115  138]  expanded_url=http://fb.me/46hn4r1HZ  url=https://t.co/eWH32jFMVJ}],
+792894023119798272,false,762,false,11,0,false,548225,,
+792892487085981696,false,2031,false,11,0,false,548225,,
+792831462965903360,false,705,false,0,0,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[92  115]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/aLF41ybgvj}],[{indices=[0  6]  text=ICYMI}][{indices=[87  91]  text=BLM}][{indices=[116  119]  text=p2}][{indices=[120  125]  text=tiot}]
+792071978710503424,false,4360,false,1,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[99  122]  expanded_url=https://twitter.com/i/web/status/792071978710503424  url=https://t.co/gTkyqB6MJR}],
+793101500713168897,true,548225,false,4,0,false,null,[{display_url=bos.gl/5zXmVvz  indices=[103  126]  expanded_url=http://bos.gl/5zXmVvz  url=https://t.co/P7oCWmBKIU}],
+793087658805325824,false,700,false,0,0,false,null,[{display_url=washingtonpost.com/news/morning-m…  indices=[103  126]  expanded_url=https://www.washingtonpost.com/news/morning-mix/wp/2016/10/31/a-cops-wife-tried-to-pin-a-burglary-on-blm-police-say/  url=https://t.co/OWRcCLyA6W}],
+792892572037296128,false,5503,false,11,0,false,548225,,
+792861137981280256,false,100,true,7,0,false,548225,,
+792860698011328512,false,732,false,7,0,false,548225,,
+793102897768792064,false,486,false,4,0,false,548225,,
+793101836093952001,false,4,true,4,0,false,548225,,
+792909530879393793,false,92,false,11,0,false,548225,,
+792893109264932864,false,175,false,11,0,false,548225,,
+792893056609640448,false,2985,false,11,0,false,548225,,
+792863436111740928,false,28,false,7,0,false,548225,,
+792860298050957321,false,568,false,7,0,false,548225,,
+792860163678015488,true,548225,false,7,4,false,null,[{display_url=bos.gl/JoDrrtp  indices=[104  127]  expanded_url=http://bos.gl/JoDrrtp  url=https://t.co/irf53IeSHM}],
+793103868938838017,false,313,false,4,0,false,548225,,
+793101806024986624,false,13831,false,0,0,false,null,[{display_url=bos.gl/5zXmVvz  indices=[116  139]  expanded_url=http://bos.gl/5zXmVvz  url=https://t.co/N1C5HCJmCV}],
+792910909320654848,false,304,false,7,0,false,548225,,
+792897007866220544,false,187,false,11,0,false,548225,,
+792892481184468992,false,1088,false,11,0,false,548225,,
+792892428604833793,false,9,false,11,0,false,548225,,
+792892355909124097,true,548225,false,11,6,false,null,[{display_url=bos.gl/i7Mk8Hs  indices=[110  133]  expanded_url=http://bos.gl/i7Mk8Hs  url=https://t.co/a4Rm3F5RbI}],
+792865522186608640,false,1665,false,7,0,false,548225,,
+792860736439590912,false,13831,false,0,0,false,null,[{display_url=bos.gl/JoDrrtp  indices=[116  139]  expanded_url=http://bos.gl/JoDrrtp  url=https://t.co/rpwhyvhSFp}],
+792512722193690624,false,246,false,10,0,false,20668,,
+792512477313560577,false,144,false,10,0,false,20668,,
+792467369645989888,false,7568,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792426380545753088,false,149,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792384206013763584,false,72,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792351381784973313,false,833,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792349177485201409,false,3725,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792346486419750912,false,2098,false,2,0,false,860,,[{indices=[108  112]  text=BLM}]
+792117262551572480,false,122,false,4,0,false,7087,,
+793185962721280000,false,339,false,0,0,false,null,[{display_url=bit.ly/2f1XUiF  indices=[113  136]  expanded_url=http://bit.ly/2f1XUiF  url=https://t.co/aGxRfrEQBH}],
+792513128781131776,false,838,false,10,0,false,20668,,
+792416055494795264,false,144,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792404452904960000,false,130,false,0,0,false,null,[{display_url=cbsloc.al/2dRds93  indices=[111  134]  expanded_url=http://cbsloc.al/2dRds93  url=https://t.co/JESea45qgQ}],
+792365099696521217,false,30,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792363446805393408,false,271,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792354484953292800,false,75,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792350768024195073,false,84,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792349728273002496,false,710,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792348806306107392,true,15036,false,18,28,false,null,[{display_url=cbsloc.al/2dQSasr  indices=[84  107]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792339036568289280,false,639,false,6,0,false,10435,,
+792331137041461248,false,1233,false,6,0,false,10435,,
+793726674911301632,false,297,false,0,0,false,null,[{display_url=fb.me/1q6u77Maw  indices=[111  134]  expanded_url=http://fb.me/1q6u77Maw  url=https://t.co/C5ivi8VMi9}],
+792602203286495232,false,719,false,0,0,false,null,[{display_url=majestic-peanut.tumblr.com/post/152496062…  indices=[104  127]  expanded_url=http://majestic-peanut.tumblr.com/post/152496062653/unbossed-ntbx-congratulations-you-played  url=https://t.co/NkXdWYhuDa}],[{indices=[72  76]  text=BLM}][{indices=[88  93]  text=Liar}][{indices=[94  103]  text=StayWoke}]
+792588653470027776,false,97,false,10,0,false,20668,,
+792468122020163584,false,133,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792420912129646592,false,555,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792380635763671040,true,5604,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792367401463640064,false,29,false,6,0,false,10435,,
+792366022623977476,true,3747,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792351525766959105,false,434,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792349562165927937,true,6245,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792349547586617344,false,229,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792347080299773953,false,758,false,2,0,false,860,,[{indices=[108  112]  text=BLM}]
+792308336507097089,false,860,false,2,1,false,null,[{display_url=whdh.com/news/police-mi…  indices=[110  133]  expanded_url=http://whdh.com/news/police-millbury-officers-wife-faked-break-in-vandalism-of-own-home/  url=https://t.co/8BCQN0mBQP}],[{indices=[93  97]  text=BLM}]
+792076009898184705,false,596,false,4,0,false,7087,,
+793181717490241537,false,53,false,0,0,false,null,[{display_url=telegram.com/news/20161020/…  indices=[110  133]  expanded_url=http://telegram.com/news/20161020/millbury-police-investigate-break-in-graffiti-at-officers-house  url=https://t.co/f2jmXs2OO7}],[{indices=[19  23]  text=BLM}]
+792523232226205696,false,40,false,6,0,false,10435,,
+792516407342751744,false,573,false,10,0,false,20668,,
+792411235908222977,false,1563,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792408978689064961,false,143,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792408822904000513,false,7159,false,11,4,false,null,[{display_url=cbsloc.al/2dRgjii  indices=[117  140]  expanded_url=http://cbsloc.al/2dRgjii  url=https://t.co/S9fQE7wWuq}],[{indices=[18  22]  text=BLM}]
+792394938508075008,false,105,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792328996969144320,false,10435,false,6,6,false,null,[{display_url=buff.ly/2fq8Nf1  indices=[115  138]  expanded_url=http://buff.ly/2fq8Nf1  url=https://t.co/lPHf8UY9CM}],
+792319464033452032,false,207,false,0,0,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[109  132]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/2o4PydgcUq}],[{indices=[98  108]  text=SmartNews}]
+792137193166807040,false,38,false,0,0,false,null,,
+792120515653763072,false,122,false,0,1,false,null,,[{indices=[132  136]  text=BLM}]
+792899300992745472,false,735,false,0,1,false,null,[{display_url=turtleboysports.com/millbury-cops-…  indices=[96  119]  expanded_url=http://turtleboysports.com/millbury-cops-wife-who-lied-about-burglary-spray-painted-blm-on-her-home-messaged-us-to-complain-the-chief-was-not-investigating-her-lies/  url=https://t.co/COPTj20407}],
+792520582948466688,false,643,false,10,0,false,20668,,
+792519085984665601,false,3014,false,10,0,false,20668,,
+792515999924940800,true,11320,false,10,0,false,20668,,
+792513841397661696,false,65,false,10,0,false,20668,,
+792494823945166853,false,9,false,0,0,false,null,,[{indices=[0  9]  text=Millbury}]
+792476079004979200,false,118,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792418447384805377,false,496,false,11,0,false,7159,,[{indices=[32  36]  text=BLM}]
+792401715827843074,false,538,false,6,0,false,10435,,
+792391021053214720,false,390,false,4,0,false,7087,,
+792381896420233217,false,1179,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792357412409864193,false,103,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792349944342581248,false,100,false,18,0,false,15036,[{display_url=cbsloc.al/2dQSasr  indices=[101  124]  expanded_url=http://cbsloc.al/2dQSasr  url=https://t.co/8wlX0rfQIJ}],
+792333879352827904,false,520,false,1,0,false,4360,,
+792330775521857536,false,529,false,6,0,false,10435,,
+792096848706170881,false,302,false,4,0,false,7087,,
+792075969699975168,false,7087,false,4,8,false,null,[{display_url=turtleboysports.com/millbury-cops-…  indices=[113  136]  expanded_url=http://turtleboysports.com/millbury-cops-wife-who-lied-about-burglary-spray-painted-blm-on-her-home-messaged-us-to-complain-the-chief-was-not-investigating-her-lies/  url=https://t.co/B2Mean7lJU}],
+793480120241680384,false,125,false,0,0,false,null,[{display_url=theodysseyonline.com/millbury-woman…  indices=[10  33]  expanded_url=https://www.theodysseyonline.com/millbury-woman-commits-robbery-home-blames-blm  url=https://t.co/NyNmRTSQam}],[{indices=[0  9]  text=Millbury}]
+792732988521975809,false,662,false,0,0,false,null,[{display_url=fb.me/8e6fHpaul  indices=[21  44]  expanded_url=http://fb.me/8e6fHpaul  url=https://t.co/Xv6tNwXF4B}],
+792392550371958784,false,628,false,3,0,false,3025,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[69  92]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/iRRY1awdy2}],
+792385758623571972,true,3025,false,3,0,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[51  74]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/iRRY1awdy2}],
+792113055471513601,false,10903,false,1,0,false,640,[{display_url=telegram.com/news/20161028/…  indices=[95  118]  expanded_url=http://www.telegram.com/news/20161028/millbury-police-chief-officers-wife-fabricated-story-of-break-in  url=https://t.co/C22xIwj4NX}],
+792034454420226048,true,74401,false,2,0,false,null,[{display_url=trib.al/UHibRmn  indices=[110  133]  expanded_url=http://trib.al/UHibRmn  url=https://t.co/PBscWiZAkk}],
+792402635181522944,false,109,false,0,1,false,null,[{display_url=google.com/amp/boston.cbs…  indices=[64  87]  expanded_url=https://www.google.com/amp/boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/amp/?client=safari  url=https://t.co/RaqC3WN8mR}],[{indices=[39  56]  text=BlackLivesMatter}][{indices=[57  61]  text=blm}]
+792392280598581248,false,935,false,3,0,false,3025,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[69  92]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/iRRY1awdy2}],
+792669403263348736,false,398,false,0,0,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[30  53]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/8ZbHKN62Pn}][{display_url=twitter.com/tariqnasheed/s…  indices=[59  82]  expanded_url=https://twitter.com/tariqnasheed/status/792381089473966081  url=https://t.co/2a7Oa4NjMI}],[{indices=[54  58]  text=blm}]
+792650802745737220,false,1746,false,0,0,false,null,[{display_url=fb.me/1DDAyferb  indices=[49  72]  expanded_url=http://fb.me/1DDAyferb  url=https://t.co/tM3CQhrvJE}],
+792400221707927552,false,1197,false,3,0,false,3025,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[69  92]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/iRRY1awdy2}],
+792110010864021504,false,640,false,1,1,false,null,[{display_url=telegram.com/news/20161028/…  indices=[80  103]  expanded_url=http://www.telegram.com/news/20161028/millbury-police-chief-officers-wife-fabricated-story-of-break-in  url=https://t.co/C22xIwj4NX}],
+793474888380002304,false,202,false,0,0,false,null,[{display_url=fb.me/5zNZCmpei  indices=[80  103]  expanded_url=http://fb.me/5zNZCmpei  url=https://t.co/gP6q3zscWB}],[{indices=[0  6]  text=Trump}][{indices=[46  54]  text=Hillary}][{indices=[57  61]  text=God}][{indices=[62  66]  text=BLM}][{indices=[67  79]  text=socialmedia}]
+794372733341679619,false,7414,false,0,0,false,null,[{display_url=tl.gd/n_1sp8t58  indices=[114  137]  expanded_url=http://tl.gd/n_1sp8t58  url=https://t.co/g75M1emj21}],[{indices=[0  6]  text=Media}][{indices=[7  17]  text=Oligarchs}][{indices=[18  28]  text=MegaBanks}][{indices=[32  38]  text=Union}][{indices=[39  46]  text=Occupy}][{indices=[47  51]  text=BLM}][{indices=[52  59]  text=Rojava}]
+792445527824531456,false,138,false,0,0,false,null,[{display_url=google.com/amp/boston.cbs…  indices=[116  139]  expanded_url=https://www.google.com/amp/boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/amp/?client=safari  url=https://t.co/g02DhLH9tf}],[{indices=[22  26]  text=Cop}][{indices=[43  51]  text=robbery}][{indices=[53  62]  text=pretends}][{indices=[69  80]  text=vandalized}]
+794373599826182144,false,7414,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[114  137]  expanded_url=https://twitter.com/i/web/status/794373599826182144  url=https://t.co/nI5VcJacGa}],[{indices=[0  6]  text=Media}][{indices=[7  17]  text=Oligarchs}][{indices=[18  28]  text=MegaBanks}][{indices=[32  38]  text=Union}][{indices=[39  46]  text=Occupy}][{indices=[47  51]  text=BLM}]
+792036362908147712,false,112,false,2,0,false,74401,,
+792034634049609728,false,245,true,2,0,false,74401,,
+792922606034911236,false,75,false,0,0,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[109  132]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/SXzXxPvrWq}],
+792789572342001664,false,42,false,1,0,false,26870,,[{indices=[86  90]  text=BLM}]
+792479622801743872,false,379,false,0,2,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[117  140]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/9EmeG5retf}],[{indices=[99  116]  text=BlackLivesMatter}]
+792459380809543680,false,135,false,5,0,false,163,,
+792868458266554372,false,406,false,2,0,false,4165,,
+792289063654920193,false,1935,true,0,1,false,null,[{display_url=eutimes.net/2016/10/russia…  indices=[117  140]  expanded_url=http://www.eutimes.net/2016/10/russia-asks-cia-why-did-hillary-clinton-just-buy-137-million-worth-of-illegal-arms/  url=https://t.co/QPS0UHsycb}],
+792688056172249092,false,766,false,2,0,false,4165,,
+792418201296637954,false,15117,false,32,28,false,null,[{display_url=google.com/amp/boston.cbs…  indices=[112  135]  expanded_url=https://www.google.com/amp/boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/amp/?client=safari  url=https://t.co/bEIDoR7xlQ}],
+792394957042642944,false,38,false,0,0,false,null,[{display_url=cbsloc.al/2f2SDng  indices=[108  131]  expanded_url=http://cbsloc.al/2f2SDng  url=https://t.co/6dErYszovD}],
+793063821803921408,false,82,false,0,0,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[105  128]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/5SFdtve82F}],[{indices=[99  103]  text=BLM}]
+792458860216803328,false,790,false,5,0,false,163,,
+792783539368370178,false,26870,false,1,3,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[117  140]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/amp/  url=https://t.co/qkXJaYQ25G}],[{indices=[69  73]  text=BLM}]
+792598943377022976,false,2005,false,0,0,false,null,[{display_url=cbsloc.al/2emGbPD  indices=[101  124]  expanded_url=http://cbsloc.al/2emGbPD  url=https://t.co/epR5XE66yy}],
+792458110027780097,false,1194,false,5,0,false,163,,
+792409955038998528,false,663,false,0,1,false,null,[{display_url=wp.me/pgc8v-3fTz  indices=[113  136]  expanded_url=http://wp.me/pgc8v-3fTz  url=https://t.co/TgS61VE1mV}],[{indices=[107  111]  text=BLM}]
+792466113212874752,false,42,false,5,0,false,163,,
+792457861976641538,false,163,false,5,1,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[102  125]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/  url=https://t.co/sR5hYsfCJr}],
+792687390938791936,false,4165,false,2,1,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/792687390938791936  url=https://t.co/1OoHIWLeN7}],
+792612946564227072,false,24,true,32,0,false,15117,,
+792497261053825024,false,101,false,32,0,false,15117,,
+792440539245322240,false,657,false,32,0,false,15117,,
+792438480278286336,false,226,false,32,0,false,15117,,
+792438187922747392,false,862,false,32,0,false,15117,,
+792432022593556480,false,312,false,32,0,false,15117,,
+792491664627630080,false,20,false,32,0,false,15117,,
+792438208642637824,false,130,false,32,0,false,15117,,
+792435710280273920,false,977,false,32,0,false,15117,,
+792463015794864128,false,79,false,32,0,false,15117,,
+792438770905800705,false,2131,false,32,0,false,15117,,
+792434091702489089,false,1701,false,32,0,false,15117,,
+792432803036135425,false,809,false,32,0,false,15117,,
+792757270836834304,false,1473,false,32,0,false,15117,,
+792739634442678274,false,18,false,32,0,false,15117,,
+792482071914516481,false,360,false,32,0,false,15117,,
+792439414500696064,false,420,false,32,0,false,15117,,
+792438090841415680,true,21250,false,32,0,false,15117,,
+792422684294426624,false,107,false,32,0,false,15117,,
+792421372039266304,false,265,false,32,0,false,15117,,
+792419902883786753,false,490,false,32,0,false,15117,,
+792736789286952960,false,412,false,32,0,false,15117,,
+792728027956408324,false,58,false,32,0,false,15117,,
+792716290087538688,false,1983,false,32,0,false,15117,,
+792483277902798848,false,205,false,32,0,false,15117,,
+792483045127237632,false,116,false,32,0,false,15117,,
+792449611281620992,false,66,false,32,0,false,15117,,
+792443526340567040,false,1447,false,32,0,false,15117,,
+792440224798441473,false,126,false,32,0,false,15117,,
+792427490807513088,false,855,false,32,0,false,15117,,
+792419320395509760,false,1178,false,32,0,false,15117,,

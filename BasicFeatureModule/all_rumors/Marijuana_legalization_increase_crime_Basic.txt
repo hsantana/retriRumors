@@ -1,0 +1,383 @@
+Marijuana legalization increase crime
+id, verified, followers_count,default_profile_image, retweet_count, favorites_count,retweeted, followers_count_original, urls, hashtags
+791735643126788096,false,1974,false,0,1,false,null,[{display_url=ln.is/www.denverpost…  indices=[67  90]  expanded_url=http://ln.is/www.denverpost.com/2/leobe  url=https://t.co/8A18DXM7PU}],
+791731710325039104,false,1974,false,0,0,false,null,[{display_url=ln.is/www.denverpost…  indices=[67  90]  expanded_url=http://ln.is/www.denverpost.com/2/dLMq2  url=https://t.co/4Ci3XD602x}],
+793444346452254720,false,26,false,0,0,false,null,,
+792011250905473024,false,111,false,0,0,false,null,[{display_url=eutimes.net/2016/10/russia…  indices=[23  46]  expanded_url=http://www.eutimes.net/2016/10/russia-asks-cia-why-did-hillary-clinton-just-buy-137-million-worth-of-illegal-arms/  url=https://t.co/w9SAFptgOl}],
+793733101826351104,false,527,false,0,0,false,null,,
+793735694980157444,false,139,false,2,1,false,null,[{display_url=yournewswire.com/michelle-obama…  indices=[0  23]  expanded_url=http://yournewswire.com/michelle-obama-deletes-hillary-clinton-twitter/  url=https://t.co/lMJrOZhH7b}],
+793769182286450688,false,28,false,0,0,false,null,,
+794616248017580033,false,307,false,0,0,false,null,,
+792737839402381313,false,121,false,0,1,false,null,,
+793457205660020736,false,18,false,0,0,false,null,,[{indices=[116  130]  text=POL101SML2016}]
+792384021737066496,false,1118,false,0,0,false,null,,[{indices=[46  56]  text=Minnesota}][{indices=[88  98]  text=Obamacare}]
+793184400603123712,false,1,true,0,0,false,null,,
+793076141078769666,false,297,false,0,0,false,null,[{display_url=cnbc.com/2016/10/28/hal…  indices=[50  73]  expanded_url=http://www.cnbc.com/2016/10/28/half-of-obamacare-customers-cut-back-on-care-to-manage-costs-study-says.html  url=https://t.co/DIWVcn7Sn1}],[{indices=[4  8]  text=DPC}]
+791819408402448384,false,9,false,0,0,false,null,,
+791818596905279488,false,45,false,0,0,false,null,,
+794736839542378496,false,2848,false,0,0,false,null,[{display_url=breitbart.com/big-journalism…  indices=[91  114]  expanded_url=http://www.breitbart.com/big-journalism/2016/11/02/law-expert-donna-brazile-clinton-campaign-may-committed-federal-crime/  url=https://t.co/gsjt9Ps4V6}],
+793797255140696064,false,78,false,2,0,false,139,[{display_url=yournewswire.com/michelle-obama…  indices=[16  39]  expanded_url=http://yournewswire.com/michelle-obama-deletes-hillary-clinton-twitter/  url=https://t.co/lMJrOZhH7b}],
+792010774810157057,false,111,false,0,0,false,null,[{display_url=fb.me/1D7pvT4ER  indices=[55  78]  expanded_url=http://fb.me/1D7pvT4ER  url=https://t.co/HYCWMYWqOL}],
+794683810193559557,false,17,false,0,0,false,null,,
+793614013141815296,false,418,true,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+793149835910193153,false,2932,false,0,0,false,null,[{display_url=ln.is/punchingbagpos…  indices=[116  139]  expanded_url=http://ln.is/punchingbagpost.com/UBzDK  url=https://t.co/UQcpSPTE1S}],
+793919302709583873,false,2352,false,2,0,false,3551,,[{indices=[12  28]  text=WednesdayWisdom}][{indices=[29  39]  text=USEconomy}][{indices=[95  105]  text=Obamacare}]
+791638297164382210,false,2626,false,1,1,false,null,[{display_url=politico.com/story/2016/10/…  indices=[114  137]  expanded_url=http://www.politico.com/story/2016/10/trump-obamacare-employees-230284  url=https://t.co/oPHlzl8y1j}],
+794665065995763712,false,3226,false,0,1,false,null,[{display_url=newscats.org/2016/11/04/wow…  indices=[45  68]  expanded_url=http://www.newscats.org/2016/11/04/wow-hillary-should-be-shot-by-firing-squad-says-former-fbi-asst-director/  url=https://t.co/wiiWVIOqOa}],[{indices=[110  124]  text=HillarysEmail}][{indices=[125  139]  text=Clintons4Jail}]
+793910066550165504,false,89,false,0,0,false,null,[{display_url=patheos.com/blogs/progress…  indices=[60  83]  expanded_url=http://www.patheos.com/blogs/progressivesecularhumanist/2016/11/louisiana-supreme-court-priests-dont-have-to-report-child-abuse/  url=https://t.co/eFH0npJzpW}],
+792576064195170305,false,46,true,0,0,false,null,[{display_url=eutimes.net/2016/10/russia…  indices=[70  93]  expanded_url=http://www.eutimes.net/2016/10/russia-asks-cia-why-did-hillary-clinton-just-buy-137-million-worth-of-illegal-arms/  url=https://t.co/oTtW28LQaJ}],
+794681874153086977,false,773,false,0,0,false,null,[{display_url=bit.ly/2fvUHcH  indices=[91  114]  expanded_url=http://bit.ly/2fvUHcH  url=https://t.co/587e2TBQ4H}],
+792746891415003136,false,1327,false,3,4,false,null,[{display_url=newpatriotsblog.com/news/the-clint…  indices=[94  117]  expanded_url=http://www.newpatriotsblog.com/news/the-clinton-mezvinksy-connection/  url=https://t.co/hORIWQZD9O}],
+793745597740220416,false,139,false,2,0,false,139,[{display_url=yournewswire.com/michelle-obama…  indices=[16  39]  expanded_url=http://yournewswire.com/michelle-obama-deletes-hillary-clinton-twitter/  url=https://t.co/lMJrOZhH7b}],
+793240760200024064,false,1556,false,1,0,false,3746,[{display_url=wec.punchingbagnews.com/t/2550466/4882…  indices=[116  139]  expanded_url=http://wec.punchingbagnews.com/t/2550466/48829688/615029/1001/  url=https://t.co/W0IKcwXNpT}],
+793222510984691712,false,3746,false,1,0,false,null,[{display_url=wec.punchingbagnews.com/t/2550466/4882…  indices=[100  123]  expanded_url=http://wec.punchingbagnews.com/t/2550466/48829688/615029/1001/  url=https://t.co/W0IKcwXNpT}],
+793202182287831040,false,1366,false,0,0,false,null,[{display_url=punchingbagpost.com/after-massive-…  indices=[100  123]  expanded_url=http://punchingbagpost.com/after-massive-cost-increase-obamacare-architect-says-the-healthcare-system-is-working-as-designed  url=https://t.co/uiaraeyVgC}],
+793171410218733569,false,1207,false,0,3,false,null,[{display_url=twitter.com/realdonaldtrum…  indices=[104  127]  expanded_url=https://twitter.com/realdonaldtrump/status/793167761509851137  url=https://t.co/UThteQGA5f}],
+792740291073671168,false,9,false,0,0,false,null,,
+792388616815251457,false,9,false,0,0,false,null,,
+791662640925843457,false,162,false,0,0,false,null,[{display_url=12news.com/news/local/ari…  indices=[50  73]  expanded_url=http://www.12news.com/news/local/arizona/obamacare-in-arizona-less-options-increase-cost/341720903  url=https://t.co/A8LT5aFUTd}],
+793916607412080640,false,3551,false,2,1,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/793916607412080640  url=https://t.co/yPEA5rMJSH}],[{indices=[0  16]  text=WednesdayWisdom}][{indices=[17  27]  text=USEconomy}][{indices=[83  93]  text=Obamacare}]
+793614390079594496,false,120,false,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+793501891783041025,false,5052,false,1,0,false,null,[{display_url=wsj.com/articles/insid…  indices=[112  135]  expanded_url=http://www.wsj.com/articles/inside-the-affordable-care-acts-arizona-meltdown-1477925051  url=https://t.co/9G7PWzQL5j}],[{indices=[19  29]  text=Obamacare}][{indices=[82  89]  text=health}][{indices=[90  98]  text=insurer}][{indices=[100  111]  text=getcovered}]
+793305877570842625,false,3638,false,0,0,false,null,,[{indices=[16  23]  text=MADAME}][{indices=[42  52]  text=OBAMACARE}][{indices=[89  93]  text=PBO}]
+791694089657790464,false,21,false,0,1,false,null,,
+793617229464166400,false,16,true,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+793616563614146563,true,6409,false,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+793614238522761216,false,450,false,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+793473003086573568,false,157,false,0,0,false,null,,[{indices=[101  111]  text=Wikileaks}]
+791820115771883520,false,45,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[103  126]  expanded_url=https://twitter.com/i/web/status/791820115771883520  url=https://t.co/mGkhgwpjSR}],
+791694844053848065,false,7361,false,0,0,false,null,[{display_url=instagram.com/p/BMEy_vcDNnr/  indices=[96  119]  expanded_url=https://www.instagram.com/p/BMEy_vcDNnr/  url=https://t.co/fX4IydLtck}],
+791671029307506688,false,667,false,2,0,false,null,[{display_url=foxnews.com/politics/2016/…  indices=[91  114]  expanded_url=http://www.foxnews.com/politics/2016/10/26/obamacare-premium-hikes-fuel-trump-gop-case-in-key-swing-states.html  url=https://t.co/7QFSdWp7pz}],[{indices=[76  89]  text=NeverHillary}]
+791647277047685120,false,1156,false,1,0,false,2626,,
+794223512386842624,false,55,false,0,0,false,null,,
+793806888899006464,false,427,false,0,3,false,null,,
+793618320423550977,false,26,false,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+793613852436987904,true,77286,false,8,8,false,null,,[{indices=[30  36]  text=Trump}][{indices=[37  50]  text=TrumpPence16}][{indices=[80  90]  text=Obamacare}][{indices=[101  105]  text=FBI}][{indices=[123  131]  text=Hillary}]
+793502542705532928,false,1485,false,1,0,false,5052,,[{indices=[34  44]  text=Obamacare}][{indices=[97  104]  text=health}][{indices=[105  113]  text=insurer}][{indices=[115  126]  text=getcovered}]
+792020827575357441,true,38659,false,9,3,false,null,[{display_url=twitter.com/GOPHELP/status…  indices=[108  131]  expanded_url=https://twitter.com/GOPHELP/status/792020589867393025  url=https://t.co/OuzzOFvWXP}],[{indices=[0  10]  text=Tennessee}][{indices=[11  21]  text=Obamacare}]
+791676255674347521,false,190,false,2,0,false,667,[{display_url=foxnews.com/politics/2016/…  indices=[108  131]  expanded_url=http://www.foxnews.com/politics/2016/10/26/obamacare-premium-hikes-fuel-trump-gop-case-in-key-swing-states.html  url=https://t.co/7QFSdWp7pz}],[{indices=[93  106]  text=NeverHillary}]
+791672328350408704,false,537,false,2,0,false,667,[{display_url=foxnews.com/politics/2016/…  indices=[108  131]  expanded_url=http://www.foxnews.com/politics/2016/10/26/obamacare-premium-hikes-fuel-trump-gop-case-in-key-swing-states.html  url=https://t.co/7QFSdWp7pz}],[{indices=[93  106]  text=NeverHillary}]
+791650064909369345,false,4491,false,0,0,false,null,,
+793841721113059328,false,1239,false,1911,0,false,51149,,
+793710027563339776,false,9628,false,1911,0,false,51150,,
+793540855902662657,false,3116,false,1911,0,false,51150,,
+793530599902285824,false,566,false,1911,0,false,51150,,
+793504233337319424,false,154,false,1911,0,false,51150,,
+793476979206950912,false,5198,false,1911,0,false,51150,,
+793469352938987520,false,56,false,1911,0,false,51150,,
+793466790173143041,false,1157,true,1911,0,false,51150,,
+791988495103369216,false,830,false,8,0,false,11295,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[105  128]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[129  137]  text=hillary}]
+794714974958583808,false,130,false,307,0,false,262186,,[{indices=[86  100]  text=DrainTheSwamp}][{indices=[101  116]  text=CrookedHillary}][{indices=[117  131]  text=PodestaEmails}]
+794858584865505280,false,3059,false,1473,0,false,122127,[{display_url=bit.ly/2fvUHcH  indices=[108  131]  expanded_url=http://bit.ly/2fvUHcH  url=https://t.co/5vblOaZYeK}],
+794767528710926336,false,322,false,125,0,false,32746,,
+794766811975872513,false,316,false,125,0,false,32746,,
+794765316211507200,false,621,false,125,0,false,32746,,
+794764454516977664,false,1263,false,125,0,false,32746,,
+794866025833578496,false,5546,false,125,0,false,32746,,
+794861874533703680,false,228,false,125,0,false,32746,,
+794857376268554240,false,2678,false,125,0,false,32746,,
+794841097629552644,false,614,false,125,0,false,32746,,
+794840809992556544,false,4391,false,125,0,false,32746,,
+794839765396819968,false,307,false,125,0,false,32746,,
+794803652741328896,false,810,false,125,0,false,32746,,
+794796579664359425,false,2989,false,125,0,false,32746,,
+794786035041443840,false,2253,false,125,0,false,32746,,
+794785536187727872,false,204,false,125,0,false,32746,,
+794783725934387200,false,951,false,125,0,false,32746,,
+794782013379051521,false,5772,false,125,0,false,32746,,
+794775131776319488,false,2142,false,125,0,false,32746,,
+794773843386699776,false,84,false,125,0,false,32746,,
+794772025126502401,false,2355,false,125,0,false,32746,,
+794771256394518528,false,779,false,125,0,false,32746,,
+794769885683445760,false,257,false,125,0,false,32746,,
+794769629977673728,false,843,false,125,0,false,32746,,
+794769432048373761,false,832,false,125,0,false,32746,,
+794769253077577729,false,4614,false,125,0,false,32746,,
+794768619460816896,false,669,false,125,0,false,32746,,
+791839974836477952,false,428,false,1,3,false,null,,[{indices=[87  97]  text=ObamaCare}][{indices=[113  134]  text=LetUsPickOurOwnPlans}]
+791757163098206208,false,4696,false,9,5,false,null,[{display_url=ln.is/thehill.com/po…  indices=[102  125]  expanded_url=http://ln.is/thehill.com/policy/h/mX9yU  url=https://t.co/GG2lz016Zv}],[{indices=[126  136]  text=UNITEBLUE}]
+791649685085704192,false,768,false,0,0,false,null,[{display_url=twitter.com/JrcheneyJohn/s…  indices=[87  110]  expanded_url=https://twitter.com/JrcheneyJohn/status/791440447755268097  url=https://t.co/Mlma508VIW}],
+793579447702155265,false,7128,false,0,0,false,null,[{display_url=punchingbagpost.com/after-massive-…  indices=[100  123]  expanded_url=http://punchingbagpost.com/after-massive-cost-increase-obamacare-architect-says-the-healthcare-system-is-working-as-designed  url=https://t.co/WWbSSJ2wQc}],
+793255322135646208,false,1524,false,0,3,false,null,[{display_url=twitter.com/realdonaldtrum…  indices=[81  104]  expanded_url=https://twitter.com/realdonaldtrump/status/793167761509851137  url=https://t.co/IL0vCwzENa}],
+792450564697255936,false,9,false,0,0,false,null,,
+793918155022155776,false,3621,false,2,0,false,3551,,[{indices=[12  28]  text=WednesdayWisdom}][{indices=[29  39]  text=USEconomy}][{indices=[95  105]  text=Obamacare}]
+793877816496447488,false,13,false,0,0,false,null,,
+793634174552961025,false,570,false,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+793618342741286912,false,44,false,8,0,false,77286,,[{indices=[45  51]  text=Trump}][{indices=[52  65]  text=TrumpPence16}][{indices=[95  105]  text=Obamacare}][{indices=[116  120]  text=FBI}]
+794730547138494464,false,37,false,0,0,false,null,,
+792863300589617153,false,67,false,0,0,false,null,[{display_url=fb.me/1unpFpRsn  indices=[116  139]  expanded_url=http://fb.me/1unpFpRsn  url=https://t.co/R1OnLFe91Y}],
+793786062728376324,false,265,false,1911,0,false,51149,,
+793712059460362240,false,345,false,1911,0,false,51150,,
+793681856801669120,false,673,false,1911,0,false,51149,,
+793476904393199616,false,2780,false,1911,0,false,51150,,
+793463420557361153,false,42,false,1911,0,false,51150,,
+793444580742074370,false,4075,false,1911,0,false,51149,,
+793444489503191040,false,595,false,1911,0,false,51149,,
+793442457719414784,false,30,true,1911,0,false,51150,,
+793441016132935680,false,52,true,1911,0,false,51150,,
+794689597821386752,false,116,false,1911,0,false,51150,,
+794348226430181376,false,87,true,1911,0,false,51150,,
+792773392273321984,false,375,false,3,0,false,1327,[{display_url=newpatriotsblog.com/news/the-clint…  indices=[106  129]  expanded_url=http://www.newpatriotsblog.com/news/the-clinton-mezvinksy-connection/  url=https://t.co/hORIWQZD9O}],
+791968507248336896,false,698,false,8,0,false,11295,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[105  128]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[129  137]  text=hillary}]
+794693819136491520,false,56,false,1473,0,false,122128,[{display_url=bit.ly/2fvUHcH  indices=[108  131]  expanded_url=http://bit.ly/2fvUHcH  url=https://t.co/5vblOaZYeK}],
+794766946516553728,false,211,true,307,0,false,262186,,[{indices=[86  100]  text=DrainTheSwamp}][{indices=[101  116]  text=CrookedHillary}][{indices=[117  131]  text=PodestaEmails}]
+794787773857136642,false,1839,false,125,0,false,32746,,
+794787321560305664,false,2797,false,125,0,false,32746,,
+794784763747962880,false,1607,false,125,0,false,32746,,
+794779366651785216,false,3490,false,125,0,false,32746,,
+794778193769230336,false,3000,false,125,0,false,32746,,
+794777351703982080,false,3203,false,125,0,false,32746,,
+794773021596618752,false,537,false,125,0,false,32746,,
+794769560008265728,false,2829,false,125,0,false,32746,,
+794769453754056704,false,692,false,125,0,false,32746,,
+794768356788277248,false,5767,false,125,0,false,32746,,
+794767676845371392,false,1573,false,125,0,false,32746,,
+794802541615874049,false,779,false,125,0,false,32746,,
+794801156421599232,false,11,false,125,0,false,32746,,
+794844517459521536,false,592,false,125,0,false,32746,,
+794842538045804544,false,321,false,125,0,false,32746,,
+794840336384278528,false,343,false,125,0,false,32746,,
+793872203666239488,false,118,false,1911,0,false,51150,,
+793838607786086401,false,1796,false,1911,0,false,51149,,
+793838283348385793,false,6511,false,1911,0,false,51149,,
+793824295516446720,false,1922,false,1911,0,false,51150,,
+793716707432902656,false,1120,false,1911,0,false,51150,,
+793715155037151232,false,51,false,1911,0,false,51150,,
+793633842514964480,false,651,false,1911,0,false,51149,,
+793448191538655232,false,1443,false,1911,0,false,51149,,
+793441502685003776,false,251,false,1911,0,false,51150,,
+793426266850467841,false,230,false,1911,0,false,51150,,
+792279730699378688,false,372,false,0,0,false,null,[{display_url=shar.es/1ImtDW  indices=[67  90]  expanded_url=https://shar.es/1ImtDW  url=https://t.co/aXVFycuSWk}],
+791958499961942016,false,11295,false,8,3,false,null,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[88  111]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[112  120]  text=hillary}][{indices=[121  127]  text=Trump}][{indices=[128  139]  text=TrumpTrain}]
+791989072373899265,false,777,false,8,0,false,11295,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[105  128]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[129  137]  text=hillary}]
+791987156013162496,false,3497,false,8,0,false,11295,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[105  128]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[129  137]  text=hillary}]
+793819655605481476,false,1931,false,0,0,false,null,[{display_url=gulagbound.com/1746/chelsea-c…  indices=[115  138]  expanded_url=http://gulagbound.com/1746/chelsea-clinton-wedding-tents-go-up-at-astor-courts/  url=https://t.co/eQ0ysawYVH}],
+794714671202844672,false,4524,false,1,0,false,4796,[{display_url=breitbart.com/big-journalism…  indices=[102  125]  expanded_url=http://www.breitbart.com/big-journalism/2016/11/02/law-expert-donna-brazile-clinton-campaign-may-committed-federal-crime/  url=https://t.co/JcPl42bkjR}],
+792402579942694920,false,314,false,0,2,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/792402579942694920  url=https://t.co/OWQBwByQwk}],
+794842643100471297,false,59,false,125,0,false,32746,,
+794840646817300480,false,1265,false,125,0,false,32746,,
+794840398606778368,false,21106,false,125,0,false,32746,,
+794837421858889728,false,351,false,125,0,false,32746,,
+794823973796073472,false,211,false,125,0,false,32746,,
+794775446285991936,false,885,false,125,0,false,32746,,
+794774960237674496,false,2274,false,125,0,false,32746,,
+794770307244576768,false,192,false,125,0,false,32746,,
+794765538966654976,false,3601,false,125,0,false,32746,,
+794807191513526272,false,506,false,125,0,false,32746,,
+794796369600974848,false,384,true,125,0,false,32746,,
+794793845707808768,false,28,false,125,0,false,32746,,
+794786786316812288,false,1388,false,125,0,false,32746,,
+794785945279205377,false,3575,false,125,0,false,32746,,
+794785565824712704,false,20444,false,125,0,false,32746,,
+794777527520792576,false,3679,false,125,0,false,32746,,
+793602057227821056,false,167,false,0,0,false,null,,
+793346271062941696,false,987,false,1,0,false,null,[{display_url=punchingbagpost.com/after-massive-…  indices=[115  138]  expanded_url=http://punchingbagpost.com/after-massive-cost-increase-obamacare-architect-says-the-healthcare-system-is-working-as-designed  url=https://t.co/rZv25rPXjM}],
+793277849427992576,false,720,false,6,0,false,1622,[{display_url=bustthebailouts.com/premium-increa…  indices=[122  145]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],[{indices=[16  21]  text=Ohio}][{indices=[32  42]  text=obamacare}][{indices=[73  79]  text=Trump}]
+793096844029026304,false,3390,false,3,0,false,167,,
+793047103132037120,false,88,false,6,0,false,1622,[{display_url=bustthebailouts.com/premium-increa…  indices=[122  145]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],[{indices=[16  21]  text=Ohio}][{indices=[32  42]  text=obamacare}][{indices=[73  79]  text=Trump}]
+792092225270407168,false,81,true,0,0,false,null,,
+792044607248871424,false,5194,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791808904912969728,false,220,false,9,0,false,4696,,
+791766000580513792,false,3734,false,9,0,false,4696,,
+791757884321398787,false,1372,false,27,0,false,17508,,
+791757558142734336,false,88,false,27,0,false,17508,,
+791757023553675264,false,95,true,27,0,false,17508,,
+791756673815830528,false,1820,false,27,0,false,17508,,
+791754884626481156,false,42,true,27,0,false,17508,,
+791754582619623424,false,369,false,27,0,false,17508,,
+791754426641821696,false,894,false,27,0,false,17508,,
+791754116162695168,false,1261,false,27,0,false,17508,,
+791753900030386176,false,17508,false,27,28,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[116  139]  expanded_url=https://twitter.com/i/web/status/791753900030386176  url=https://t.co/GVt3bEZwHr}],
+791722522743934976,false,1245,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+793830251965009921,false,321,true,1911,0,false,51149,,
+793602704492859393,false,8897,false,1911,0,false,51149,,
+793476492743278592,false,1751,false,1911,0,false,51150,,
+793457464662454272,false,560,false,1911,0,false,51150,,
+793448395423842304,false,244,false,1911,0,false,51149,,
+793440422790098945,false,12682,false,1911,0,false,51150,,
+793439251719348224,false,713,false,1911,0,false,51150,,
+793429999608922113,false,44,true,1911,0,false,51150,,
+794435138234904576,false,508,false,1911,0,false,51150,,
+791987877345239041,false,1265,false,8,0,false,11295,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[105  128]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[129  137]  text=hillary}]
+791975351178190848,false,94,false,8,0,false,11295,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[105  128]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[129  137]  text=hillary}]
+793842937264238592,false,424,false,0,0,false,null,[{display_url=twitter.com/Joan_senesh/st…  indices=[93  116]  expanded_url=https://twitter.com/Joan_senesh/status/793842499559186432  url=https://t.co/1zw9lloYmI}],
+794609574519205889,false,279,false,0,0,false,null,[{display_url=youtu.be/AQyghQwWFCLINT…  indices=[76  99]  expanded_url=https://youtu.be/AQyghQwWFCLINTON  url=https://t.co/SVm9K5LsYI}],
+794608195901734912,false,279,false,0,0,false,null,[{display_url=youtu.be/AQyghQwWFUI  indices=[76  99]  expanded_url=https://youtu.be/AQyghQwWFUI  url=https://t.co/4oIJQLxhj6}],
+794726562847490052,false,173,false,307,0,false,262186,,[{indices=[86  100]  text=DrainTheSwamp}][{indices=[101  116]  text=CrookedHillary}][{indices=[117  131]  text=PodestaEmails}]
+794858070212050945,false,7333,false,1473,0,false,122127,[{display_url=bit.ly/2fvUHcH  indices=[108  131]  expanded_url=http://bit.ly/2fvUHcH  url=https://t.co/5vblOaZYeK}],
+794773338019266560,false,1026,false,125,0,false,32746,,
+794772486470639616,false,3677,false,125,0,false,32746,,
+794771696125231104,false,1143,false,125,0,false,32746,,
+794770745717047296,false,287,false,125,0,false,32746,,
+794770729111814146,false,1838,false,125,0,false,32746,,
+794769848697896960,false,1380,false,125,0,false,32746,,
+794768255441313794,false,7848,false,125,0,false,32746,,
+794767559861993472,false,2218,false,125,0,false,32746,,
+794767077726769152,false,768,false,125,0,false,32746,,
+794766422538743808,false,1256,false,125,0,false,32746,,
+794765439683403776,false,964,false,125,0,false,32746,,
+794765003446513664,false,2474,false,125,0,false,32746,,
+794764997964333056,false,745,false,125,0,false,32746,,
+794764342948401154,false,541,false,125,0,false,32746,,
+794764269891907584,false,32746,false,125,95,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[105  128]  expanded_url=https://twitter.com/i/web/status/794764269891907584  url=https://t.co/qSZxgEUJaS}],
+794802841449877505,false,495,false,125,0,false,32746,,
+794798289954766848,false,557,false,125,0,false,32746,,
+794785326698893315,false,165,false,125,0,false,32746,,
+794854752223981569,false,143,false,125,0,false,32746,,
+794854070636920832,false,165,false,125,0,false,32746,,
+794850568602845184,false,414,false,125,0,false,32746,,
+794849189012393984,false,23,true,125,0,false,32746,,
+794840544539049984,false,300,false,125,0,false,32746,,
+794840486842429440,false,1942,false,125,0,false,32746,,
+794840350707896320,false,1009,false,125,0,false,32746,,
+793962886326579200,false,57,false,1911,0,false,51150,,
+793608636840943616,false,2570,false,1911,0,false,51149,,
+793541048551211008,false,2855,false,1911,0,false,51150,,
+793527454556049408,false,643,false,1911,0,false,51150,,
+793503825399283712,false,378,false,1911,0,false,51150,,
+793501295340580864,false,1500,false,1911,0,false,51150,,
+793487188956618752,false,1573,false,1911,0,false,51150,,
+793477526337179648,false,4293,false,1911,0,false,51150,,
+793463562714902528,false,1195,false,1911,0,false,51150,,
+793457944641675265,false,194,false,1911,0,false,51150,,
+793441801621217281,false,1314,false,1911,0,false,51150,,
+793440477563514881,false,2618,false,1911,0,false,51150,,
+793427804171935744,false,213,false,1911,0,false,51150,,
+794752029231116289,false,42607,false,0,0,false,null,[{display_url=breitbart.com/big-journalism…  indices=[91  114]  expanded_url=http://www.breitbart.com/big-journalism/2016/11/02/law-expert-donna-brazile-clinton-campaign-may-committed-federal-crime/  url=https://t.co/dMpKRv4vLr}],
+794665158123593728,false,492,false,307,0,false,262186,,[{indices=[86  100]  text=DrainTheSwamp}][{indices=[101  116]  text=CrookedHillary}][{indices=[117  131]  text=PodestaEmails}]
+791960571050504192,false,1314,false,8,0,false,11295,[{display_url=thegatewaypundit.com/2016/10/north-…  indices=[105  128]  expanded_url=http://www.thegatewaypundit.com/2016/10/north-carolina-hillary-supporter-brags-facebook-voting-multiple-times/  url=https://t.co/RzaHrbBmbK}],[{indices=[129  137]  text=hillary}]
+794601107507073024,false,14,false,0,0,false,null,[{display_url=fb.me/vaNsUo9o  indices=[114  137]  expanded_url=http://fb.me/vaNsUo9o  url=https://t.co/FsVqkRba7W}],
+792820690093080576,false,218,false,0,0,false,null,[{display_url=holykaw.alltop.com/buffalo-arrive…  indices=[57  80]  expanded_url=http://holykaw.alltop.com/buffalo-arrive-native-american-standing-rock-protests?utm_source=dlvr.it&utm_medium=twitter  url=https://t.co/FdiCMLayXR}],[{indices=[81  87]  text=Crime}][{indices=[88  94]  text=Legal}][{indices=[95  99]  text=USA}][{indices=[100  103]  text=US}][{indices=[104  108]  text=Law}][{indices=[109  116]  text=Police}]
+794775181776429057,false,152,false,125,0,false,32746,,
+794772779174334465,false,1960,false,125,0,false,32746,,
+794772676778725376,false,763,false,125,0,false,32746,,
+794771385679773696,false,562,true,125,0,false,32746,,
+794770242392248320,false,1797,false,125,0,false,32746,,
+794769310162059264,false,498,false,125,0,false,32746,,
+794768131046731776,false,2745,false,125,0,false,32746,,
+794765897147654144,false,959,false,125,0,false,32746,,
+794765437120626688,false,87,false,125,0,false,32746,,
+794765336767672321,false,1152,false,125,0,false,32746,,
+794764864522780672,false,3101,false,125,0,false,32746,,
+794841186045300736,false,1922,false,125,0,false,32746,,
+794840537924861952,false,945,false,125,0,false,32746,,
+794811057021784064,false,971,false,125,0,false,32746,,
+794811012457209856,false,533,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[113  136]  expanded_url=https://twitter.com/i/web/status/794811012457209856  url=https://t.co/fL49B6m151}],[{indices=[47  59]  text=DonaldTrump}][{indices=[60  65]  text=rape}][{indices=[66  72]  text=crime}][{indices=[73  80]  text=sexist}][{indices=[81  85]  text=sex}][{indices=[86  97]  text=Republican}][{indices=[98  111]  text=conservative}]
+794789384943964160,false,425,false,125,0,false,32746,,
+794785037816393728,false,1260,false,125,0,false,32746,,
+794784388458381312,false,287,false,125,0,false,32746,,
+794862264855724032,false,1071,false,125,0,false,32746,,
+794861505233747968,false,775,false,125,0,false,32746,,
+794854449038716928,false,1070,false,125,0,false,32746,,
+793531349999157248,false,201,false,0,0,false,null,[{display_url=fb.me/2rfKHHy7H  indices=[112  135]  expanded_url=http://fb.me/2rfKHHy7H  url=https://t.co/Yj7monUD66}],
+793035805069410309,false,10577,false,0,2,false,null,,[{indices=[36  46]  text=Obamacare}]
+792945971697029120,false,3637,false,6,0,false,1622,[{display_url=bustthebailouts.com/premium-increa…  indices=[122  145]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],[{indices=[16  21]  text=Ohio}][{indices=[32  42]  text=obamacare}][{indices=[73  79]  text=Trump}]
+792781781107736576,false,2435,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+792582162838982656,false,80,true,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792536139873849344,false,96,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792523503916290048,true,38659,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792478895035428864,false,2364,false,1,0,false,867,[{display_url=theretirementmanifesto.com/obamacare-is-f…  indices=[112  135]  expanded_url=http://www.theretirementmanifesto.com/obamacare-is-falling-apart/  url=https://t.co/BwPKrz3F7S}],
+792474123045830656,false,867,false,1,0,false,null,[{display_url=theretirementmanifesto.com/obamacare-is-f…  indices=[91  114]  expanded_url=http://www.theretirementmanifesto.com/obamacare-is-falling-apart/  url=https://t.co/BwPKrz3F7S}],
+792400147011428352,false,155,false,108,0,false,124,,[{indices=[128  134]  text=Trump}]
+792194214238883840,false,264,false,2,0,false,867,[{display_url=theretirementmanifesto.com/obamacare-is-f…  indices=[112  135]  expanded_url=http://www.theretirementmanifesto.com/obamacare-is-falling-apart/  url=https://t.co/BwPKrz3F7S}],
+792067348718952448,false,57,false,0,0,false,null,,[{indices=[124  138]  text=FOCUSONISSUES}]
+792041139981340672,false,3406,false,0,0,false,null,,
+791804376104968195,false,97,false,27,0,false,17508,,
+791776946187231233,false,12408,false,9,0,false,4696,,
+791765113669689345,false,128,false,27,0,false,17508,,
+791758535893798912,false,1320,false,27,0,false,17508,,
+791757707019685888,false,29,false,27,0,false,17508,,
+791757004138315777,false,2611,false,27,0,false,17508,,
+791756939831209984,false,30,false,27,0,false,17508,,
+791754974086692865,false,33,false,27,0,false,17508,,
+791754934030966784,false,438,false,27,0,false,17508,,
+791742145862303749,false,381,false,108,0,false,124,,[{indices=[128  134]  text=Trump}]
+791717069985345536,false,20414,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791711704409251840,false,246,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791654072281694208,false,1794,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[110  133]  expanded_url=https://twitter.com/i/web/status/791654072281694208  url=https://t.co/ZA4VPve57U}],[{indices=[81  97]  text=HealthInsurance}]
+793350806208602112,false,35,false,0,0,false,null,,
+793114931776323584,false,34,false,0,0,false,null,[{display_url=ti.me/2dL3Ixj  indices=[123  146]  expanded_url=http://ti.me/2dL3Ixj  url=https://t.co/skwb0CIjVe}],
+793106282131648513,false,562,false,0,0,false,null,,
+793092260258729984,false,1482,false,3,0,false,167,,
+792945890155782144,false,1622,false,6,4,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[108  131]  expanded_url=https://twitter.com/i/web/status/792945890155782144  url=https://t.co/oWqNWSOVaf}],[{indices=[0  5]  text=Ohio}][{indices=[16  26]  text=obamacare}][{indices=[57  63]  text=Trump}]
+792523799648317440,false,282,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792523629330169856,false,607,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792523558731730944,false,299,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792011770529390592,true,4617,false,1,3,false,null,[{display_url=foxnews.com/politics/2016/…  indices=[115  138]  expanded_url=http://www.foxnews.com/politics/2016/10/25/obamacare-fallout-as-premiums-rise-so-does-cost-to-taxpayers.html  url=https://t.co/WwWdBDTl4x}],
+791785714446991360,false,397,false,9,0,false,4696,,
+791778397022199812,false,181,true,27,0,false,17508,,
+791762122724274176,false,4069,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791759460884676609,false,253,false,27,0,false,17508,,
+791756551518322689,false,420,false,27,0,false,17508,,
+791754058184798208,false,2539,false,27,0,false,17508,,
+791703199350525952,false,3744,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791702449371217920,false,4712,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791700781749514240,false,237,false,0,0,false,null,,[{indices=[0  4]  text=rnc}][{indices=[31  41]  text=obamacare}][{indices=[122  138]  text=pocketbooksvote}]
+793588262438899712,false,225,false,0,0,false,null,[{display_url=fb.me/6uQ8x3FBj  indices=[115  138]  expanded_url=http://fb.me/6uQ8x3FBj  url=https://t.co/DqzxnpKA6r}],
+794669540777070592,false,1826,false,1,0,false,1826,,
+794683166372089856,false,269,false,0,0,false,null,[{display_url=ln.is/www.scienceale…  indices=[113  136]  expanded_url=http://ln.is/www.sciencealert.com/oaxhf  url=https://t.co/EiLufS2jKq}],[{indices=[99  112]  text=paleontology}]
+793786851224121345,false,142,false,0,0,false,null,,[{indices=[131  137]  text=TRUMP}]
+793515845293047808,false,123,false,0,0,false,null,,
+793082775960162304,false,1118,false,1,0,false,1622,[{display_url=bustthebailouts.com/premium-increa…  indices=[112  135]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],
+793082603607916545,false,1622,false,1,1,false,null,[{display_url=bustthebailouts.com/premium-increa…  indices=[96  119]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],
+792990611389485056,false,1764,false,6,0,false,1622,[{display_url=bustthebailouts.com/premium-increa…  indices=[122  145]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],[{indices=[16  21]  text=Ohio}][{indices=[32  42]  text=obamacare}][{indices=[73  79]  text=Trump}]
+792528625841139712,false,1109,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[115  138]  expanded_url=https://twitter.com/i/web/status/792528625841139712  url=https://t.co/H1gBbuNwcn}],
+792166283378880512,false,867,false,2,1,false,null,[{display_url=theretirementmanifesto.com/obamacare-is-f…  indices=[91  114]  expanded_url=http://www.theretirementmanifesto.com/obamacare-is-falling-apart/  url=https://t.co/BwPKrz3F7S}],
+792022259074494464,false,1783,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792019410777178112,false,250,false,1,0,false,4617,,
+792005138714099712,false,260,false,9,0,false,4696,,
+791963419041632256,false,107,false,27,0,false,17508,,
+791823152473137152,false,510,false,0,1,false,null,[{display_url=twitter.com/asamjulian/sta…  indices=[117  140]  expanded_url=https://twitter.com/asamjulian/status/791816248132763649  url=https://t.co/CMA22qHgb1}],
+791822530294284288,false,11,false,108,0,false,124,,[{indices=[128  134]  text=Trump}]
+791766717370368000,false,1111,false,9,0,false,4696,,
+791762198976720897,false,18285,false,0,3,false,null,,[{indices=[114  119]  text=jobs}][{indices=[120  128]  text=econ101}]
+791755790482681856,false,3184,false,27,0,false,17508,,
+791754894176874496,false,467,false,27,0,false,17508,,
+791753955315507200,false,771,false,27,0,false,17508,,
+791753617619427328,false,1983,false,108,0,false,124,,[{indices=[128  134]  text=Trump}]
+791718654421323777,false,2708,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+792027635845070848,false,433,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+791793108098830336,false,236,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791780737980764160,false,9,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791778922111328258,false,1152,false,9,0,false,4696,,
+791767049441652736,false,4545,false,9,0,false,4696,,
+791765866090291200,false,7010,false,9,0,false,4696,,
+791761691960893441,false,1252,false,0,2,false,null,,
+791761660704763904,false,121,false,27,0,false,17508,,
+791756954393686016,false,827,true,27,0,false,17508,,
+791754175004770309,false,1815,false,27,0,false,17508,,
+791718463698010112,false,8474,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791711969501810688,false,206,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791709962502283264,false,859,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791709525665603585,false,21629,false,235,0,false,158582,,[{indices=[43  53]  text=obamacare}]
+791677016663814144,false,3705,false,0,1,false,null,,[{indices=[0  16]  text=HealthInsurance}][{indices=[23  34]  text=HealthCare}][{indices=[81  91]  text=Obamacare}]
+793493981183242241,false,259,false,0,0,false,null,,[{indices=[85  95]  text=Obamacare}][{indices=[100  108]  text=Hillary}]
+793476890421964803,false,688,false,0,2,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[116  139]  expanded_url=https://twitter.com/i/web/status/793476890421964803  url=https://t.co/c9aA08VxPO}],
+793092170852896773,false,4882,false,3,0,false,167,,
+793077684188352513,false,167,true,3,2,false,null,,
+792966898585600000,false,265,false,6,0,false,1622,[{display_url=bustthebailouts.com/premium-increa…  indices=[122  145]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],[{indices=[16  21]  text=Ohio}][{indices=[32  42]  text=obamacare}][{indices=[73  79]  text=Trump}]
+792946277256278016,false,108,false,6,0,false,1622,[{display_url=bustthebailouts.com/premium-increa…  indices=[122  145]  expanded_url=http://bustthebailouts.com/premium-increase-tracker-map/map-embed/  url=https://t.co/epSw3m55rS}],[{indices=[16  21]  text=Ohio}][{indices=[32  42]  text=obamacare}][{indices=[73  79]  text=Trump}]
+792525583854870529,false,105,false,9,0,false,38659,,[{indices=[18  28]  text=Tennessee}][{indices=[29  39]  text=Obamacare}]
+792343440398946304,false,346,false,2,0,false,867,[{display_url=theretirementmanifesto.com/obamacare-is-f…  indices=[112  135]  expanded_url=http://www.theretirementmanifesto.com/obamacare-is-falling-apart/  url=https://t.co/BwPKrz3F7S}],
+792104574140112896,false,59,false,1,0,false,428,,[{indices=[103  113]  text=ObamaCare}]
+793620478237761536,false,5264,false,0,2,false,null,,
+793614488914112512,false,0,true,0,0,false,null,,
+793816751716859908,false,1486,false,0,1,false,null,,
+792783539368370178,false,26870,false,1,3,false,null,[{display_url=boston.cbslocal.com/2016/10/28/mil…  indices=[117  140]  expanded_url=http://boston.cbslocal.com/2016/10/28/millbury-police-officer-wife-report-robbery-home/amp/  url=https://t.co/qkXJaYQ25G}],[{indices=[69  73]  text=BLM}]
+792967456595648512,false,2482,false,13,0,false,7820,,
+794814081731592192,false,1,false,0,0,false,null,,
+794738513316982784,false,524,false,0,0,false,null,[{display_url=twitter.com/i/web/status/7…  indices=[117  140]  expanded_url=https://twitter.com/i/web/status/794738513316982784  url=https://t.co/pWPp7oC7XU}],
+794669833614934016,false,1067,false,6,0,false,1496,,
+794669498041331713,false,1826,false,1,1,false,null,,
+794666427466780676,false,43566,false,6,0,false,1496,,
+794176795264155648,false,132,false,0,0,false,null,[{display_url=fb.me/2OMTyDK4g  indices=[108  131]  expanded_url=http://fb.me/2OMTyDK4g  url=https://t.co/yOCi6sQCW2}],
+793403679802068992,false,1370,false,0,0,false,null,,[{indices=[122  131]  text=Benghazi}]
+794670900788494336,false,410,false,6,0,false,1496,,
+792533636390133760,false,164,false,0,2,false,null,,
+793812086426001409,false,89,false,0,1,false,null,[{display_url=christiantimesnewspaper.com/sources-nypd-l…  indices=[93  116]  expanded_url=http://christiantimesnewspaper.com/sources-nypd-looking-to-press-charges-against-bill-clinton-for-underage-sex-ring/  url=https://t.co/JUByxR1Jbr}],
+792789572342001664,false,42,false,1,0,false,26870,,[{indices=[86  90]  text=BLM}]
+793190445992013824,false,3215,false,0,0,false,null,,[{indices=[48  54]  text=Obama}]
+794668144094683136,false,29,false,6,0,false,1496,,
+794667494552178688,false,3117,false,6,0,false,1496,,
+794666572862267392,false,599,false,6,0,false,1496,,
+794853185118728192,false,15750,false,0,1,false,null,[{display_url=ln.is/www.patheos.co…  indices=[116  139]  expanded_url=http://ln.is/www.patheos.com/blog/Juw27  url=https://t.co/hUueLdARoW}],[{indices=[4  11]  text=Church}][{indices=[20  26]  text=Crown}]
