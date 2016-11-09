@@ -3,7 +3,7 @@ import os
 
 content_list = []
 count=0
-for content in os.listdir("C:\Users\Himalini\Documents\MS\IR_DM\project\\basic_features\\all_rumors"): # "." means current directory
+for content in os.listdir("C:\Users\\basic_features\\all_rumors"):
     content_list.append(content)
 
 #print len(content_list)
@@ -11,7 +11,7 @@ for content in os.listdir("C:\Users\Himalini\Documents\MS\IR_DM\project\\basic_f
 for i in range(0, len(content_list)):
 	#print i
 	#print content_list[i]
-	input_file = open("C:\Users\Himalini\Documents\MS\IR_DM\project\\basic_features\\all_rumors\\"+content_list[i], 'r').read().split('\n')
+	input_file = open("C:\Users\\basic_features\\all_rumors"+content_list[i], 'r').read().split('\n')
 	#print len(file[0])
 	#print input_file[2]
 
