@@ -3,7 +3,7 @@ import os
 
 content_list = []
 count=0
-for content in os.listdir("C:\Users\Himalini\Documents\MS\IR_DM\project\\basic_features\\all_rumors"): # "." means current directory
+for content in os.listdir("C:\Users\\basic_features\\all_rumors"):
     content_list.append(content)
 
 #print len(content_list)
@@ -11,7 +11,7 @@ for content in os.listdir("C:\Users\Himalini\Documents\MS\IR_DM\project\\basic_f
 for i in range(0, len(content_list)):
 	#print i
 	#print content_list[i]
-	input_file = open("C:\Users\Himalini\Documents\MS\IR_DM\project\\basic_features\\all_rumors\\"+content_list[i], 'r').read().split('\n')
+	input_file = open("C:\Users\\basic_features\\all_rumors"+content_list[i], 'r').read().split('\n')
 	#print len(file[0])
 	#print input_file[2]
 
@@ -23,6 +23,7 @@ for i in range(0, len(content_list)):
 
 	#extract keyword from input_file
 	keyword = input_file[0].replace(",","")
+	print keyword
 
 	main_tweet_followers_count = [0 for i in range(2, total_number_of_tweets + 2)] 
 	retweet_followers_count = [0 for i in range(2, total_number_of_tweets + 2)] 
@@ -47,7 +48,7 @@ for i in range(0, len(content_list)):
 	for i in range(2, total_number_of_tweets + 2):
 		
 		tweet = input_file[i].split(',')
-
+		
 		# 0: id, 
 		# 1: verified,
 		# 2: followers_count, 
@@ -59,13 +60,15 @@ for i in range(0, len(content_list)):
 		# -: hashtags, //missing in file
 		# 8: urls
 		verified = tweet[1]
+
 		followers = int(tweet[2])
-		main_tweet_followers = followers + 100 # replace with actual followers!!!
 		default_profile_image = tweet[3]
 		retweeted = int(tweet[4])
 		favourites = int(tweet[5])
-		#retweeted_bool = tweet[6]
-		#hashtag = tweet[7]
+		main_tweet_followers = tweet[7] 
+		#print main_tweet_followers
+
+		hashtag = tweet[9]
 		url = tweet[8]
 
 		if verified == "true":
@@ -73,9 +76,9 @@ for i in range(0, len(content_list)):
 
 		if followers != "null": 
 			followers_count = followers_count + followers
-			if followers > 0 and main_tweet_followers != "null":
-				ratio_of_retweet_to_mainTweet = float(followers)/main_tweet_followers
-				if(ratio_of_retweet_to_mainTweet > 3):
+			if followers >= 1000 and main_tweet_followers != "null" and int(main_tweet_followers) != 0 :
+				ratio_of_retweet_to_mainTweet = float(followers)/int(main_tweet_followers)
+				if(ratio_of_retweet_to_mainTweet > 2):
 					count = count + 1	
 
 		if default_profile_image == "true":
@@ -87,31 +90,26 @@ for i in range(0, len(content_list)):
 		if favourites != "null":
 			favourites_count = favourites_count + favourites
 
-		#if retweeted_bool == "true":
-		#	retweeted_bool_count = retweeted_bool_count + 1
-
-		# if hashtag != "[]" and url != "" and url != " ":
-		# 	 hashtag_count = len(str(hashtag).split('{')) - 1
+		if hashtag != "[]" and url != "" and url != " ":
+		 	 hashtag_count = hashtag_count + (len(str(hashtag).split('{')) - 1)
 
 		if url != "[]" and url != "" and url != " ":
 			if url[0:3] == "[{d":
 				url_count = url_count + (len(str(url).split('{')) - 1)
 			
 
-	verified_ratio = float(verified_count) / total_number_of_tweets
-	followers_ratio = float(followers_count) / total_number_of_tweets
-	default_profile_image_ratio = float(default_profile_image_count )/ total_number_of_tweets
-	retweeted_ratio = float(retweeted_count) / total_number_of_tweets
-	favourite_ratio = float(favourites_count) / total_number_of_tweets
-	#retweeted_bool_ratio = float(retweeted_bool_count) / total_number_of_tweets
-	#hashtag_ratio = float(hashtag_count) / total_number_of_tweets
-	url_ratio = float(url_count) / total_number_of_tweets
-	low_to_high_ratio = float(count) / total_number_of_tweets
+	verified_ratio = round((float(verified_count) / total_number_of_tweets),4)
+	followers_ratio = round((float(followers_count) / total_number_of_tweets),4)
+	default_profile_image_ratio = round((float(default_profile_image_count )/ total_number_of_tweets),4)
+	retweeted_ratio = round((float(retweeted_count) / total_number_of_tweets),4)
+	favourite_ratio = round((float(favourites_count) / total_number_of_tweets),4)
+	hashtag_ratio = round((float(hashtag_count) / total_number_of_tweets),4)
+	url_ratio = round((float(url_count) / total_number_of_tweets),4)
+	low_to_high_ratio = round((float(count) / total_number_of_tweets),4)
 
-	# add hashtag_ratio back when present!!!
-	features = [str(keyword), verified_ratio, followers_ratio, default_profile_image_ratio, retweeted_ratio, favourite_ratio, url_ratio, low_to_high_ratio]
-	print(str(features).replace("[","").replace("]","").replace("\'","")+"\n")
+	features = [str(keyword), verified_ratio, followers_ratio, default_profile_image_ratio, retweeted_ratio, favourite_ratio, hashtag_ratio, url_ratio, low_to_high_ratio]
+#	print(str(features).replace("[","").replace("]","").replace("\'","")+"\n")
 
 	f = open("Basicfeatures_output_file.txt", "a")
 	f.write(str(features).replace("[","").replace("]","").replace("\'","")+"\n")
-	f.close() 
+	f.close()

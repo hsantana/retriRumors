@@ -5,7 +5,7 @@ import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 
 #Making current path in operating system
-os.chdir('/Users/vishalnayanshi/rumorvenv/RumorAnalytics/elasticconnector-Advanced')
+os.chdir('/Users/vishalnayanshi/Sentiment/')
 
 def profanitychecker(para):
     sentense = word_tokenize(para)
@@ -23,8 +23,5 @@ def profanitychecker(para):
                 if i == row[0]:
                     # print i, row[1]
                     if row[1] == 'Vulgar':
-                        Rating = 'negative'                 
+                        Rating = 'vulgar'                 
     return Rating
-
-# # For Testing Pusposes
-# print profanitychecker('You had best unfuck yourself and start shitting me Tiffany cufflinks or I will definitely fuck you up')
