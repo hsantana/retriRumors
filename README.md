@@ -1,6 +1,5 @@
 # retriRumors
-Information Retrieval project for TUE by Group 3.
-Name E-mail Student ID
+Information Retrieval project for TUE by Group 3 by ---
 Hugo Santana santanahugo752@gmail.com 
 Vishal Chouksey v.k.chouksey@student.tue.nl 
 János Szedelényi j.szedelenyi@student.tue.nl 
