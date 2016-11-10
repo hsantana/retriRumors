@@ -1,5 +1,12 @@
 # retriRumors
-Information Retrieval project for TUE.
+Information Retrieval project for TUE by Group 3.
+Name E-mail Student ID
+Hugo Santana santanahugo752@gmail.com 
+Vishal Chouksey v.k.chouksey@student.tue.nl 
+János Szedelényi j.szedelenyi@student.tue.nl 
+Aditya Bhadoria adityavsb@gmail.com 
+Massimiliano Russo m.russo@student.tue.nl 
+Himalini Aklecha h.aklecha@student.tue.nl 
 
 DataSets can be found on these links:
 
